@@ -1,0 +1,2 @@
+# ensure that admin interface url has a trailing slash
+/admin /admin/ 301
