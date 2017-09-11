@@ -10,7 +10,7 @@ header:
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association France, BETA France for short, is a politically independent and non-profit association to support the organisation of European politics simulations in France."
+excerpt: "Bringing Europeans Together Association Italy, BETA Italy for short, is a politically independent and non-profit association to support the organisation of European politics simulations in Italy."
 intro: 
   - excerpt: 
     |
