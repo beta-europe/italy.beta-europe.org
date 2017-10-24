@@ -5,7 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-beta-jekyll
+minimal_mistakes_skin : "beta"
 
 # Site Settings
 locale                   : "en"
@@ -176,7 +177,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /news/page:num/
 timezone: "Europe/Paris" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -235,6 +236,21 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+# Collections
+collections:
+  conferences:
+    title: Conferences
+    output: false
+    permalink: "/conference/:path/"
+  partners:
+    title: Partners
+    output: true
+    permalink: "/partner/:path/"
+  teams:
+    title: Teams
+    output: true
+    permalink: "/team/:path/"
 
 
 # Defaults
@@ -247,7 +263,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      share: true
+      related: true
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
       share: true
       related: true
   # _pages
@@ -257,3 +278,35 @@ defaults:
     values:
       layout: single
       author_profile: true
+      #sidebar:
+        #- title: BETA Europe
+          #image: "/assets/images/beta-logo-180-transparent.png"
+          #image_alt: Logo of BETA Europe
+          #text: Bringing Europeans Together Association
+      share: true
+      edit: true
+      comments: false
+  # _partners
+  - scope:
+      path: ''
+      type: partners
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _teams
+  - scope:
+      path: ''
+      type: teams
+    values:
+      layout: team_page
+      author_profile: false
+      comments: false
+      share: true
+      edit: false
+      related: false
+      sidebar:
+        nav: teams

@@ -10,7 +10,7 @@ header:
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association Italy, BETA Italy for short, is a politically independent and non-profit association to support the organisation of European politics simulations in Italy."
+excerpt: "Bringing Europeans Together Association France, BETA France for short, is a politically independent and non-profit association to support the organisation of European politics simulations in France."
 intro: 
   - excerpt: 
     |
@@ -67,3 +67,12 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
+
+<div class="layout--splash__recent--posts">
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
+</div>
