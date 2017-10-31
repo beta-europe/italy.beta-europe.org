@@ -1,9 +1,10 @@
 ---
 title: 'Contact '
-modified: 2017-10-31T00:00:00+01:00
-excerpt: 'https://italy.beta-europe.org/contact'
+modified: 2017-10-30T23:00:00.000Z
+excerpt: Become a member of BETA Italia
 header:
   credit: ''
+  image: /assets/images/italia europea glaf.jpg
 ---
 ## Become a Member
 
