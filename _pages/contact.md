@@ -1,7 +1,7 @@
 ---
 title: 'Contact '
 modified: 2017-10-31T18:04:13.539Z
-excerpt: Become a member of BETA Italia!
+excerpt: 'https://italy.beta-europe.org/contact'
 ---
 ## Become a Member
 
