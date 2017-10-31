@@ -4,7 +4,7 @@ modified: 2017-10-30T23:00:00.000Z
 excerpt: Become a member of BETA Italia
 header:
   credit: ''
-  image: /assets/images/italia europea glaf.jpg
+  image: /assets/images/Italian-EU-Flag.webp
 ---
 ## Become a Member
 
