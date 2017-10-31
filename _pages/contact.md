@@ -5,7 +5,7 @@ excerpt: Become a member of BETA Italia
 ---
 ## Become a Member
 
-Do you want to join BETA Italia? Fill out this[form](https://docs.google.com/forms/d/1-_dcYP7MLFtXu9f2e0LXj1pdAtZzENQggnWfMe6RkJU/prefill)and become a member of our association! We will contact you as soon as possible to discuss the terms.
+Do you want to join BETA Italia? Fill out this [form](https://docs.google.com/forms/d/1-_dcYP7MLFtXu9f2e0LXj1pdAtZzENQggnWfMe6RkJU/prefill) and become a member of our association! We will contact you as soon as possible to discuss the terms.
 
 If you have any enquires do not hesitate to contact us at our email address**contact@italy.beta-europe.org**
 
