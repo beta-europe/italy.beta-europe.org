@@ -7,7 +7,7 @@ excerpt: Become a member of BETA Italia
 
 Do you want to join BETA Italia? Fill out this [form](https://docs.google.com/forms/d/1-_dcYP7MLFtXu9f2e0LXj1pdAtZzENQggnWfMe6RkJU/prefill) and become a member of our association! We will contact you as soon as possible to discuss the terms.
 
-If you have any enquires do not hesitate to write us: <contact@italy.beta-europe.org>
+If you have any enquires do not hesitate to write us: <mailto:contact@italy.beta-europe.org>
 
 ## Get Engaged
 
@@ -15,6 +15,18 @@ BETA Italia organises several MEU across the country. If you want to organise on
 
 ## Become a partner
 
-If your association shares our values and our goals and you want to become our partner, all you have to do is contact us at <contact@italy.beta-europe.org>
+If your association shares our values and our goals and you want to become our partner, all you have to do is contact us at <mailto:contact@italy.beta-europe.org>
 
 We welcome new partners and we are more than glad to cooperate with many other associations aimed at bringing Europeans together!
+
+
+
+## Follow us on our Social Media
+
+
+
+![BETA Italia](/assets/images/icona_facebook.png)
+
+![BETA Italia](/assets/images/ico_twitter.png)
+
+![undefined](/assets/images/instagram.jpg)
