@@ -18,15 +18,3 @@ BETA Italia organises several MEU across the country. If you want to organise on
 If your association shares our values and our goals and you want to become our partner, all you have to do is contact us at <mailto:contact@italy.beta-europe.org>
 
 We welcome new partners and we are more than glad to cooperate with many other associations aimed at bringing Europeans together!
-
-
-
-## Follow us on our Social Media
-
-
-
-![BETA Italia](/assets/images/icona_facebook.png)
-
-![BETA Italia](/assets/images/ico_twitter.png)
-
-![undefined](/assets/images/instagram.jpg)
