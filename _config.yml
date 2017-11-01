@@ -83,20 +83,20 @@ author:
   name             : "BETA Italia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Italian chapter of Bringing Europeans Together Association e.V."
-  location         :
-  email            : contact@italy.beta-europe.org
+  location         : "Italy"
+  email            : "contact@italy.beta-europe.org"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :https://www.facebook.com/betaitaly/
+  facebook         :"https://www.facebook.com/betaitaly/"
   foursquare       :
   github           : "orgs/beta-europe/teams/beta-italy/members"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :https://www.instagram.com/betaitalia/
+  instagram        :"https://www.instagram.com/betaitalia/"
   lastfm           :
   linkedin         :
   pinterest        :
