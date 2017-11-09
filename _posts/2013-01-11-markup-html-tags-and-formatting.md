@@ -1,222 +1,45 @@
 ---
-title: "Markup: HTML Tags and Formatting"
-header:
-  teaser: "markup-syntax-highlighting-teaser.jpg"
+title: VeUMEU – Dal Parlamento di Strasburgo alle Università di Venezia
+date: 2017-12-09T00:00:00+01:00
+excerpt: VeUMEU – Dal Parlamento di Strasburgo alle Università di Venezia
 categories:
   - Markup
 tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
+  - ''
+comments: true
+read_time: true
+related: true
+share: true
+published: true
+source: true
+header: {}
 ---
 
-A variety of common markup showing how the theme styles them.
+Aprile 2016. Un gruppo di ragazzi italiani si incontrarono per la prima volta a Strasburgo, nel cuore del Parlamento Europeo durante il Model European Union (MEU). Per quanto potessero sembrare diversi a causa dei differenti percorsi di studio e scelte, fu proprio questo ad unirli insieme ad un obiettivo comune: portare l’Unione Europea in Italia, far conoscere l’essenza dell’Europa e cosa significa essere cittadino europeo.
 
-# Header one
+Sono svariate le occasioni in cui sentiamo i termini “Unione Europea”, “cittadinanza”, “integrazione”, tuttavia in pochi sanno dare una definizione a queste parole; diventano parte del linguaggio quotidiano a tal punto da dimenticare il profondo significato, e non si sa più cosa vuol dire essere cittadini europei.
 
-## Header two
+È da questo gruppo di ragazzi incontratisi che si voleva ripartire con l’educazione alla cittadinanza: questo fu uno dei motivi della fondazione della branca BETA Italia.
 
-### Header three
+Venice Universities Model European Union (VeUMEU) è stato il frutto di un incontro tra studenti giovani, associazioni, università e comune di Venezia, nel pieno spirito della cooperazione. Il territorio fertile di Venezia grazie alla nascente associazione Venice Diplomatic Society, che con successo aveva portato a termine la prima simulazione delle Nazioni Unite (VeUMUN), divenne una scelta naturale da dove partire.
 
-#### Header four
+Nonostante una simulazione duri pochi giorni, il lavoro dietro alle quinte è paragonabile a quello di una piece teatrale: si sviluppa un copione, lo si studia, si scelgono gli attori per le diverse parti e insieme iniziano le prove per garantire agli spettatori una rappresentazione di prima qualità. Il MEU è un palco, dove tuttavia chi si mette alla prova per primo sono gli spettatori-partecipanti: saranno loro a rendere completo lo spettacolo. Per questo motivo il lavoro organizzativo partì da giugno 2016, per rendere l’esperienza più formativa possibile.
 
-##### Header five
 
-###### Header six
+Una parola chiave è il successo della simulazione: team. È stato un team di associazioni, BETA Italia e Venice Diplomatic Society, a creare un gruppo di giovani studenti preparato appositamente per le simulazioni europee, ed è da qui che si vedono i primi effetti del MEU.
 
-## Blockquotes
+Con la formazione garantita dalle eccezionali skills in materia europea di BETA Italia abbiamo assistito alla crescita di un team formato su ogni aspetto delle Camere europee, della Commissione e sui loro processi che portano alla formazione di nuove direttive. Oltre a ciò si è sviluppato un know-how approfondito sui temi centrali della simulazione veneziana: pari opportunità ed energie rinnovabili. La conoscenza a 360° dei temi è essenziale per poter essere un punto di riferimento nei confronti dei partecipanti. Attraverso formazione, incontri e qualche uscita per alleggerire la fatica del duro lavoro, è nata l’eccellenza e, soprattutto, un gruppo di amici.
 
-Single line blockquote:
+I momenti cruciali per vedere se tale lavoro era stato portato a compimento è iniziato con i workshop in previsione della simulazione. Tra paure e perfezionismo, ogni membro della squadra ha dimostrato il suo expertise, insegnando a loro volta le basi del VeUMEU e come partecipare dando il meglio di sè.
 
-> Stay hungry. Stay foolish.
+Un anno di lavoro per 3 giornate importanti e frenetiche, notti insonni durante la simulazione tra risate e aggiustamenti alla preparazione dei giorni successivi. Il segreto di una buona organizzazione è stato questo: la squadra MEU era andata oltre i confini dell’organizzatore standard, erano prima di tutto amici in grado di aiutarsi reciprocamente in ogni difficoltà, e riuscivano sempre a trovare un momento di brio per poter ridere insieme prima e durante la simulazione.
 
-Multi line blockquote with a cite reference:
+Come Director General il mio compito era essere ovunque. Il ruolo di leader ha il compito di formare e assistere, essere sempre presente in caso di bisogno e chiarimenti, stare un passo indietro ai Chair delle camere e sapere quando fare un passo avanti per poterli assistere. Ho visto la crescita di tutto il team, ho visto la sicurezza nella voce dei Chair e lo sguardo fermo di chi sa cosa sta facendo e ne ha il totale controllo, l’attenzione ai particolari dei giornalisti e la disinvoltura dei partecipanti che prendevano sempre più piede nel palco della simulazione. La soddisfazione più grande è stata vedere come il mio stesso ruolo era replicato nei confronti dei partecipanti.
 
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+È un ruolo particolare quello dell’organizzatore: sa ogni movimento, dettaglio e tema, deve insegnare ai partecipanti come muoversi ma deve restare nell’ombra, aspettare che siano i partecipanti a capire come intervenire, anche sbagliando. Un organizzatore deve sapere quando intervenire per aiutare e quando lasciare che una persona superi l’ostacolo da solo. È un progresso per ogni parte partecipante al MEU che si imbatte in questo ambiente.
 
-<cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
-{: .small}
+Ed è stato questo ciò a cui ho assistito, dal primo giorno incerto dei partecipanti, presi dalla timidezza e dall’abituarsi al loro nuovo ruolo, ai seguenti dove non c’era più posto per studenti, ma solo per ministri e parlamentari che combattevano per le loro posizioni, negoziavano per trovare accordi, e giornalisti che correvano da una sala all’altra alla ricerca di uno scoop o di un’intervista per ottenere un articolo unico.
 
-## Tables
+Alla chiusura del VeUMEU davanti a me c’erano studenti, consapevoli di All VeUMEU e consci del funzionamento di essa, e organizzatori sicuri capaci di guidare chi aveva bisogno.
 
-| Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="#" class="btn--success">Success Button</a>
-```
-
-[Primary Button](#){: .btn}
-[Success Button](#){: .btn .btn--success}
-[Warning Button](#){: .btn .btn--warning}
-[Danger Button](#){: .btn .btn--danger}
-[Info Button](#){: .btn .btn--info}
-[Inverse Button](#){: .btn .btn--inverse}
-[Light Outline Button](#){: .btn .btn--light-outline}
-
-```markdown
-[Primary Button Text](#link){: .btn}
-[Success Button Text](#link){: .btn .btn--success}
-[Warning Button Text](#link){: .btn .btn--warning}
-[Danger Button Text](#link){: .btn .btn--danger}
-[Info Button Text](#link){: .btn .btn--info}
-[Inverse Button](#link){: .btn .btn--inverse}
-[Light Outline Button](#link){: .btn .btn--light-outline}
-```
-
-[X-Large Button](#){: .btn .btn--x-large}
-[Large Button](#){: .btn .btn--large}
-[Default Button](#){: .btn}
-[Small Button](#){: .btn .btn--small}
-
-```markdown
-[X-Large Button](#link){: .btn .btn--x-large}
-[Large Button](#link){: .btn .btn--large}
-[Default Button](#link){: .btn}
-[Small Button](#link){: .btn .btn--small}
-```
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://apple.com "Apple").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-	and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+Da parte mia ho imparato il vero significato di leadership: è anch’esso un processo di crescita personale e di guida di altri che prenderanno il tuo ruolo e proveranno le stesse emozioni. D’altronde è questo l’obiettivo finale di tutte le simulazioni: crescita.
