@@ -3,7 +3,10 @@ title: >-
   “Insegnare la cittadinanza europea”: il nuovo progetto di BETA Italia nelle
   scuole
 date: 2017-11-09T19:42:31.743Z
-excerpt: Insegnare la cittadinanza europea
+excerpt: >-
+  Siamo orgogliosi di annunciare che il progetto “insegnare la cittadinanza
+  europea” è finalmente pronto a partire ed essere inserito nel programma
+  scolastico 2017/2018 di numerose scuole superiori!
 comments: true
 read_time: true
 related: true
