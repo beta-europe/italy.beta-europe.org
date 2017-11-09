@@ -1,5 +1,5 @@
 ---
-title: Dal Parlamento di Strasburgo all'Università di Venezia
+title: VeuMEU - Dal Parlamento di Strasburgo all'Università di Venezia
 date: 2017-11-09T20:43:21.980Z
 excerpt: >-
   Aprile 2016. Un gruppo di ragazzi italiani si incontrarono per la prima volta
