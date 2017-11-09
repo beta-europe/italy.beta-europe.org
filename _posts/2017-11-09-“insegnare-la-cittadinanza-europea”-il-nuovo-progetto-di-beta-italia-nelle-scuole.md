@@ -12,6 +12,8 @@ published: true
 source: true
 layout: single
 ---
+![undefined](/assets/images/beta italia in school.jpg)
+
 Siamo orgogliosi di annunciare che il progetto “insegnare la cittadinanza europea” è finalmente pronto a partire ed essere inserito nel programma scolastico 2017/2018 di numerose scuole superiori!
 
 In un anno di attività, Beta Italia ha raggiunto diversi successi, quali la realizzazione di due simulazioni europee alla Ca’ Foscari di Venezia e alla Sapienza di Roma, oltre al progetto in cantiere di Milan MEU. Con il lancio del progetto “Insegnare la cittadinanza europea”, Beta Italia chiude il suo primo anno di attività portando per la prima volta un’attività innovativa targata Beta nell’ambiente delle scuole superiori.
