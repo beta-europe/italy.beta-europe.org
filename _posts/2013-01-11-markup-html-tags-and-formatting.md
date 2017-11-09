@@ -1,6 +1,6 @@
 ---
 title: VeUMEU – Dal Parlamento di Strasburgo alle Università di Venezia
-date: 2017-12-09T00:00:00+01:00
+date: 2017-12-08T23:00:00.000Z
 excerpt: VeUMEU – Dal Parlamento di Strasburgo alle Università di Venezia
 categories:
   - Markup
@@ -12,7 +12,8 @@ related: true
 share: true
 published: true
 source: true
-header: {}
+header:
+  image: /assets/images/all-veumeu.jpg
 ---
 
 Aprile 2016. Un gruppo di ragazzi italiani si incontrarono per la prima volta a Strasburgo, nel cuore del Parlamento Europeo durante il Model European Union (MEU). Per quanto potessero sembrare diversi a causa dei differenti percorsi di studio e scelte, fu proprio questo ad unirli insieme ad un obiettivo comune: portare l’Unione Europea in Italia, far conoscere l’essenza dell’Europa e cosa significa essere cittadino europeo.
@@ -43,3 +44,4 @@ Ed è stato questo ciò a cui ho assistito, dal primo giorno incerto dei parteci
 Alla chiusura del VeUMEU davanti a me c’erano studenti, consapevoli di All VeUMEU e consci del funzionamento di essa, e organizzatori sicuri capaci di guidare chi aveva bisogno.
 
 Da parte mia ho imparato il vero significato di leadership: è anch’esso un processo di crescita personale e di guida di altri che prenderanno il tuo ruolo e proveranno le stesse emozioni. D’altronde è questo l’obiettivo finale di tutte le simulazioni: crescita.
+
