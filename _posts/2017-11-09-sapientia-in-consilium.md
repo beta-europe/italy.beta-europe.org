@@ -1,7 +1,7 @@
 ---
 title: 'Sapientia in Consilium '
-date: 2017-11-09T00:00:00+01:00
-excerpt: Sapientia in Consilium
+date: 2017-11-08T23:00:00.000Z
+excerpt: 'Sapientia in Consilium: MEU in Rome organised by BETA Italia'
 comments: true
 read_time: true
 related: true
