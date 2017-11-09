@@ -1,5 +1,5 @@
 ---
-slug: '?'
+slug: associazione-giovani-nel-mondo
 title: Associazione Giovani nel mondo
 website: 'http://www.internationalcareersfestival.org/registration.asp'
 mail: info@giovaninelmondo.org info@internationalcareersfestival.org
