@@ -2,6 +2,15 @@
 slug: Our Country? Europe
 title: Our Country? Europe
 website: 'http://mycountryeurope.com/'
+excerpt: >-
+  e want to foster a common sense of belonging to a wider European identity. We
+  do not want to pigeonhole European federalist discourse into a predetermined
+  ideological set, and believe unbiased information makes for the best decision
+  making. Eventually, thanks to the wonderful community we interact with
+  everyday, as well as our efforts, the page turned into a positive,
+  informative, friendly federalist platform. This website is the next step.
+  Content that is not particularly suitable to social media, such as articles
+  and essays, will appear here, and there will be more to come down the line.
 country: Europe
 header:
   image: /assets/images/mycountryeurope logo.png
