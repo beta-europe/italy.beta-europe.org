@@ -2,6 +2,7 @@
 slug: Our Country? Europe
 title: Our Country? Europe
 website: 'http://mycountryeurope.com/'
+twitter: mycountryeurope
 mail: info@mycountryeurope.com
 excerpt: >-
   We want to foster a common sense of belonging to a wider European identity. We
