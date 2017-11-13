@@ -2,6 +2,7 @@
 title: 'Europe in schools for the Europeans of tomorrow '
 date: 2017-11-13T20:23:09.135Z
 excerpt: 'Event in Montebelluna: teaching the European Parliament to High School'
+categories: ''
 comments: true
 read_time: true
 related: true
