@@ -16,4 +16,7 @@ main:
     url: /partner/
 
   - title: Alpha-Beta
-    url: /alpha-beta/
+    url: /alpha-beta/ 
+    
+  - title: Alpha-Beta
+    url: /projects/
