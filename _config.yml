@@ -12,8 +12,8 @@ minimal_mistakes_skin : "beta"
 locale                   : "en"
 title                    : "BETA Italia"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Italian chapter of Bringing Europeans Together Association e.V."
+name                     : "BETA Italia"
+description              : "Italian chapter of Bringing Europeans Together Association"
 url                      : "https://italy.beta-europe.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "beta-europe/italy.beta-europe.org" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        : "betaitalia"
   lastfm           :
-  linkedin         : 
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -236,7 +236,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 # Collections
 collections:
   conferences:

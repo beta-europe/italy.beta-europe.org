@@ -10,64 +10,46 @@ header:
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association France, BETA France for short, is a politically independent and non-profit association to support the organisation of European politics simulations in France."
-intro: 
-  - excerpt: 
-    |
-      To foster a European identity and consciousness based on plurality, tolerance and cooperation between individuals, as well as strengthening the European civil society by further developing democratic processes on the national and international levels. To establish sustainable administrative structures that ensure the success of the [Model European Union (MEU) event in Strasbourg](http://www.meu-strasbourg.org) and other similar events.
+excerpt: "Bringing Europeans Together Association Italia (BETA Italia) is a politically independent and non-profit association to support the organisation of European politics simulations in Italy."
 
-feature_columns:
-  - image_path: assets/images/slide-2.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/slide-3.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/slide-1.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-feature_row3:
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-feature_row4:
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+intro_01:
+  - title: Our Association
+    image_path: /assets/images/beta-logo-600.png
+    alt: "Logo of BETA Italia"
+    excerpt:
+    |
+      The Bringing Europeans Together Association Italia (BETA Italia) is a young, politically independent and non-profit association founded in late 2016 by 7 young Europeans in Rome. BETA Italia now counts more than 40 members all across Italy and beyond.
+    url: "/contact/"
+    btn_label: "People behind BETA Italia"
+    btn_class: "btn--primary"
+intro_02:
+  - title: Our Mission
+    image_path: /assets/images/AG tutti.jpg
+    alt: "Group Photo BETA Italia"
+    excerpt:
+    |
+      Our mission is to contribute to the development of a European consciousness among the youth and to spread knowledge and awareness about how the European Union works and what does it mean to be a European citizen.
+    url: "/about/"
+    btn_label: "About Us"
+    btn_class: "btn--primary"
+intro_03:
+  - title: Our Work
+    image_path: /assets/images/all-veumeu.jpg
+    alt: "VeUMEU Group photo"
+    excerpt:
+    |
+      In order to achieve its goals, BETA Italia organises 3 different MEUs in Italy: Sapientia in Consilium (Rome), VeUMEU (Venice) and MiMEU (Milan). In addition we offer a project called “Insegnare la cittadinanza europea”, whose aim is to discuss the EU with high school students.
+    _url: "/calendar/"
+    _btn_label: "Conference Calendar"
+    _btn_class: "btn--primary"
+
 ---
 
-{% include feature_row id="intro"  type="center" %}
+{% include feature_row id="intro_01" type="left" %}
 
+{% include feature_row id="intro_02" type="right" %}
 
-{% include feature_row id="feature_columns" %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
-
+{% include feature_row id="intro_03" type="left" %}
 
 <div class="layout--splash__recent--posts">
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
