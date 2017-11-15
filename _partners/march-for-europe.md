@@ -2,7 +2,9 @@
 slug: March for Europe
 title: March for Europe
 website: 'http://www.marchforeurope2017.eu'
-country: Europe
+country: Italy
+town: Rome
+geo: '41.8988,12.5451'
 header:
   teaser: /assets/images/march for europe.png
 ---
