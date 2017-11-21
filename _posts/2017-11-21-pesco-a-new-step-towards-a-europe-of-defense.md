@@ -29,13 +29,11 @@ The failure of the ECD led to the creation of the **Western European Union** (WE
 
 Thanks to the** Treaty of Lisbon** (2007), the project for the establishment of “PeSCo” was officially put on the EU agenda. Following an informal meeting in Bratislava in 2016, the European Ministers of Foreign Affairs reached an agreement for the application of Articles 42 (6) and 46. On September 2017, EU Member States prepared a list of common objectives within the main areas included in Protocol 10, and  signed the **notification letter** on November 13th for the implementation stage.
 
-The uncertainty left by the post-Brexit period, the instability of the European neighborhood, the spread of Islamic terrorism towards Europe, the long economic and financial crisis affecting recent years, the unreliability of the new **Trump **Administration concerning transatlantic cooperation contributed to leading most of EU countries to catch this important train to strengthen  Europe’s  “strategic independence” from the **United States**, as well as the process of political integration. A Europe which have always been marked by periods of rise and fall, and continues to prove that is capable of adapting to major crises, as much as committed to take charge of its own destiny, within a historic crossroads – as in the present-day EU – full of challenges and uncertainties ahead.
+The uncertainty left by the post-Brexit period, the instability of the European neighborhood, the spread of Islamic terrorism towards Europe, the long economic and financial crisis affecting recent years, the unreliability of the new **Trump **administration concerning transatlantic cooperation contributed to leading most of EU countries to catch this important train to strengthen  Europe’s  “strategic independence” from the **United States**, as well as the process of political integration. A Europe which have always been marked by periods of rise and fall, and continues to prove that is capable of adapting to major crises, as much as committed to take charge of its own destiny, within a historic crossroads – as in the present-day EU – full of challenges and uncertainties ahead.
 
 A **Europe of Defense** certainly far from what Spinelli and De Gasperi expected to achieve in the 1950s, but which now, after 60 years, could actually be constructed due to substantial diplomatic efforts undertaken by an Italian woman: **Federica Mogherini**.
 
 by Leonardo Brambilla
-
-
 
 ## PeSCo”, nuovo passo verso un’Europa della Difesa
 
