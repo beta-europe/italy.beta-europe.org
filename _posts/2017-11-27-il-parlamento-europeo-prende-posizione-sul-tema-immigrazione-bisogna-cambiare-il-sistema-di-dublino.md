@@ -24,10 +24,6 @@ La lista non finisce qui, ma da questi esempi risulta evidente come il PE abbia 
 
 Di Marco Gerbaudo
 
-
-
-
-
 ## The European Parliament takes a strong stance on the asylum system: it’s time to reform the Dublin system!
 
 Since the beginning of the so-called “refugees’ crisis” of summer 2015, the management of the arrival of migrants on the European soil has been a hot topic debated by media, NGOs and general public. However, among this variegate chorus of opinions, there was a big absent: The European political leadership. Even if the crisis was clearly involving the whole Europe and it demanded a European solution, the EU showed to be unable to contrast the national isolationistic actions of many member States, failing to propose common and realistic solutions.
@@ -44,16 +40,13 @@ The list is not finished at all, but these few examples show how the EP has fina
 
 by Marco Gerbaudo 
 
-
-
-
-
-**Approfondimenti: **
+**Fonti e Approfondimenti: **
 
 * UNHCR,_ 2015, l’anno della crisi dei rifugiati in Europa:_ <https://www.unhcr.it/news/2015-lanno-della-crisi-dei-rifugiati-in-europa.html>
 * Francesco Tuccari, _La crisi migratoria in Europa, _Zanichelli: <http://aulalettere.scuola.zanichelli.it/storia-di-oggi/la-crisi-migratoria-in-europa-ottobre-2015/> 
 * Open migration, _La crisi dei rifugiati del 2015 in 2 grafici: _<http://openmigration.org/analisi/la-crisi-dei-rifugiati-del-2015-in-2-grafici/> 
 * Steve Peers (tradotto), _L’accordo finale tra EU e Turchia: un’analisi legale,_ Melting Pot: <http://www.meltingpot.org/L-accordo-finale-tra-EU-e-Turchia-un-analisi-legale.html#.WhxX6UribIV> 
-* EC, 4/05/16, _Verso un sistema europeo comune di asilo equo e sostenibile: _<http://europa.eu/rapid/press-release_IP-16-1620_it.htm> 
+* EC, 4/05/16, _Verso un sistema europeo comune di asilo equo e sostenibile
+  : _<http://europa.eu/rapid/press-release_IP-16-1620_it.htm> 
 * La proposta della commissione: <http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1511609441823&uri=CELEX:52016PC0270(01)>
 * I dati della votazione: <http://www.votewatch.eu/en/term8-establishing-the-criteria-and-mechanisms-for-determining-the-member-state-responsible-for-examining-.html#/%23%23vote-tabs-list-4>
