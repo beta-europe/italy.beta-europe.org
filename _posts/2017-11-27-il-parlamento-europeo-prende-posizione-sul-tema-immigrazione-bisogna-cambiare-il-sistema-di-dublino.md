@@ -1,0 +1,59 @@
+---
+title: >-
+  Il Parlamento Europeo prende posizione sul tema immigrazione: bisogna cambiare
+  il sistema di Dublino!
+date: 2017-11-27T18:08:13.195Z
+excerpt: The reform of the Dublin system
+comments: true
+read_time: true
+related: true
+share: true
+published: true
+source: true
+layout: single
+---
+Sin dall’inizio della “crisi dei rifugiati” nell’estate del 2015, il problema della gestione di ingenti flussi migratori sul suolo europeo è stato sulla bocca di tutti: media, ONG, opinione pubblica. Grande assente nel confuso coro di opinioni, era la voce della classe politica europea. Nonostante fosse evidente che la crisi interessasse tutta l’Europa, e che di conseguenza richiedesse una soluzione a livello europeo, l’Unione Europea (UE) si è dimostrata incapace di contrastare le spinte isolazionistiche di molti paesi europei e di proporre azioni realistiche e comuni.
+
+Il grande afflusso di migranti, per lo più richiedenti asilo di origine siriana, che ha interessato principalmente le coste greche e italiane, ha messo in luce tutte le criticità del cosiddetto “Sistema di Dublino”. Questo sistema costituisce il corpus normativo che si occupa della ripartizione di responsabilità fra Stati Membri circa la gestione e valutazione delle domande di asilo. Il criterio adottato per individuare lo Stato Membro responsabile è quello del “Primo paese di arrivo” del richiedente: a doversi occupare dell’analisi della domanda di asilo è lo Stato Membro in cui il richiedente è per primo arrivato.  Questo criterio pone un peso e una responsabilità insostenibili sulle spalle dei Paesi più colpiti dalla crisi migratoria, Italia e Grecia. Di conseguenza, nel 2015 il sistema così disegnato collassa, aggravando la crisi piuttosto che alleviandola.
+
+Dopo un periodo di immobilismo, seguito da una fase di accordi vaghi e dalla dubbia legalità (uno su tutti, l’accordo UE-Turchia), l’UE ha finalmente iniziato a dare segni di reazione, nello specifico grazie alla coraggiosa presa di posizione del Parlamento Europeo (PE). Il 16 novembre, il PE ha approvato in prima lettura e a larga maggioranza, composta da socialdemocratici, verdi, sinistra unitaria, fino ai popolari e ai liberali un regolamento di profonda riforma del Sistema di Dublino. Il testo approvato si basa su una proposta legislativa della Commissione Europea (COM/2016/0270) formulata nel settembre del 2016 e introducente un “Sistema Quote” come metodo per risolvere la crisi dei rifugiati. Tuttavia, il PE ha proposto una serie di emendamenti che cambiano radicalmente il Sistema di Dublino e vanno ben oltre le misure proposte dalla Commissione.
+
+La proposta emendata dal PE ha come maggior pregio quello di introdurre un sistema permanente ed automatico di rilocazione, eliminando il criterio del Primo Paese di arrivo. I nuovi criteri per stabilire lo Stato membro responsabile si basano sull’esistenza di legami (soggiorni precedenti, diplomi e qualifiche) tra questo e il richiedente, così da favorire l’inserimento sociale. Una maggiore rilevanza viene riservata alle situazioni di ricongiungimento familiare, per cui è prevista una procedura accelerata per permettere al richiedente di raggiungere i suoi familiari (la cui nozione è stata parzialmente allargata) nello Stato Membro in cui si trovano, rendendo quest’’ultimo responsabile della gestione della domanda di protezione internazionale. Nel caso in cui nessuno di questi criteri sia soddisfatto si attiva il sistema di ricollocamento: al posto di designare automaticamente come responsabile lo Stato di primo arrivo, viene concesso al richiedente di scegliere tra quattro Stati membri, che al momento della sua domanda sono i più lontani dal raggiungimento della loro quota. La quota in questione consiste nel numero di richiedenti asilo che ogni Stato Membro può ospitare, calcolato in base a PIL e popolazione. Gli Stati Membri, secondo la proposta del PE, sarebbero obbligati ad ospitare la quota di richiedenti asilo assegnatagli, pena la riduzione dei fondi strutturali ricevuti dall’UE. Questa misura è stata pensata specificamente per risolvere l’opposizione assoluta del cosiddetto gruppo di Visegrad (Polonia, Repubblica Ceca, Slovacchia e Ungheria), che da sempre rifiuta di partecipare a qualsiasi meccanismo di solidarietà nella gestione dei flussi migratori. Gli emendamenti proposti sono molti, e si estendono a diversi ambiti: dall’aumento delle garanzie procedurali e agli obblighi di informativa, assieme alla accresciuta tutela dei minori non accompagnati, fino all’introduzione di un sistema di “Sponsorship” grazie al quale le ONG possano, rispettando alcuni criteri, prendersi carico di un richiedente fino a che sia esaminata la sua domanda. 
+
+La lista non finisce qui, ma da questi esempi risulta evidente come il PE abbia finalmente preso una posizione, proponendo un sistema coraggioso ma pragmatico, in grado di dare una soluzione duratura alla crisi dei rifugiati, rispettando al contempo i diritti dei richiedenti asilo. Tuttavia, non è ancora tempo di festeggiare: il percorso di riforma non è che appena iniziato! Il testo passa ora al vaglio del Consiglio, che notoriamente ha posizioni molto più dure e chiuse in ambito di immigrazione, avendo in mente la tutela degli interessi nazionali. Non ci resta quindi che seguire con attenzione il procedimento legislativo appena iniziato, nella speranza che i leader europei prendano coscienza dell’urgente bisogno di cambiamento nella gestione comunitaria dei flussi migratori, così come ha fatto il PE il 16 novembre. 
+
+Di Marco Gerbaudo
+
+
+
+
+
+## The European Parliament takes a strong stance on the asylum system: it’s time to reform the Dublin system!
+
+Since the beginning of the so-called “refugees’ crisis” of summer 2015, the management of the arrival of migrants on the European soil has been a hot topic debated by media, NGOs and general public. However, among this variegate chorus of opinions, there was a big absent: The European political leadership. Even if the crisis was clearly involving the whole Europe and it demanded a European solution, the EU showed to be unable to contrast the national isolationistic actions of many member States, failing to propose common and realistic solutions.
+
+The high number of migrants, mainly asylum seekers coming from Syria, that reached the Italian and Greek coasts has showed the weaknesses of the “Dublin System”. This System is composed by the European laws regulating the assessment of the Member States responsible to host and evaluated the asylum application of an asylum seeker. The main criterion introduced by the Dublin System is the “first country of arrival”: the first Member State reached by the asylum seeker is the one considered responsible to host him. As the refugees’ crisis demonstrated, this criterion puts an unreasonable burden on the shoulders of the Stated mostly affected by the crisis, namely Greece and Italy. For this reason, in 2015 the Dublin System collapsed, worsening the crisis instead of healing it.
+
+After a period of paralysis, followed by vague and possibly illegal agreements with Third Countries (e.g. the EU-Turkish agreement), the EU has finally started to react, thanks to a brave stance taken by the European Parliament (EP). On November 16th, the EP has approved (first reading) by a large majority, composed by S&D, Greens, GUE/NGL, ALDE and EPP, a radical reform of the Dublin System. The text approved is based on a Commission proposal (COM/2016/0270) dating September 2016 and introducing a “Quota System”. However, the EP has proposed a number of amendments that goes far beyond the Commission proposal.
+
+The main feature of the EP proposal is the introduction of a permanent and automatic system of allocation, substituting the “first county of arrival” criterion. The new criteria on assessing the responsible Member State are based on the bonds (such as previous stays, education, etc.) between the State and the asylum seeker, with the aim to welcome the social inclusion of the applicant. Family reunification gains more relevance: the proposal introduces a special, faster procedure to allow the reunion of the applicant with his/her family (whose definition has been partially extended) in the Member States in which the family is hosted, making that Member State responsible for managing the asylum application. In case none of the criteria is applicable, the reallocation system enters in action. Instead of assessing the first country of arrival as automatically responsible, the proposal gives the chance to the asylum seeker to choose among the four Member States with the lowest number of asylum seekers hosted, according to their quota. This quota consists in the number of asylum seekers that each Member States can host, calculated taking into consideration GDP and population. Member States, according to the proposal, would be obliged to host the quota of asylum seekers: if they don’t, the EU structural funds reserved to them will be reduced. This measure has been introduced in order to overcome the strong opposition of the “Visegrad group” (Poland, Czech Republic, Slovakia, Hungary), that has always been unwilling to participate to any solidarity mechanism regarding the management of migratory movements. 
+
+The amendments proposed are many, referring to different topics: On one side, the procedural guarantees and information provided are increased, together with a greater protection of unaccompanied minors; on the other side, a “Sponsorship” system is introduced, allowing NGOs, under certain circumstances, to take care of an asylum seeker until his/her application has been examined. 
+
+The list is not finished at all, but these few examples show how the EP has finally taken a strong stance on migration. The system proposed is bold but pragmatic, as it could give a permanent solution to the refugees’ crisis, ensuring on the same page the respect of asylum seekers’ rights. However, it is not the moment to celebrate yet! The legislative procedure has only begun, as the text now has to pass through the Council, which has a tougher and less open position on migration issues, bearing in mind the national interests of the Member States. What we can all do is to carefully follow the debate that has just started, hoping that the European leaders will understand and support the urgent need to reform the way the EU tackle migration issues, as the EP has done on November 16th. 
+
+by Marco Gerbaudo 
+
+
+
+
+
+**Approfondimenti: **
+
+* UNHCR,_ 2015, l’anno della crisi dei rifugiati in Europa:_ <https://www.unhcr.it/news/2015-lanno-della-crisi-dei-rifugiati-in-europa.html>
+* Francesco Tuccari, _La crisi migratoria in Europa, _Zanichelli: <http://aulalettere.scuola.zanichelli.it/storia-di-oggi/la-crisi-migratoria-in-europa-ottobre-2015/> 
+* Open migration, _La crisi dei rifugiati del 2015 in 2 grafici: _<http://openmigration.org/analisi/la-crisi-dei-rifugiati-del-2015-in-2-grafici/> 
+* Steve Peers (tradotto), _L’accordo finale tra EU e Turchia: un’analisi legale,_ Melting Pot: <http://www.meltingpot.org/L-accordo-finale-tra-EU-e-Turchia-un-analisi-legale.html#.WhxX6UribIV> 
+* EC, 4/05/16, _Verso un sistema europeo comune di asilo equo e sostenibile: _<http://europa.eu/rapid/press-release_IP-16-1620_it.htm> 
+* La proposta della commissione: <http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1511609441823&uri=CELEX:52016PC0270(01)>
+* I dati della votazione: <http://www.votewatch.eu/en/term8-establishing-the-criteria-and-mechanisms-for-determining-the-member-state-responsible-for-examining-.html#/%23%23vote-tabs-list-4>
