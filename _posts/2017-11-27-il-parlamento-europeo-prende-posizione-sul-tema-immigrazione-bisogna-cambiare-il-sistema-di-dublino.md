@@ -46,7 +46,6 @@ by Marco Gerbaudo
 * Francesco Tuccari, _La crisi migratoria in Europa, _Zanichelli: <http://aulalettere.scuola.zanichelli.it/storia-di-oggi/la-crisi-migratoria-in-europa-ottobre-2015/> 
 * Open migration, _La crisi dei rifugiati del 2015 in 2 grafici: _<http://openmigration.org/analisi/la-crisi-dei-rifugiati-del-2015-in-2-grafici/> 
 * Steve Peers (tradotto), _L’accordo finale tra EU e Turchia: un’analisi legale,_ Melting Pot: <http://www.meltingpot.org/L-accordo-finale-tra-EU-e-Turchia-un-analisi-legale.html#.WhxX6UribIV> 
-* EC, 4/05/16, _Verso un sistema europeo comune di asilo equo e sostenibile
-  : _<http://europa.eu/rapid/press-release_IP-16-1620_it.htm> 
+* EC, 4/05/16, _Verso un sistema europeo comune di asilo equo e sostenibile_: <http://europa.eu/rapid/press-release_IP-16-1620_it.htm>
 * La proposta della commissione: <http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1511609441823&uri=CELEX:52016PC0270(01)>
 * I dati della votazione: <http://www.votewatch.eu/en/term8-establishing-the-criteria-and-mechanisms-for-determining-the-member-state-responsible-for-examining-.html#/%23%23vote-tabs-list-4>
