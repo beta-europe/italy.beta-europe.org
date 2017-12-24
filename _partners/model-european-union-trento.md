@@ -3,9 +3,13 @@ slug: MEUT
 title: 'Model European Union Trento '
 website: meutrentoblog.wordpress.com
 mail: model.eu.tn@gmail.com
+country: Italy
 town: Trento
+location: ''
+geo: '46.0651,11.0227'
 header:
-  image: /assets/images/MEU Trento.png
+  image: ''
+  teaser: /assets/images/MEU Trento.png
 ---
 <!--StartFragment-->
 
