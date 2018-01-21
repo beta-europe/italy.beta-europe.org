@@ -1,6 +1,8 @@
 ---
 title: 'Topics of #MiMEU2018 are out!'
-excerpt: topics-mimeu
+excerpt: >-
+  Here you are the topics of the first open MEU in Italy organised by BETA
+  Italia
 date: '2018-01-21 10:59:48'
 comments: true
 share: true
