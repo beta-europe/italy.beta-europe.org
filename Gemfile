@@ -1,4 +1,3 @@
-ruby "2.4.2"
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -19,4 +18,3 @@ gem "minimal-mistakes-beta-jekyll", "4.8.0.4", :git => "https://github.com/beta-
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
