@@ -10,7 +10,8 @@ header:
   image: ''
   teaser: ''
 ---
-**Description**
+**Description
+**
 
 Milan MEU is a project of BETA-Italia, the aim of which is to recreate a simulation of the decision making process of the European Union (ordinary legislative procedure) in a unique learning-by-doing experience. It will be the first simulation of its kind in Italy.
 
@@ -22,23 +23,21 @@ You may choose from the following roles:
 
 \-	Journalist
 
-
-
 **Topics **to be discussed at Milan MEU 2018:
 
 \-	GMO
 
 \-	Empowering National Competition Authorities
 
-
-
-**Fees **
+**Fees 
+**
 
 The participation at Milan MEU is FREE of charge for all participants
 
 However, a deposit fee of 32€ will be required to secure participation. 30€ of the deposit will be refunded to you after the simulation, conditional on your attendance, whereas 2€ will be non-refundable due to bank charges. Detailed information and deadlines for payment will be sent with the acceptance email to the selected participants.
 
-**Social events **
+**Social events 
+**
 
 Milan MEU 2018 will be enriched with all kinds of social events.
 
@@ -48,7 +47,8 @@ There will be a different social event every night. Participants are free to cho
 
 In order to secure your participation to the social events a 20€ fee is required (it will be possible to pay it together with the 32 € deposit fee)
 
-**Accommodation**
+**Accommodation
+**
 
 Milan MEU will provide accommodation in shared rooms in a hostel for 45 participants. 
 
@@ -58,14 +58,8 @@ We will also provide a list of hostels with good deals for all the other candida
 
 Thank you for understanding.
 
-
-
 **Full agenda** of the simulation will be sent to selected participants closer to the date of the conference.
-
-
 
 To apply: <https://goo.gl/forms/BXOMQJ4T45KJjECu1>
 
 Deadline: 19th March, 23.59 CET
-
-Read carefully: <https://drive.google.com/file/d/11ZXZB3KmgNYsQcVNYQ5QWxUbrEwW7zwd/view?usp=sharing>
