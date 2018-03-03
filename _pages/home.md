@@ -33,6 +33,16 @@ intro_02:
     btn_label: "About Us"
     btn_class: "btn--primary"
 intro_03:
+  - title: Model European Union Milan
+    image_path: /assets/images/23559677_1915987315317244_992415497384255975_n.png
+    alt: "MEU 2018"
+    excerpt:
+    |
+      The first international MEU ever organised in Italy will be in Milan from the 23rd to 27th of May! Apply until the 19th of March!
+    url: "/2018/02/27/milan-meu-2018-call-for-participants/"
+    btn_label: "MEU 2018"
+    btn_class: "btn--primary"
+intro_04:
   - title: Our Work
     image_path: /assets/images/all-veumeu.jpg
     alt: "VeUMEU Group photo"
@@ -42,7 +52,6 @@ intro_03:
     _url: "/calendar/"
     _btn_label: "Conference Calendar"
     _btn_class: "btn--primary"
-
 ---
 
 {% include feature_row id="intro_01" type="left" %}
@@ -50,6 +59,8 @@ intro_03:
 {% include feature_row id="intro_02" type="right" %}
 
 {% include feature_row id="intro_03" type="left" %}
+
+{% include feature_row id="intro_04" type="right" %}
 
 <div class="layout--splash__recent--posts">
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
