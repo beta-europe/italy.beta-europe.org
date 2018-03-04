@@ -2,14 +2,14 @@
 title: Milan MEU 2018 - Call for Participants
 excerpt: Milan MEU 2018 - Call for Participants
 date: '2018-02-27 06:19:52'
+toc: true
 comments: true
 share: true
 published: true
 edit: true
-toc: true
 header:
-  image: /assets/images/26233061_1940116116237697_3372055288643493249_o.jpg
-  teaser: /assets/images/26233061_1940116116237697_3372055288643493249_o.jpg
+  image: /assets/images/28472135_1965656677016974_7968727446400282659_n.jpg
+  teaser: /assets/images/28472135_1965656677016974_7968727446400282659_n.jpg
 ---
 
 ## Description
