@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/28472135_1965656677016974_7968727446400282659_n.jpg
+  image: /assets/images/piazza-gae-aulenti-milano-e1480532164738.png
   teaser: /assets/images/28472135_1965656677016974_7968727446400282659_n.jpg
 ---
 
