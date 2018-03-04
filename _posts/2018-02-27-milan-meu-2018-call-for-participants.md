@@ -7,7 +7,6 @@ share: true
 published: true
 edit: true
 header:
-  image: ''
   teaser: /assets/images/26233061_1940116116237697_3372055288643493249_o.jpg
 ---
 **Description**
