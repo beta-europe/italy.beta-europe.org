@@ -8,19 +8,14 @@ share: true
 published: true
 edit: true
 header:
-  teaser: /assets/images/xz0d1fopvlgkeqxbfmhn.jpeg
+  image: /assets/images/xz0d1fopvlgkeqxbfmhn.jpeg
+  teaser: ''
 ---
-'Populists in power' was a simulation game that we played at my school, the Hertie School of Governance in Berlin, during our Welcome Week this year. Now, a few months later, that game turned into reality in my country, Italy.  The outcome of last March elections showed indeed that the first party is the 'Five Star Movement', which has often been branded as 'populist'. 
+'Populists in power' was a simulation game that we played at my school, the Hertie School of Governance in Berlin, during our Welcome Week this year. Now, a few months later, that game turned into reality in my country, Italy.  The outcome of last March elections showed indeed that the first party is the 'Five Star Movement', which has often been branded as 'populist'. 
 
 The curious thing about this movement is that it is an exception of Italian politics, since the real far-right populists, who also triumphed in this elections, belong actually to Salvini's 'League', which is member of the Europe of Nations and Freedom Group (ENF) in the European Parliament and shares the same values (and around the same share of votes) as 'Alternative fuer Deutschland' in Germany. 
 
 So why do we have two so-called 'populists' parties in Italy when the rest of Europe limits itself to just one of these 'bad guys' in their Parliaments? Moreover, is it right to consider the 'Five Star Movement' populist even if, apparently, they do not seem to fit any specific category, not even the 'populists' one? We are going to analyse Italy's nowadays peculiar situation starting from the country's also peculiar political past. 
-
-
-
-![](/assets/images/download.jpeg)
-
-
 
 To answer our questions, we need to go back in time to when somebody - who is still relevant today after 20 years - was starting to make his first moves as a politician and look for the reasons that led him enter politics. It was January 26th, 1994 when Silvio Berlusconi announced that he was ready to run in the upcoming elections with a brand-new party - 'Forza Italia' - because he could not let those 'responsible for the political and economic failures of the country'  (Repubblica, 2004) lead the country. Berlusconi was then pointing at the previous politicians, the ones from the 'First Republic', who were found - at least the great majority of them - heavily corrupted during the biggest bribes scandal in the Italian democratic history so far, 1992's 'Tangentopoli'.
 
@@ -29,8 +24,6 @@ Berlusconi's words in 1994 were so innovative and powerful that during this 2018
 The problem with Di Maio and Berlusconi's always captivating and revolutionary statements is that the Italian democratic system has been developed in the Constitution as more a Republic of the Parties than a Republic of the Citizens. When, after the war, Italy and Germany both faced the transition to democracy, in Italy the main feature was to promote pluralism after the years of dictatorship, but this eventually resulted in a parties-led democracy, a 'Partitocracy'. At the same time, in Germany the US helped the development of a solid and efficient democratic system, despite not successfully promoting pluralism since smaller parties cannot enter the Bundestag (there is a minimum threshold of 5% to gain seats in the Lower House of the German Parliament, notably missed by the Liberals in the 2013 federal elections). 
 
 In a 'Partitocracy', the political parties, rather than the citizens, dominate the political scene and this cannot be changed by any politician's bold statement, but only by ending the abuse of power of the parties in Italy, perhaps with stricter norms in the Constitutions. 
-
-
 
 Finding a solution to 'Partitocracy' in Italy, however, is not our duty, our aim being "simply" to shed light on the reasons why in in this country there are two populist parties, a far-right one, the 'League' (formerly known as Northern League, but then turned from a regionalist party to a nationalist one), and one beyond the usual ideological schemes, the 'Five Star Movement'. The answer to that is that there are not two populists movement in Italy as of today, but just one, the 'League', it being a xenophobic, anti-Europe party that fits perfectly in the European political scenario. The movement led by Di Maio is instead simply a reaction, the symptom of how 'Partitocracy' is a real problem - otherwise it would not be possible that every time a new party or movement decides to run in the elections it wins the competition by simply blaming the corruption of the predecessors yet not bringing any new idea on the table. 
 
@@ -42,15 +35,9 @@ In 1994, indeed, many politicians of the 'First Republic' dominated by parties a
 
  I wouldn't be shocked if in a few years a new party will accuse the Movement of corruption and take over the power, once again, because this is how our system will work until we will fix it.
 
-
-
-![](/assets/images/1517912317_000_dv1412251.jpg)
-
-
+![null](/assets/images/1517912317_000_dv1412251.jpg)
 
 Article by our member Elena Bascone
-
-
 
 Sources:
 
