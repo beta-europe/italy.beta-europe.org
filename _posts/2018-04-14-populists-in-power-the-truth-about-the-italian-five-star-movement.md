@@ -7,6 +7,8 @@ comments: false
 share: true
 published: true
 edit: true
+header:
+  teaser: /assets/images/xz0d1fopvlgkeqxbfmhn.jpeg
 ---
 'Populists in power' was a simulation game that we played at my school, the Hertie School of Governance in Berlin, during our Welcome Week this year. Now, a few months later, that game turned into reality in my country, Italy.  The outcome of last March elections showed indeed that the first party is the 'Five Star Movement', which has often been branded as 'populist'. 
 
