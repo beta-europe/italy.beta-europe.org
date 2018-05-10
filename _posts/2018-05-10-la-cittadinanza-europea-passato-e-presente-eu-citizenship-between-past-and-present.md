@@ -14,73 +14,41 @@ Il 31 Agosto 2017, l'associazione BETA Italia ha annunciato il progetto "Insegna
 
 Il 2 Dicembre 2017, si è svolta la prima lezione formativa ufficiale sul significato storico e contemporaneo della cittadinanza europea e dei diritti politici da essa garantiti. La lezione si è svolta in concomitanza con un evento organizzato da ESN Pisa dedicato alla commemorazione dei 30 anni del progetto Erasmus, presso la Stazione Leopolda della città della torre pendente.  A partire da Gennaio 2018, l'associazione ha tenuto altre lezioni simili all'interno di varie scuole medie e superiori della città di Trento e della Provincia di Torino (Savigliano), portando avanti un progetto ambizioso ed in continua evoluzione. 
 
-
-
 Questo articolo intende affrontare un tema cruciale come quello della cittadinanza dell'Unione, troppo spesso oggetto di facile demonizzazione e vittima di una limitata consapevolezza civica ed istituzionale. L'articolo si concentra sul passato e il presente della cittadinanza europea, nell'intento di riportare alla luce il valore, non solo simbolico, di un istituto giuridico fondamentale per il progressivo sviluppo materiale e spirituale del progetto europeo e della costruzione di un'Europa dei cittadini.
 
 L'istituzione della cittadinanza europea si colloca all'interno di un percorso storico le cui radici risalgono al Trattato di Roma (1957), il quale nel preambolo cita testualmente la volontà di "porre le fondamenta di un'unione sempre più stretta fra i popoli europei". Un percorso orbitante attorno ad uno dei diritti fondamentali garantiti dallo status di cittadino europeo: la libera circolazione delle persone. 
 
-
-
 Dal 1957 fino agli anni '90, le istituzioni europee interpretano gli individui non come cittadini ma come lavoratori (subordinati, autonomi e prestatori di servizi). Il Trattato di Roma istituisce la Comunità Economica Europea, con l'obiettivo di instaurare gradualmente un mercato comune europeo - uno spazio senza frontiere interne, nel quale sia assicurata la libera circolazione delle merci, delle persone, dei servizi e dei capitali. In questo frangente storico, l'individuo viene interpretato come un elemento costitutivo del mercato interno ed è soggetto alla libera circolazione nella misura in cui sia il lavoratore sia la libera circolazione sono funzionali alla crescita del mercato stesso. La libera circolazione è quindi garantita ai soli "operatori economici" o c.d. "cittadini economicamente attivi".
 
-
-
-![](/assets/images/schuman-declaration.jpeg)
-
-
+![null](/assets/images/schuman-declaration.jpeg)
 
 Nel corso degli anni '60, la libera circolazione viene estesa anche ai familiari del lavoratore, seppur non esercenti attività lavorativa. L'estensione in termini di diritti garantiti è notevole, ma incompleta. Infatti, i familiari sono "beneficiari di classe B" (il coniuge, i discendenti minori di anni 21 o a carico e gli ascendenti a carico): il godimento della libertà è condizionato dal rapporto col lavoratore, poiché in assenza di quest'ultimo non è possibile procedere allo spostamento ed i familiari sono vincolati a trasferirsi dove si stabilisce il lavoratore.
 
-
-
 Negli anni '70 vengono proposti diversi progetti volti ad istituire una cittadinanza comunitaria. Tale decennio sancisce ufficialmente la nascita di una spinta politica e sociale propulsiva (trainata dai movimenti sociali e di protesta del '68) che ha portato i principali leader europei a delineare gradualmente uno spirito comune europeo. Un'identità europea venutasi ad affermare soprattutto grazie alla Conferenza dell'Aja del 1969 e alla successiva azione congiunta della leadership trilaterale di Moro, Pompidou e Heath. Pochi anni dopo, durante il vertice europeo di Parigi del 1972, il governo italiano avanza per la prima volta la proposta esplicita di istituzione di una cittadinanza europea, ma senza successo, dimostrando quindi sì una prima volontà di cambiamento, ma ancora anacronistica per il tempo (sarà infatti ripresa solo nel 1974, con un nuovo vertice di Parigi in occasione del quale si delinea la possibilità di riconoscere diritti speciali ai cittadini degli Stati membri in quanto membri della Comunità. Parallelamente alla nascita graduale di un'Europa dei cittadini, l'elezione a suffragio universale diretto del Parlamento europeo del 1979 rappresenta la tappa più tangibile dell'emergere di una cittadinanza comune in questi anni - una legittimazione democratica delle istituzioni europee mediante l'elezione diretta dei parlamentari europei.
-
-
 
 Nel corso degli anni '80, vengono poste le basi per estendere la libertà di circolazione. Le istituzioni europee iniziano ad occuparsi di questioni che vanno oltre la sola valenza economica dell'individuo. Gli accordi di Schengen del giungo 1985 - che anticipano gli obiettivi dell'Atto unico - rappresentano un passo importante verso il completamento del mercato comune e della cittadinanza comunitaria. Il sopracitato Atto unico europeo del 1986, insieme con le tre direttive della CEE del 1990, perfezionano il processo di ampliamento della libertà di circolazione. La Commissione conferma l'evoluzione in atto, emanando le direttive n° 364, 365 e 366, estendendo quindi il diritto di soggiorno ai cittadini economicamente non attivi (soprattutto a studenti e a pensionati).
 
-
-
 L'istituto giuridico della cittadinanza europea viene formalizzato il 7 Febbraio 1992 con il Trattato di Maastricht, altresì conosciuto come "Trattato sull'Unione Europea", caposaldo storico e giuridico dell'attuale sistema politico ed economico europeo. Il Trattato di Maastricht rappresenta un turning point, poiché esso istituisce l'Unione Europea come un'organizzazione internazionale sui generis e crea i 3 pilastri fondamentali dell'Unione: 
 
-
-
-1)	la dimensione comunitaria, cioè l'insieme di CE, CECA e EURATOM;
-
-2)	Politica estera e di sicurezza comune (PESD);
-
-3)	Cooperazione comune di polizia e giudiziaria in materia penale (a livello sovranazionale).
-
-
+1. la dimensione comunitaria, cioè l'insieme di CE, CECA e EURATOM;
+2. Politica estera e di sicurezza comune (PESD);
+3. Cooperazione comune di polizia e giudiziaria in materia penale (a livello sovranazionale).
 
 Le istituzioni europee si impegnano a valorizzare il ruolo dell'individuo. Il concetto di "circolazione" viene sostituto da quello di "cittadinanza" ed i cittadini non sono più considerati unicamente dei meri lavoratori, ma dei cittadini nel senso pieno e giuridico del termine. L'articolo 8 del Trattato di Maastricht istituisce una cittadinanza dell'Unione per i cittadini europei che risiedono all' interno di uno dei Paesi membri dell'Unione.  
 
-
-
-![](/assets/images/eu-parliament.jpg)
+![null](/assets/images/eu-parliament.jpg)
 
 Dopo Maastricht, nel 2000 venne solennemente proclamata la Carta dei Diritti Fondamentali dell'Unione Europea, che si ergerà a pilastro normativo volto alla tutela dei diritti fondamentali dell'Unione. La cittadinanza europea viene inclusa all'interno della Carta nel Titolo V, venendo quindi riconosciuta come un diritto fondamentale e inalienabile, oltre che un istituto giuridico. 
 
 La Carta dei Diritti segna un passo importante verso la legittimazione etico-politica della cittadinanza europea, perché indica il fondamento di un'identità europea comune: "l'Unione contribuisce al mantenimento di valori comuni nel rispetto della diversità delle culture e delle tradizioni dei popoli europei, dell'identità nazionale degli Stati membri e dell'ordinamento dei loro pubblici poteri a livello nazionale, regionale e locale."
 
-
-
 La cittadinanza europea è un istituto giuridico garantito a tutti i cittadini europei. È cittadino europeo chiunque abbia la cittadinanza di uno Stato membro. "La cittadinanza dell'Unione costituisce un complemento della cittadinanza nazionale e non sostituisce quest'ultima". Questo significa che la cittadinanza dell'Unione integra, senza in alcun modo sostituire, la cittadinanza nazionale, in un automatismo che lega indissolubilmente la prima al possesso della seconda. In maniera rivoluzionaria, la cittadinanza dell'Unione riscrive il concetto stesso di cittadinanza, prima simbolo per eccellenza dell'appartenenza al singolo Stato e ora invece istituto esteso a livello europeo. Pertanto, anche la cittadinanza UE è basata su un doppio livello e designa un rapporto tra il cittadino e l'Unione europea. 
-
-
 
 La cittadinanza europea mira ad accrescere un senso di appartenenza identitaria ad un progetto comune e condiviso, ma non istituisce un popolo europeo. Ciò malgrado, crea una collettività, uno spazio politico e geografico all'interno del quale è possibile godere dello status giuridico di cittadino e, quindi, di uguali diritti, come all'interno di uno Stato sovrano. Questa condizione è, per alcuni aspetti, simile alla cittadinanza nazionale, dal momento che designa un rapporto giuridico fra il cittadino europeo e l'Unione. Si differenzia però da quella nazionale in quanto la cittadinanza UE prevede solo diritti e nessun dovere inderogabile specificato.
 
-
-
 Il grande elemento innovativo della cittadinanza europea è costituito dal rafforzamento del legame fra gli Stati, perché siamo cittadini europei in quanto cittadini di uno Stato membro nel quale siamo nati e cresciuti. I cittadini non perdono la propria identità nazionale. La cittadinanza UE "emancipa" e arricchisce gli stessi cittadini che possono godere di tale status anche al di fuori dei propri confini nazionali - una cittadinanza che accomuna popolazioni, paesi e culture diverse, ma che fanno parte di un'unica collettività che gode di uguali diritti.
 
-
-
 Quali diritti sono garantiti dallo status di cittadino UE?
-
-
 
 "	Diritto di circolare, soggiornare e stabilirsi liberamente in qualsiasi paese membro dell'Unione Europea;
 
@@ -98,15 +66,9 @@ Quali diritti sono garantiti dallo status di cittadino UE?
 
 "	Diritto di iniziativa dei cittadini europei, che consiste nella richiesta alla Commissione Europea da parte di almeno 1 milione di persone che appartengano a una pluralità di stati, perché presenti una "proposta appropriata" su una materia per la quale si richieda una decisione dell'Unione. 
 
-
-
-L'istituzione della cittadinanza europea è il risultato temporaneo e non concluso di un lungo processo che si inscrive nell'arco dell'intera storia dell'integrazione europea. Un percorso certamente tortuoso, accidentato, non privo di contraddizioni, ma marchiato da un rapporto di continuità ideale tra i valori fondanti del progetto comunitario europeo e l'istituzione stessa della cittadinanza. La cittadinanza Europea - un'ideale, un simbolo, un'istituzione, un privilegio spesso dimenticato.
-
-
+L'istituzione della cittadinanza europea è il risultato temporaneo e non concluso di un lungo processo che si inscrive nell'arco dell'intera storia dell'integrazione europea. Un percorso certamente tortuoso, accidentato, non privo di contraddizioni, ma marchiato da un rapporto di continuità ideale tra i valori fondanti del progetto comunitario europeo e l'istituzione stessa della cittadinanza. La cittadinanza Europea - un ideale, un simbolo, un'istituzione, un privilegio spesso dimenticato.
 
 EU Citizenship between past and present
-
-
 
 On 31st August 2017, BETA Italia officially announced the project "Teaching European Citizenship": the aim of the initiative is to provide the young generation with a general and constructive knowledge of European citizenship and to stimulate an informal debate on European affairs and the role of Italy in the European integration process. On 2 December 2017, the first official training lesson on the historical importance of European citizenship and political rights took place in cooperation with a public event organized by ESN Pisa. The latter was dedicated to the commemoration of the 30th anniversary of the Erasmus project, at Stazione Leopolda in the city of the leaning tower. Starting from January 2018, BETA Italia began to hold many lessons on European citizenship in numerous middle and high schools of the city of Trento and the Province of Turin (Savigliano), carrying out an ambitious and ever-changing training project.
 
@@ -116,11 +78,7 @@ The institutionalization of European citizenship is part of a historic path whos
 
 From 1957 to the beginning of the 1990s, the European institutions interpret individuals not as citizens, but as workers (employee, self-employed workers and service providers). The Treaty of Rome creates the European Economic Community, with the aim of gradually establishing a common European market  - a free trade area with relatively free movement of capital, people and services. Nevertheless, the individual is interpreted as an integral part of the internal market. Indeed, the free movement is guaranteed in so far as both the worker and the free movement serve as tools to enable the growth of the market itself. Therefore, the free circulation is guaranteed exclusively to "economic agents", otherwise called "economically active citizens".
 
-
-
-![](/assets/images/images.jpeg)
-
-
+![null](/assets/images/images.jpeg)
 
 During the 1960s, the free movement was further extended to the worker's family members, albeit economically inactive. The extension in terms of granted rights is impressive, but still incomplete. Effectively, workers' families  were part of a specific category including: (a) "the worker's spouse and his descendants who are under the age of 21 years or are dependents"; (b) "dependent relatives in the ascending line of the worker and his spouse". Accordingly, the enjoyment of the free movement is affected by the relationship with the worker. The absence of the latter does not allow family members to move to a different country and workers families are bound to follow them.
 
@@ -165,7 +123,5 @@ o	the right not to be discriminated against on grounds of nationality within the
 o	the right of EU citizens' initiative, which allows one million citizens -  nationals of a significant number of EU countries  - to call directly on the EU Commission to bring forward an initiative of interest to them.
 
 EU citizenship is a temporary and unfulfilled result of a long-standing process which is part of the whole history of European integration. Certainly, this path has been tortuous, bumpy, sometimes conflicting, but also marked by an ideal continuation of the EU's founding values. EU citizenship -  an ideal to strive towards, a symbol, a legal status, but also an often forgotten privilege.
-
-
 
 By Leonardo Brambilla
