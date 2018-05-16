@@ -10,12 +10,10 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/berlu.jpeg
+  image: ''
   teaser: /assets/images/berlu.jpeg
 ---
 Late last month, the first part of Sorrentino's film about Berlusconi entered cinemas all around Italy and now, in May, theatres have been projecting the other half of this colourful portrait of my country's recent history. But it is interesting how this movie comes out at a moment when Berlusconi is not as relevant in the political scene anymore. After all, with the birth of the Third Republic, his reign is officially over. 
-
-
 
 I was born in 1995 - one year after Forza Italia was founded. A country divided into Silvio's lovers and haters is all I have ever known, but if it is true that everyone's true colours show eventually, I would like to reflect on what has been Silvio's era. 
 
@@ -29,19 +27,15 @@ The second category, Berlusconi's haters, can be called 'The others' and were th
 
 Berlusconi's polarizing persona led to a paralysis in Italy that lasted for the entire Second Republic: like in a twenty-years-long football game Italians started cheering for one 'team' or the other, without thinking rationally about it anymore. One example of this is the bunga-bunga scandal, when the haters team, traditionally more left and progressive towards the role of women in society, deliberately used the girls involved in the scandal to attack Silvio Berlusconi, but by calling them prostitutes in front of the entire country even before the legal process had taken place, they proved how they cared more about their personal fight with Berlusconi than about the dignity of these women. 
 
+
+
 Now, this shows how Berlusconism and anti-Berlusconism are just two sides of the same coin: for years we've heard from his political enemies that the only way to get over Berlusconi was to reject everything he stood for, but the truth is that we cannot reject someone who already has a place in our history books. What we can do instead is to learn the lesson that these intense past twenty years have left us with. That is, we should care about problems, not people. 
-
-
 
 In his poem 'The Fifth of May', Alessandro Manzoni, talking about the death of another short, charismatic man, characterised by both lights and shadows, Napoleone Bonaparte, writes 'Was it true glory? Posterity, thine be the hard decision.' We now finally can decide Berlusconi's place in history. It can be the one of the villain, it can be the one of the leader, but it can't be denied to him. 
 
 In 2018, we also have the right and duty to look forward to the challenges our country is facing and which for too long have been overlooked as the discussion always revolved around Berlusconi. The big take-away of the Second Republic is that difficulties are going to be along our nation's path regardless of who is ruling it, so despite our very Italian tendency to wait for a saviour, we should not focus on the person, but more on the work demanding to be done. 
 
-
-
 Oftentimes, Italians take the Germans as a model. Even though I believe that is not always appropriate for a multitude of reasons, I think that if there is one thing we should copy from the Germans, it is their sense of responsibility: in Italy, nobody ever wants to take responsibility for anything, they must be blamed for what happened during the last twenty years, because they had the power and the others did not. 
-
-
 
 No, it is way too easy to put the blame of what happened in such a long period of time on one single person and his circle, just because we made them into the centre of everything. 
 
