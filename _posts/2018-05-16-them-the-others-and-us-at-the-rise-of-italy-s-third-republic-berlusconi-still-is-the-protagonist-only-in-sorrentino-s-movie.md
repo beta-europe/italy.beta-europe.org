@@ -9,6 +9,8 @@ comments: false
 share: true
 published: true
 edit: true
+header:
+  teaser: /assets/images/berlu.jpeg
 ---
 Late last month, the first part of Sorrentino's film about Berlusconi entered cinemas all around Italy and now, in May, theatres have been projecting the other half of this colourful portrait of my country's recent history. But it is interesting how this movie comes out at a moment when Berlusconi is not as relevant in the political scene anymore. After all, with the birth of the Third Republic, his reign is officially over. 
 
