@@ -10,7 +10,6 @@ share: true
 published: true
 edit: true
 header:
-  image: ''
   teaser: /assets/images/berlu.jpeg
 ---
 ![](/assets/images/berlu.jpeg)
