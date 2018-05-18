@@ -13,6 +13,8 @@ header:
   image: ''
   teaser: /assets/images/berlu.jpeg
 ---
+![](/assets/images/berlu.jpeg)
+
 Late last month, the first part of Sorrentino's film about Berlusconi entered cinemas all around Italy and now, in May, theatres have been projecting the other half of this colourful portrait of my country's recent history. But it is interesting how this movie comes out at a moment when Berlusconi is not as relevant in the political scene anymore. After all, with the birth of the Third Republic, his reign is officially over. 
 
 I was born in 1995 - one year after Forza Italia was founded. A country divided into Silvio's lovers and haters is all I have ever known, but if it is true that everyone's true colours show eventually, I would like to reflect on what has been Silvio's era. 
