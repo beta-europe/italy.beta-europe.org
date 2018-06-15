@@ -7,6 +7,8 @@ comments: false
 share: true
 published: true
 edit: true
+header:
+  image: /assets/images/img-20180615-wa0007.jpg
 ---
  Una sfida tutta iberica quella di stasera allo Fisht! 
 
