@@ -1,6 +1,6 @@
 ---
-title: 'Spagna e Portogallo, una partita che continua anche fuori dai campi di gioco! '
-excerpt: 'Spagna e Portogallo, una partita che continua anche fuori dai campi di gioco! '
+title: 'Spagna e Portogallo: più che una partita'
+excerpt: 'Spagna e Portogallo: più che una partita '
 date: '2018-06-15 01:47:20'
 toc: false
 comments: false
