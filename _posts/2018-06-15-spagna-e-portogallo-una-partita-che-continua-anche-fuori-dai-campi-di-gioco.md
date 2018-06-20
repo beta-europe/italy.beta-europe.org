@@ -40,6 +40,6 @@ In fondo, l’incontro tra Spagna e Portogallo non è una semplice partita: è p
 
 In conclusione, come dice un vecchio detto `“Pan de fradel, pan de cortel”`, auguriamo una buona partita a tutti i tifosi spagnoli e portoghesi: **pust’ lucsij iz komandach pobedit!**
 
-**Per conoscere  resto del gitone B clicca qui: **[https://lagazzettadidonflaco.com/2018/06/14/pust-lucsij-iz-komandach-pobedit-guida-al-girone-b-gddf-2/](https://lagazzettadidonflaco.com/2018/06/14/pust-lucsij-iz-komandach-pobedit-guida-al-girone-b-gddf-2/)**
+**Per conoscere  resto del gitone B clicca qui:** [https://lagazzettadidonflaco.com/2018/06/14/pust-lucsij-iz-komandach-pobedit-guida-al-girone-b-gddf-2/](https://lagazzettadidonflaco.com/2018/06/14/pust-lucsij-iz-komandach-pobedit-guida-al-girone-b-gddf-2/)
 
 Valeria Peruzzi
