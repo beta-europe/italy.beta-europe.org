@@ -10,7 +10,7 @@ edit: true
 header:
   image: /assets/images/img-20180615-wa0007.jpg
 ---
- Una sfida tutta iberica quella di stasera allo Fisht! 
+Una sfida tutta iberica quella di stasera allo Fisht! 
 
 Nonostante la scelta discutibile (ed all’ultimo minuto!) dell’esonero del C.T. spagnolo **Julen Lopetegui Argote**, la partita tra la Spagna ed il Portogallo, sembra essere iniziata con qualche giorno di anticipo.
 
@@ -38,8 +38,8 @@ In tutto ciò, la partita tra questi due vicini di casa è ancora lunga tra rove
 
 In fondo, l’incontro tra Spagna e Portogallo non è una semplice partita: è pura magia che spazia dal fado al flamenco.
 
-In conclusione, come dice un vecchio detto `“Pan de fradel, pan de cortel”`, auguriamo una buona partita a tutti i tifosi spagnoli e portoghesi: **pust’ lucsij iz komandach pobedit! **
+In conclusione, come dice un vecchio detto `“Pan de fradel, pan de cortel”`, auguriamo una buona partita a tutti i tifosi spagnoli e portoghesi: **pust’ lucsij iz komandach pobedit!**
 
-**Per conoscere  resto del gitone B clicca qui: **[**https://lagazzettadidonflaco.com/2018/06/14/pust-lucsij-iz-komandach-pobedit-guida-al-girone-b-gddf-2/**](https://lagazzettadidonflaco.com/2018/06/14/pust-lucsij-iz-komandach-pobedit-guida-al-girone-b-gddf-2/)
+**Per conoscere  resto del gitone B clicca qui: **[https://lagazzettadidonflaco.com/2018/06/14/pust-lucsij-iz-komandach-pobedit-guida-al-girone-b-gddf-2/](https://lagazzettadidonflaco.com/2018/06/14/pust-lucsij-iz-komandach-pobedit-guida-al-girone-b-gddf-2/)**
 
 Valeria Peruzzi
