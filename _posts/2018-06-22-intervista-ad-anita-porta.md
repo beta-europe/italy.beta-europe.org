@@ -26,11 +26,10 @@ Parlando di Mondiali di calcio di questo anno, sia la Russia che la Gran Bretagn
 
 “A partire dall’affare Skripal, i rapporti fra Russia e Gran Bretagna si sono deteriorati rapidamente ed in maniera forse decisiva. In un contesto simile, è difficile immaginare un comportamento diverso da parte della Gran Bretagna. Dal canto suo, il Cremlino non poteva commentare diversamente: otto nazioni (Australia, Danimarca, Finlandia, Islanda, Giappone, Polonia, Svezia e Ucraina) oltre al Regno Unito, hanno annunciato il boicottaggio dei giochi. In questo clima, era fondamentale sottolineare la prevalenza del carattere sportivo della manifestazione su quello politico. Naturalmente, un conto sono le parole, un altro i fatti.”
 
-Parlando di sicurezza, le scene viste all'Europeo francese del 2016 con intere città tenute sotto scacco dagli ultras russi sono ancora ben vive nella mente dei tifosi di tutto il mondo. Pensi che episodi di questo genere possano ripetersi durante questo mondiale?
+Parlando di sicurezza, le scene viste all'Europeo francese del 2016 con intere città tenute sotto scacco dagli ultras russi sono ancora ben vive nella mente dei tifosi di tutto il mondo. Pensi che episodi di questo genere possano ripetersi durante questo mondiale
 
-_
-_“Sulla sicurezza è impossibile fare previsioni. Quel che è certo è che lo stato russo riserva sempre un’attenzione particolare alla sicurezza interna anche in condizioni normali, per non parlare delle grandi manifestazioni di rilevanza mondiale. Eppure, questo non ha impedito il verificarsi di incidenti già in questi primi giorni di campionato, primo fra tutti quello del taxi lanciato contro la folla nel centro di Mosca_._
-
+“Sulla sicurezza è impossibile fare previsioni. Quel che è certo è che lo stato russo riserva sempre un’attenzione particolare alla sicurezza interna anche in condizioni normali, per non parlare delle grandi manifestazioni di rilevanza mondiale. Eppure, questo non ha impedito il verificarsi di incidenti già in questi primi giorni di campionato, primo fra tutti quello del taxi lanciato contro la folla nel centro di Mosca.”
+_._.
 
 Secondo te, può essere questo mondiale un tentativo della Russia per mettersi in vetrina dato che è stata oggetto, in questi ultimi anni, di tantissimi scandali (anche internazionali)_?   _
 
