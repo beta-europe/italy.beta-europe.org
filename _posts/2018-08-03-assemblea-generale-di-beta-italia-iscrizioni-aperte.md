@@ -14,4 +14,4 @@ Finalmente è possibile iscriversi all'Assemblea Generale di BETA Italia per l'a
 
 Non dimenticare: se non sei socio di BETA Italia è necessario iscriversi per poter partecipare al nostro evento. 
 
-![](/assets/images/trento.jpg)
+![null](/assets/images/trento.jpg)
