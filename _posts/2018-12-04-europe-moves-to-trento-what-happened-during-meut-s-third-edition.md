@@ -35,7 +35,7 @@ We were just a little group of guys with no experience about simulations but als
 
 However, after this big success we knew we wanted something more. Of course, Italian is our mother tongue, but we wanted to be international: this is the reason why we **switched to English** for the **second edition**. It is not easy at all to force a group of mostly Italian students to speak a different language, yet after some warnings and solicitations, we actually realised they were starting to talk in English even outside the simulation.
 
-Thanks to this project of the UniT, many young people got to know **BETA Italy** and after this great experience they decided to become part of our association.
+Thanks to this project hold in the UniT, many young people got to know **BETA Italy** and after this great experience they decided to become part of our association.
 
 For the **third edition** we decided to keep using English as the official language and thus we continued with the internationalization we began in November 2017.
 \
