@@ -18,9 +18,9 @@ share: true
 published: true
 edit: true
 ---
-_Dal 22 al 24 novembre 2018 Trento ha ospitato la sua terza edizione di un Model European Union. Un'esperienza ricca di emozioni raccontata da chi l'ha vissuta ed organizzata in prima persona. _
+Dal 22 al 24 novembre 2018 Trento ha ospitato la sua terza edizione di un Model European Union. Un'esperienza ricca di emozioni raccontata da chi l'ha vissuta ed organizzata in prima persona. 
 
-![](/assets/images/schermata-2018-12-03-alle-09.40.01.png)
+![null](/assets/images/schermata-2018-12-03-alle-09.40.01.png)
 
 È da numerosi anni che le simulazioni MEU imperversano per le città europee e non solo. Ma cosa significa questa sigla? **MEU** sta per **Model European Union** che, similmente alla sua cugina MUN (Model United Nations), vuole proporre una **simulazione del processo legislativo** dei due organi fondamentali dell’Unione Europea: Parlamento e Consiglio dei Ministri.  
 
@@ -37,7 +37,7 @@ In questo intenso weekend i partecipanti hanno dovuto discutere di temi rilevant
 
 La realizzazione di questo progetto ha permesso al piccolo gruppo di studenti che formano l’associazione trentina di mettersi alla prova in diversi ambiti, di **cooperare** tutti insieme aiutandosi a vicenda per consentire ad un centinaio di universitari di cimentarsi nella **negoziazione politica** e stesura di **norme legislative** dell’UE.
 
-![](/assets/images/imm-2-meut.png)
+![null](/assets/images/imm-2-meut.png)
 
 Organizzare progetti di questa portata non è certamente un compito semplice ma grazie ad una **forza di volontà** elevata e un forte **spirito di collaborazione** anche un piccolo manipolo di studenti riesce a fare molto e organizzare eventi così grandi. 
 
