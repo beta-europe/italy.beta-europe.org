@@ -20,7 +20,7 @@ share: true
 published: true
 edit: true
 ---
-_The third edition of MEUT took place in Trento from November 22nd to November 24th. Two girls who took part and organized the event tell us what this beautiful experience meant for them. _
+The third edition of MEUT took place in Trento from November 22nd to November 24th. Two girls who took part and organized the event tell us what this beautiful experience meant for them. 
 
 ![null](/assets/images/schermata-2018-12-03-alle-09.40.01.png)
 
