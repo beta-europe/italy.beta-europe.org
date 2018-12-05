@@ -38,7 +38,8 @@ However, after this big success we knew we wanted something more. Of course, Ita
 Thanks to this project hold in the UniT, many young people got to know **BETA Italy** and after this great experience they decided to become part of our association.
 
 For the **third edition** we decided to keep using English as the official language and thus we continued with the internationalization we began in November 2017.
-\
+
+
 During this intense weekend the participants discussed relevant issues for the European Commission in this period of economic uncertainty and heated debate about **climate change**: the Security of gas supply regulation and the Directive on the **fight against fraud** to the Union's financial interests.
 
 This project allowed the small group of students that form part of the association to challenge themselves in different fields, **cooperate** all together helping each other to make a hundred university students to engage in **political negotiation** and **legislative drafting** of the EU.
@@ -47,8 +48,6 @@ This project allowed the small group of students that form part of the associati
 
 To organize such kind of projects is not an easy task for sure but thanks to a considerable **willpower** and a strong **spirit of cooperation**, even a little bunch of students manages to do a lot and give shape to such big events.
 
-Indeed, the reason why we organizers feel so satisfied at the end of these three days is to see how every participant identified him or herself in his/her character, how they all got involved and took an active part in the project. Because the ultimate goal of these conferences is not the one of being the best or making more amendments pass; it is to learn something more about how the Union institutions works and to meet friends you can share the **European values** with. And if at the end of the simulation we see the dreaming eyes of young people waiting for the next occasion to take part in such kind of projects, than all of the **sleepless nights** spent organizing everything will be worth it.
-\
-See how the students from Trento are often well represented in MEUs around Europe makes us proud and makes all those Skype calls ended at 3 a.m. meaningful.
+Indeed, the reason why we organizers feel so satisfied at the end of these three days is to see how every participant identified him or herself in his/her character, how they all got involved and took an active part in the project. Because the ultimate goal of these conferences is not the one of being the best or making more amendments pass; it is to learn something more about how the Union institutions works and to meet friends you can share the **European values** with. And if at the end of the simulation we see the dreaming eyes of young people waiting for the next occasion to take part in such kind of projects, than all of the **sleepless nights** spent organizing everything will be worth it. See how the students from Trento are often well represented in MEUs around Europe makes us proud and makes all those Skype calls ended at 3 a.m. meaningful.
 
 Still, after a few days, when we flip through the simulation newspaper, “MEUT Tribune”, a smile appears on our faces while we remember the emphasis and pathos of some those precious moments. Because even if we were not the main characters, we **identified with every role**, in every discussion or spat between factions and in every gag. Indeed, maybe this is only a simulation and some positions are interpreted in a grotesque way, but are you sure some of the moments we lived as students in these university rooms did not happen also **in parliamentary chambers**?
