@@ -24,16 +24,16 @@ The third edition of MEUT took place in Trento from November 22nd to November 24
 
 ![null](/assets/images/schermata-2018-12-03-alle-09.40.01.png)
 
-It’s been a few years since MEUs started to spread have been spreading around European and not European cities. But what does this acronym mean? **MEU** stands for **Model European Union**. Similarly to its distant cousin MUN (Model United Nations), it is a **simulation of the legislative process** of the most important EU institutions: the European Parliament and the Council of the European Union.
+It’s been a few years since MEUs started to spread around European and not European cities. But what does this acronym mean? **MEU** stands for **Model European Union**. Similarly to its distant cousin MUN (Model United Nations), it is a **simulation of the legislative process** of the most important EU institutions: the European Parliament and the Council of the European Union.
 
 From November 22nd to November 24th 2018, **Model European Union Trento** Association gave birth to the third edition of MEUT, hold in the Sociology and Social research faculty of the University of Trento in collaboration with the excellence center Jean Monnet.
 
-We, **Ester** and **Elisa**, have seen the **birth of the association** in summer 2015 and we organised the **first simulation in Trento** in November of the following year, held in Italian. 
+We, **Ester** and **Elisa**, have seen the **birth of the association** in summer 2015 and we organized the **first simulation in Trento** in November of the following year, held in Italian. 
 It has been a long and tortuous way, but in the end we successfully pulled off the third edition.
 \
 We were just a little group of guys with no experience about simulations but also thanks to some really patient and competent professors, especially professor Marco Brunazzo, the first edition was just great.
 
-However, after this big success we knew we wanted something more. Of course, Italian is our mother tongue, but we wanted to be international: this is the reason why we **switched to English** for the **second edition**. It is not easy at all to force a group of mostly Italian students to speak a different language, yet after some warnings and solicitations, we actually realised they were starting to talk in English even outside the simulation.
+However, after this big success we knew we wanted something more. Of course, Italian is our mother tongue, but we wanted to be international: this is the reason why we **switched to English** for the **second edition**. It is not easy at all to force a group of mostly Italian students to speak a different language, yet after some warnings and solicitations, we actually realized they were starting to talk in English even outside the simulation.
 
 Thanks to this project hold in the UniT, many young people got to know **BETA Italy** and after this great experience they decided to become part of our association.
 
