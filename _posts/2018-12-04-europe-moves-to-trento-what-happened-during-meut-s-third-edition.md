@@ -22,6 +22,8 @@ edit: true
 ---
 The third edition of MEUT took place in Trento from November 22nd to November 24th. Two girls who took part and organized the event tell us what this beautiful experience meant for them. 
 
+To read the Italian version click [here](https://italy.beta-europe.org/2018/12/04/l-avventura-continua-l-europa-a-trento-per-la-terza-edizione-del-meut/)
+
 ![null](/assets/images/schermata-2018-12-03-alle-09.40.01.png)
 
 It’s been a few years since MEUs started to spread around European and not European cities. But what does this acronym mean? **MEU** stands for **Model European Union**. Similarly to its distant cousin MUN (Model United Nations), it is a **simulation of the legislative process** of the most important EU institutions: the European Parliament and the Council of the European Union.
