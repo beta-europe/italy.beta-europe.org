@@ -20,6 +20,8 @@ edit: true
 ---
 Dal 22 al 24 novembre 2018 Trento ha ospitato la sua terza edizione di un Model European Union. Un'esperienza ricca di emozioni raccontata da chi l'ha vissuta ed organizzata in prima persona. 
 
+[Qui](https://italy.beta-europe.org/2018/12/03/europe-moves-to-trento-what-happened-during-meut-s-third-edition/) per leggere la versione in inglese
+
 ![null](/assets/images/schermata-2018-12-03-alle-09.40.01.png)
 
 È da numerosi anni che le simulazioni MEU imperversano per le città europee e non solo. Ma cosa significa questa sigla? **MEU** sta per **Model European Union** che, similmente alla sua cugina MUN (Model United Nations), vuole proporre una **simulazione del processo legislativo** dei due organi fondamentali dell’Unione Europea: Parlamento e Consiglio dei Ministri.  
