@@ -22,7 +22,7 @@ edit: true
 ---
 The third edition of MEUT took place in Trento from November 22nd to November 24th. Two girls who took part and organized the event tell us what this beautiful experience meant for them. 
 
-To read the Italian version click [here](https://italy.beta-europe.org/2018/12/04/l-avventura-continua-l-europa-a-trento-per-la-terza-edizione-del-meut/)
+Click [here](https://italy.beta-europe.org/2018/12/04/l-avventura-continua-l-europa-a-trento-per-la-terza-edizione-del-meut/) for the Italian version
 
 ![null](/assets/images/schermata-2018-12-03-alle-09.40.01.png)
 
@@ -40,7 +40,6 @@ However, after this big success we knew we wanted something more. Of course, Ita
 Thanks to this project hold in the UniT, many young people got to know **BETA Italy** and after this great experience they decided to become part of our association.
 
 For the **third edition** we decided to keep using English as the official language and thus we continued with the internationalization we began in November 2017.
-
 
 During this intense weekend the participants discussed relevant issues for the European Commission in this period of economic uncertainty and heated debate about **climate change**: the Security of gas supply regulation and the Directive on the **fight against fraud** to the Union's financial interests.
 
