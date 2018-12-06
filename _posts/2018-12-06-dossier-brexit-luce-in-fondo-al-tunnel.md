@@ -71,7 +71,7 @@ Qualora, invece, Theresa May riuscisse ad ottenere **l’approvazione di Westmin
 3. Periodo di transizione fino a dicembre 2020;
 4. Negoziazione delle relazioni politiche fra UE e Regno Unito. 
 
-FONTI: 
+FONTI:
 
 [Begoña Arce, Crece el rechazo al acuerdo del 'brexit' en la Cámara de los Comunes](https://www.elperiodico.com/es/internacional/20181126/a-quince-dias-de-la-votacion-del-brexit-crece-el-rechazo-al-acuerdo-en-la-camara-de-los-comunes-7169580?fbclid=IwAR0uOOWSSUCoDk-xiuYkCBAiIwExl_CFID0qIZuAf5A-n7rZ9MksRcu3370.)
 
