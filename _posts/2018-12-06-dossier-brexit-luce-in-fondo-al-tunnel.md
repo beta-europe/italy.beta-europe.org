@@ -22,37 +22,26 @@ edit: true
 ---
 Regno Unito ed Unione Europea sembrano finalmente aver raggiunto un compromesso riguardo alla Brexit. Quali sono i punti fondamentali di questo accordo? E quali gli scenari che l'Unione dovrà affrontare nel prossimo futuro? 
 
-![](/assets/images/brexit-–-where-we-at-and-what’s-next.jpg)
+![null](/assets/images/brexit-–-where-we-at-and-what’s-next.jpg)
 
 È passata poco più di una settimana dall’approvazione del tanto atteso **accordo** fra  **Regno Unito** ed **Unione europea** sulla definizione delle relazioni economiche, commerciali e giuridiche post-Brexit. Dopo mesi di tensioni e incertezze, soprattutto sulla possibilità di incorre in un “no-deal” – per molti un “lose-lose deal” –  le due sponde della Manica sembrano aver trovato un punto di convergenza.
 
-A seguito del vertice straordinario del Consiglio europeo tenutosi domenica 25 novembre presso Bruxelles, i 27 paesi membri dell’Unione hanno approvato una bozza di documento di 585 pagine che ha sancito l’interesse comune delle parti** a proseguire le trattative**. Effettivamente, l’intento è quello di procedere verso la fase conclusiva del **“periodo tramonto”** previsto dall’art. 50 TUE che formalizzerà, successivamente, l’uscita del Regno Unito dall’UE, con data inderogabile fissata il 29 marzo 2019.  
+A seguito del vertice straordinario del Consiglio europeo tenutosi domenica 25 novembre presso Bruxelles, i 27 paesi membri dell’Unione hanno approvato una bozza di documento di 585 pagine che ha sancito l’interesse comune delle parti** a proseguire le trattative**. Effettivamente, l’intento è quello di procedere verso la fase conclusiva del “periodo tramonto” previsto dall’art. 50 TUE che formalizzerà, successivamente, l’uscita del Regno Unito dall’UE, con data inderogabile fissata il 29 marzo 2019.  
 
 Un accordo che, tuttavia, pare soddisfare pochi, se non nessuno degli attori in gioco.   Numerose e **differenti** sono state, infatti, **le** **reazioni** da parte dei principali leader europei. **Theresa May** ha scritto una “lettera alla nazione” con la quale ha sostenuto di aver onorato il risultato del referendum del 2016, nell’interesse nazionale e di tutti i cittadini britannici. Il Premier d’oltre Manica si è dimostrato fiducioso e determinato nel portare a termine l’approvazione dell’accordo all’interno delle aule di Westminster, promettendo di battersi in prima persona per assicurarsi l’ancora incerto voto del Parlamento britannico.  Il Presidente della Commissione UE, **Jean Claude Juncker**, ha parlato di un “momento triste” e di una “tragedia”, sottolineando come, comunque, sia stato raggiunto l’accordo migliore possibile date le circostanze. **Angela Merkel**  si è unita alle parole del Presidente della Commissione, parlando di una sconfitta collettiva tanto per Londra quanto per l’Europa intera. Ciononostante, si è impegnata a dimostrare la propria solidarietà e fiducia verso l’autorevolezza e la risolutezza istituzionale di Theresa May, confidando nella capacità del PM inglese di conseguire l’approvazione di Westminster e rendere tale accordo un “successo” meno amaro di quanto non sembri voler suggerire l’apparenza. In linea con le precedenti dichiarazioni si è espresso anche il leader francese, **Emmanuel Macron**, che ha sottolineato quanto la sfida della Brexit ponga l’UE di fronte all’urgenza di affrontare le proprie fragilità interne. I leader europei sembrano comprendere la necessità inaugurare **un nuovo percorso di profonda autoriflessione**, nel comune intento di correggere tali difetti strutturali e rafforzare il processo di costruzione europea per far fronte a tutte le sfide di un sistema internazionale sempre più multilaterale e interdipendente. 
 
-
-
 ## Quali sono i punti salienti di tale accordo?
 
-1) **Unione doganale**: il testo del documento non ne fa diretta menzione, tuttavia il Regno Unito resterebbe, di fatto, una sorta di “spazio doganale unico” fino al 31 dicembre 2020. 
+1. **Unione doganale**: il testo del documento non ne fa diretta menzione, tuttavia il Regno Unito resterebbe, di fatto, una sorta di “spazio doganale unico” fino al 31 dicembre 2020. 
+2. **Perché aspettare un altro anno? **Si tratta di una misura preventiva, concordata e stabilita qualora non si riuscisse a raggiungere un nuovo accordo commerciale sulle relazioni anglo-europee entro il periodo limite previamente stabilito. Inoltre, ciò costituirebbe un’ulteriore garanzia per evitare un hard border fra Irlanda e Irlanda del Nord. Quest’ultima, infatti, rientrerebbe all’interno del “territorio doganale unico” sopramenzionato. Per tali ragioni è stata stabilita una apposita clausola di salvaguardia. 
+3. **Periodo di transizione: fino al 31 dicembre 2020**. Si tratta del mese conclusivo del bilancio pluriennale dell’UE del periodo 2014-2020, verso il quale il Regno Unito è tenuto ad onorare i propri impegni in materia di fondi, bilancio e programmi europei (45-60 miliardi di euro). Persiste la possibilità di estensione del periodo di transizione a tempo indeterminato in caso di necessità. Qualora quest’ultimo venisse prolungato, è possibile che il Regno Unito sia vincolato a rientrare nel successivo bilancio europeo (2021-2017), diventando, quindi, un paese terzo nelle relazioni e nei programmi dell’Unione. 
+4. **Corte di Giustizia Europea**: manterrebbe la propria competenza fino alla fine del periodo di transizione. In caso di conflitti su questioni inerenti a materie disciplinate dal diritto dell’UE, la competenza spetterà alla Corte di Giustizia Europea. In ogni caso, la Corte potrà continuare ad **arbitrare le eventuali contese** fra Londra e Bruxelles in materia di diritti per 8 anni dopo il 2020 e per 4 anni per tutti gli altri ambiti. 
+5. **Ritiro del Regno Unito dall’EURATOM**: ciò comporterà la necessità di stipulare una successiva dichiarazione politica volta ad assicurare delle catene di produzione e garantire dei nuovi protocolli sui territori britannici di Cipro e su Gibilterra.
+6. **Libera circolazione: i diritti dei cittadini europei**  (3,2 milioni) che vivono e risiedono in Regno Unito e dei cittadini britannici che vivono nei paesi dell’UE (1,2 milioni) saranno tutelati e preservati, purché presentino una richiesta formale alle autorità competenti. Con la conclusione del periodo di transizione, la libertà di circolazione terminerà e sarà regolata sulla base di un sistema di competenze, dove i cittadini potranno viaggiare in assenza di visto, ma solo per brevi soggiorni. I cittadini britannici che vivono all’estero saranno tenuti a presentare una domanda formale sullo status della loro attuale residenza. 
+7. **Politica comune della pesca:** manca ancora un accordo definitivo che definisca le quote e le misure di accesso alle acque inglesi dopo il 2020. I leader europei avrebbero offerto l’unione doganale in cambio dell’accesso alle acque del Regno Unito. 
+8. **Gibilterra**: Theresa May ha parlato con il Presidente spagnolo Sanchez assicurando concessioni e aprendo ad una negoziazione bilaterale. Infatti, il Ministro degli Esteri spagnolo Josep Borrel e il numero due di Theresa May, David Lidington, hanno firmato, lo scorso giovedì,** 4 memorandum su Gibilterra** e sulle “aree più conflittuali in relazione al Peñón”  che entreranno in vigore al momento del divorzio britannico.  Tali accordi, relativi al tabacco, all’ambiente, alla cooperazione doganale e di polizia e ai diritti dei lavoratori transfrontalieri rappresentano la prima forma di intesa praticabile tra Madrid e Londra su un’area di controversia secolare (quasi 300 anni). In ogni caso, come spiegato dal quotidiano El Paìs, “il governo spagnolo non sarà in grado di utilizzare questo quadro per parlare di co-sovranità, almeno fino alla scadenza della sua validità (in linea di principio, fino a gennaio 2021)”. I quattro memorandum saranno affiancati da un **trattato commerciale e fiscale** – per cercare di limitare la concorrenza sleale – che sarà formalizzato in seguito con un apposito iter parlamentare. 
 
-2) **Perché aspettare un altro anno? **Si tratta di una misura preventiva, concordata e stabilita qualora non si riuscisse a raggiungere un nuovo accordo commerciale sulle relazioni anglo-europee entro il periodo limite previamente stabilito. Inoltre, ciò costituirebbe un’ulteriore garanzia per evitare un hard border fra Irlanda e Irlanda del Nord. Quest’ultima, infatti, rientrerebbe all’interno del “territorio doganale unico” sopramenzionato. Per tali ragioni è stata stabilita una apposita clausola di salvaguardia. 
-
-3) **Periodo di transizione: fino al 31 dicembre 2020**. Si tratta del mese conclusivo del bilancio pluriennale dell’UE del periodo 2014-2020, verso il quale il Regno Unito è tenuto ad onorare i propri impegni in materia di fondi, bilancio e programmi europei (45-60 miliardi di euro). Persiste la possibilità di estensione del periodo di transizione a tempo indeterminato in caso di necessità. Qualora quest’ultimo venisse prolungato, è possibile che il Regno Unito sia vincolato a rientrare nel successivo bilancio europeo (2021-2017), diventando, quindi, un paese terzo nelle relazioni e nei programmi dell’Unione. 
-
-4) **Corte di Giustizia Europea**: manterrebbe la propria competenza fino alla fine del periodo di transizione. In caso di conflitti su questioni inerenti a materie disciplinate dal diritto dell’UE, la competenza spetterà alla Corte di Giustizia Europea. In ogni caso, la Corte potrà continuare ad **arbitrare le eventuali contese** fra Londra e Bruxelles in materia di diritti per 8 anni dopo il 2020 e per 4 anni per tutti gli altri ambiti. 
-
-5) **Ritiro del Regno Unito dall’EURATOM**: ciò comporterà la necessità di stipulare una successiva dichiarazione politica volta ad assicurare delle catene di produzione e garantire dei nuovi protocolli sui territori britannici di Cipro e su Gibilterra.
-
-6) **Libera circolazione: i diritti dei cittadini europei**  (3,2 milioni) che vivono e risiedono in Regno Unito e dei cittadini britannici che vivono nei paesi dell’UE (1,2 milioni) saranno tutelati e preservati, purché presentino una richiesta formale alle autorità competenti. Con la conclusione del periodo di transizione, la libertà di circolazione terminerà e sarà regolata sulla base di un sistema di competenze, dove i cittadini potranno viaggiare in assenza di visto, ma solo per brevi soggiorni. I cittadini britannici che vivono all’estero saranno tenuti a presentare una domanda formale sullo status della loro attuale residenza. 
-
-7) **Politica comune della pesca:** manca ancora un accordo definitivo che definisca le quote e le misure di accesso alle acque inglesi dopo il 2020. I leader europei avrebbero offerto l’unione doganale in cambio dell’accesso alle acque del Regno Unito. 
-
-8) **Gibilterra**: Theresa May ha parlato con il Presidente spagnolo Sanchez assicurando concessioni e aprendo ad una negoziazione bilaterale. Infatti, il Ministro degli Esteri spagnolo Josep Borrel e il numero due di Theresa May, David Lidington, hanno firmato, lo scorso giovedì,** 4 memorandum su Gibilterra** e sulle “aree più conflittuali in relazione al Peñón”  che entreranno in vigore al momento del divorzio britannico.  Tali accordi, relativi al tabacco, all’ambiente, alla cooperazione doganale e di polizia e ai diritti dei lavoratori transfrontalieri rappresentano la prima forma di intesa praticabile tra Madrid e Londra su un’area di controversia secolare (quasi 300 anni). In ogni caso, come spiegato dal quotidiano El Paìs, “il governo spagnolo non sarà in grado di utilizzare questo quadro per parlare di co-sovranità, almeno fino alla scadenza della sua validità (in linea di principio, fino a gennaio 2021)”. I quattro memorandum saranno affiancati da un **trattato commerciale e fiscale** – per cercare di limitare la concorrenza sleale – che sarà formalizzato in seguito con un apposito iter parlamentare. 
-
-
-
-## Quali sono i prossimi passi? 
+## Quali sono i prossimi passi?
 
 L’accordo raggiunto da Londra e Bruxelles **è tutt’altro che concluso** e lascia spazio a possibili colpi di scena.  La pubblicazione del “Libro Bianco, prevista per il 3 dicembre, è stata rimandata in attesa del voto in sede parlamentare. Infatti, per il 10-11 dicembre, è previsto il difficile scoglio del voto britannico a Westminster. Theresa **May non sembra godere della maggioranza necessaria per l’approvazione dell’accordo,** data l’insoddisfazione dei laburisti e dei conservatori che considerano il compromesso raggiunto con l’UE un tradimento rispetto all’esito del referendum del 2016. 
 
@@ -62,16 +51,18 @@ La questione della **tutela dei cittadini europei** è stato un tema molto delic
 
 ## 
 
-## Cosa aspettarsi in caso di una bocciatura dell’accordo a Westminster? 
+## Cosa aspettarsi in caso di una bocciatura dell’accordo a Westminster?
 
 Si aprono scenari molteplici e preoccupanti, soprattutto per il Regno Unito:
 
 1. Dimissioni di Theresa May e conseguenti **elezioni anticipate**;
 2. Possibile indizione di un **secondo referendum** sulla Brexit;
 3. Ricerca urgente di un **“piano B”**, come proposto da Jeremy Corbyn per valutare una rinegoziazione ed un’estensione dell’art. 50 TUE, con tutte le conseguenze economiche che ciò comporta per Londra;
-4. Uscita del Regno Unito con un **“no-deal”.**
+4. Uscita del Regno Unito con un **“no-deal”.
+   **
 
-Occorre considerare che pochi giorni fa il Presidente del Consiglio Europeo, **Donald Tusk**, ha dichiarato che, in caso di una bocciatura dell’accordo, per l’UE saranno contemplate solo due possibili soluzioni: un **“no-deal” o un annullamento della Brexit stessa. **
+Occorre considerare che pochi giorni fa il Presidente del Consiglio Europeo, **Donald Tusk**, ha dichiarato che, in caso di una bocciatura dell’accordo, per l’UE saranno contemplate solo due possibili soluzioni: un **“no-deal” o un annullamento della Brexit stessa. 
+**
 
 Qualora, invece, Theresa May riuscisse ad ottenere **l’approvazione di Westminster**, saranno necessari i seguenti passaggi: 
 
@@ -79,8 +70,6 @@ Qualora, invece, Theresa May riuscisse ad ottenere **l’approvazione di Westmin
 2. Uscita del Regno Unito in data 29 marzo 2019;
 3. Periodo di transizione fino a dicembre 2020;
 4. Negoziazione delle relazioni politiche fra UE e Regno Unito. 
-
-
 
 FONTI: 
 
