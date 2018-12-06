@@ -61,8 +61,8 @@ Si aprono scenari molteplici e preoccupanti, soprattutto per il Regno Unito:
 4. Uscita del Regno Unito con un “no-deal”.**
    **
 
-Occorre considerare che pochi giorni fa il Presidente del Consiglio Europeo, **Donald Tusk**, ha dichiarato che, in caso di una bocciatura dell’accordo, per l’UE saranno contemplate solo due possibili soluzioni: un “no-deal” o un annullamento della Brexit stessa. **
-**
+Occorre considerare che pochi giorni fa il Presidente del Consiglio Europeo, **Donald Tusk**, ha dichiarato che, in caso di una bocciatura dell’accordo, per l’UE saranno contemplate solo due possibili soluzioni: un “no-deal” o un annullamento della Brexit stessa. 
+
 
 Qualora, invece, Theresa May riuscisse ad ottenere **l’approvazione di Westminster**, saranno necessari i seguenti passaggi: 
 
