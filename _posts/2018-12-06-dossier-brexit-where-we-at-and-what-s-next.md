@@ -22,6 +22,8 @@ edit: true
 ---
 United Kingdom and European Union finally seem to have reached and agreement on Brexit. What are the main points of this accord? Which scenarios is EU going to face over the next few years? 
 
+Click [here](https://italy.beta-europe.org/2018/12/05/dossier-brexit-luce-in-fondo-al-tunnel/) for the Italian version
+
 ![null](/assets/images/brexit-–-where-we-at-and-what’s-next.jpg)
 
 It has been just over a week since the approval of the long-awaited **agreement** between the **United** **Kingdom** and the **European Union** on the definition of the legal, economic and commercial  **post- Brexit relations**. After months of tension and uncertainties – especially in the event of encountering a “no-deal” and an effective “lose-lose deal” –  it seems that an agreement has apparently been reached on a range of issues.
