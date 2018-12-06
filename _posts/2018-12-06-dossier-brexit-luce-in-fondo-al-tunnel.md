@@ -49,7 +49,7 @@ I sostenitori più intransigenti del Brexit si aspettano una rottura più netta 
 
 La questione della **tutela dei cittadini europei** è stato un tema molto delicato. Non a caso è stato oggetto di negoziazione sin dai primissimi incontri bilaterali fra Londra e Bruxelles. Risulta ancora difficile predire quale possano essere le future norme in materia di immigrazione. È possibile che il governo britannico adotti una normativa ad hoc per agevolare studenti e giovani lavoratori che desiderano andare a lavorare all’interno di ristoranti, caffè e bar (il c.d. “visto del barista”). Al momento, è impossibile fare ulteriori previsioni sullo status degli studenti europei che derideranno trasferirsi nel Regno Unito.
 
-## 
+
 
 ## Cosa aspettarsi in caso di una bocciatura dell’accordo a Westminster?
 
