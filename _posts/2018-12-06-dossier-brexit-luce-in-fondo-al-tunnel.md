@@ -58,13 +58,13 @@ Si aprono scenari molteplici e preoccupanti, soprattutto per il Regno Unito:
 1. Dimissioni di Theresa May e conseguenti **elezioni anticipate**;
 2. Possibile indizione di un **secondo referendum** sulla Brexit;
 3. Ricerca urgente di un **“piano B”**, come proposto da Jeremy Corbyn per valutare una rinegoziazione ed un’estensione dell’art. 50 TUE, con tutte le conseguenze economiche che ciò comporta per Londra;
-4. Uscita del Regno Unito con un “no-deal”.**
-   **
+4. Uscita del Regno Unito con un “no-deal”.
+
 
 Occorre considerare che pochi giorni fa il Presidente del Consiglio Europeo, Donald Tusk, ha dichiarato che, in caso di una bocciatura dell’accordo, per l’UE saranno contemplate solo due possibili soluzioni: un “no-deal” o un annullamento della Brexit stessa. 
 
 
-Qualora, invece, Theresa May riuscisse ad ottenere **l’approvazione di Westminster**, saranno necessari i seguenti passaggi: 
+Qualora, invece, Theresa May riuscisse ad ottenere l’approvazione di Westminster, saranno necessari i seguenti passaggi: 
 
 1. **Ratificazione** da parte di tutti i governi europei a Gennaio 2019 e dal Parlamento europeo di Strasburgo;
 2. Uscita del Regno Unito in data 29 marzo 2019;
