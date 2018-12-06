@@ -22,6 +22,8 @@ edit: true
 ---
 Regno Unito ed Unione Europea sembrano finalmente aver raggiunto un compromesso riguardo alla Brexit. Quali sono i punti fondamentali di questo accordo? E quali gli scenari che l'Unione dovrà affrontare nel prossimo futuro? 
 
+[Qui](https://italy.beta-europe.org/2018/12/05/dossier-brexit-where-we-at-and-what-s-next/) per leggere la versione in inglese
+
 ![null](/assets/images/brexit-–-where-we-at-and-what’s-next.jpg)
 
 È passata poco più di una settimana dall’approvazione del tanto atteso **accordo** fra  **Regno Unito** ed **Unione europea** sulla definizione delle relazioni economiche, commerciali e giuridiche post-Brexit. Dopo mesi di tensioni e incertezze, soprattutto sulla possibilità di incorre in un “no-deal” – per molti un “lose-lose deal” –  le due sponde della Manica sembrano aver trovato un punto di convergenza.
