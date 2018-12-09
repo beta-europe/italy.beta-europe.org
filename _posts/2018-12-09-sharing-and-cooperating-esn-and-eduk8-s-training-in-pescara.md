@@ -18,7 +18,9 @@ edit: true
 ---
 Ester, member of BETA Italy, decided to share with us her experience during the ESN autumn training, an event that took place in Pescara where “cooperation” was the watchword. 
 
-![](/assets/images/schermata-2018-12-09-alle-13.41.11.png)
+Click [here](https://italy.beta-europe.org/2018/12/09/condivisione-e-cooperazione-il-training-di-esn-e-eduk8-a-pescara/) for the Italian version
+
+![null](/assets/images/schermata-2018-12-09-alle-13.41.11.png)
 
 **Cooperation** is one of our main values. From November 27th to December 2nd, my association, BETA Europe,  joined this autumn training organized by the **ESN section of Chieti-Pescara** and **Eduk8**. The sessions were spread in four days and the participants were split into three groups,  each one of them focused and worked on a specific theme: development of **participation through volunteering**, **European citizenship** and **citizenship education**.  
 
@@ -26,7 +28,7 @@ Ester, member of BETA Italy, decided to share with us her experience during the 
 
 The training was based on a **non-formal way of teaching**, the workshops were conducted by facilitators from all over Europe, each one characterized by **different approach to learning methods**. They made us experience firsthand several **ways of expression and discussion**; e.g. in small teams or all together one at a time, depending on the topics, thinking silently, speaking out loud or even painting, singing and representing our thoughts through theatrical scenes.
 
-![](/assets/images/schermata-2018-12-09-alle-13.48.50.png)
+![null](/assets/images/schermata-2018-12-09-alle-13.48.50.png)
 
 The atmosphere we were absorbed in was very **spontaneous** and **friendly**. In the end, we not only were we fed with mouthwatering Italian food, but above all we had the opportunity to **share our visions**, to listen to and to be listened, **without feeling the pressure** of competitiveness at all.
 
