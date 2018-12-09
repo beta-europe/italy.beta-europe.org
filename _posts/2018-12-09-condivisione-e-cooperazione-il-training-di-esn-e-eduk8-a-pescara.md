@@ -35,7 +35,7 @@ Grazie a loro abbiamo avuto la possibilità di sperimentare in prima persona **d
 
 L’atmosfera in cui eravamo immersi era totalmente **rilassante** ed **amichevole**. Oltre ad essere saziati a volontà con dell’ottimo cibo, abbiamo avuto l’opportunità di condividere le nostre idee: ognuno veniva ascoltato dagli altri e non si percepiva nessuna pressione o competitività.
 
-Questo training ci ha dato l’opportunità di migliorare le nostre capacità di **gestire possibili conflitti** all’interno di gruppi di lavoro e di rendere tali **gruppi** più **coesi** e **cooperativi**. Inoltre ci ha permesso di acquisire più conoscenza** **e** **consapevolezza in merito a come motivare le persone che formano costituiscono parte attiva della nostra associazione.
+Questo training ci ha dato l’opportunità di migliorare le nostre capacità di **gestire possibili conflitti** all’interno di gruppi di lavoro e di rendere tali **gruppi** più **coesi** e **cooperativi**. Inoltre ci ha permesso di acquisire più **conoscenza e consapevolezza** in merito a come motivare le persone che formano costituiscono parte attiva della nostra associazione.
 
 Abbiamo **condiviso conoscenze e capacità**, abbiamo sottolineato **l’importanza** di ciò che facciamo e ci siamo **motivati** a vicenda. Infatti, grazie a questo incontro, non solo abbiamo realizzato che ciò che facciamo volontariamente ci rende più felici, ci fa sentire necessari agli altri e ci rende più interessanti ai nostri stessi occhi, ma ci siamo anche soffermati sulle abilità, sui contatti e in generale sulle conoscenze che otteniamo **partecipando attivamente** nella nostra società in quanto **cittadini europei**.
 
