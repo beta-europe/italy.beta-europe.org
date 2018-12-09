@@ -39,7 +39,7 @@ Questo training ci ha dato l’opportunità di migliorare le nostre capacità di
 
 Abbiamo **condiviso conoscenze e capacità**, abbiamo sottolineato **l’importanza** di ciò che facciamo e ci siamo **motivati** a vicenda. Infatti, grazie a questo incontro, non solo abbiamo realizzato che ciò che facciamo volontariamente ci rende più felici, ci fa sentire necessari agli altri e ci rende più interessanti ai nostri stessi occhi, ma ci siamo anche soffermati sulle abilità, sui contatti e in generale sulle conoscenze che otteniamo **partecipando attivamente** nella nostra società in quanto **cittadini europei**.
 
-Infine, abbiamo concluso l’incontro abruzzese con la **stesura di progetti** concreti e attuabili, che saranno riuniti in un fascicolo e potranno ispirare non solo le nostre, ma anche altre associazioni. 
+Infine, abbiamo concluso l’incontro abruzzese con la stesura di progetti concreti e attuabili, che saranno riuniti in un fascicolo e potranno ispirare non solo le nostre, ma anche altre associazioni. 
 
 In questo modo sarà più facile spargere la voce rispetto **all’importanza dell’Unione Europea** e della cittadinanza attiva nei nostri paesi e oltre i confini nazionali.
 
