@@ -16,7 +16,7 @@ share: true
 published: true
 edit: true
 ---
-Ester, member of BETA Italy, decided to share with us her experience during the ESN and Eduk8 autumn training, an event that took place in Pescara where “cooperation” was the watchword. 
+Ester, member of BETA Italy, decided to share with us her experience during the ESN and Eduk8 autumn training, an event that took place in Pescara from November 27th to December 2nd, where “cooperation” was the watchword. 
 
 Click [here](https://italy.beta-europe.org/2018/12/09/condivisione-e-cooperazione-il-training-di-esn-e-eduk8-a-pescara/) for the Italian version
 
