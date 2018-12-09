@@ -19,6 +19,8 @@ edit: true
 ---
 Ester, membro di BETA Italia che ha partecipato al training autunnale di ESN e Eduk8 a Pescara, condivide con noi la sua esperienza. Giorni molto significativi per tutti i partecipanti, in cui “cooperazione” è stata indubbiamente la parola chiave. 
 
+[Qui](https://italy.beta-europe.org/2018/12/09/sharing-and-cooperating-esn-and-eduk8-s-training-in-pescara/) per la versione in inglese
+
 ![null](/assets/images/schermata-2018-12-09-alle-13.41.11.png)
 
 La **cooperazione** è uno dei valori fondanti della nostra associazione. Dal 27 novembre al 2 dicembre **BETA Europa,** l’associazione di cui faccio parte, ha accolto con piacere l’invito a partecipare al **training autunnale** organizzato dalla sezione **ESN di Chieti-Pescara** e **Eduk8**. 
