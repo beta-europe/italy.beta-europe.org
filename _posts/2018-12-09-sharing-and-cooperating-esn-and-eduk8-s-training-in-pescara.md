@@ -30,7 +30,7 @@ The training was based on a **non-formal way of teaching**, the workshops were c
 
 ![null](/assets/images/schermata-2018-12-09-alle-13.48.50.png)
 
-The atmosphere we were absorbed in was very **spontaneous** and **friendly**. In the end, we not only were we fed with mouthwatering Italian food, but above all we had the opportunity to **share our visions**, to listen to and to be listened, **without feeling the pressure** of competitiveness at all.
+The atmosphere we were absorbed in was very **laid-back** and **friendly**. In the end, we not only were we fed with mouthwatering Italian food, but above all we had the opportunity to **share our visions**, to listen to and to be listened, **without feeling the pressure** of competitiveness at all.
 
 This training gave us the opportunity to develop our ability in **conflict management** inside working teams, and to improve our capability to make these groups more **cohesive and cooperative**, moreover it expanded our knowledge on how to **motivate** the people that are part of our association. 
 
