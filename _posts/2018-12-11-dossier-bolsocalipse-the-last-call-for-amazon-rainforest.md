@@ -18,9 +18,11 @@ share: true
 published: true
 edit: true
 ---
-Since his recent election Jair Bolsonaro, the new President of Brazil, made some alariming statement on  the Amazon forest, whose future seems now uncertain and troubled. Damaging the "Lungs of Earth" could cause permanent damages, not only for Brazil, but for the entire terrestrial ecosystem.
+Since his recent election Jair Bolsonaro, the new President of Brazil, made some alarming statement on  the Amazon forest, whose future seems now uncertain and troubled. Damaging the "Lungs of Earth" could cause permanent damages, not only for Brazil, but for the entire terrestrial ecosystem.
 
-![](/assets/images/c01be1bc-12b3-4af2-8311-d54624f4416f.jpg)
+[Here](https://italy.beta-europe.org/2018/12/10/dossier-il-brasile-di-bolsonaro-una-minaccia-all-ecosistema-amazzonico/)  for the Italian version 
+
+![null](/assets/images/c01be1bc-12b3-4af2-8311-d54624f4416f.jpg)
 
 From the night of October 28th 2018 the ultra conservative **Jair Bolsonaro** is the new **president- elect of Brazil** and he will take office starting from 1st January 2019. The aftermaths of his election however, have already **cast a shadow on the Amazon rainforest**. 
 
@@ -69,9 +71,6 @@ SOURCES:
 * [F. Maisonnave, The Ecologist, 19/11/2018: Bolsonaro’s deforestation has begun ](https://theecologist.org/2018/nov/19/bolsonaros-deforestation-has-begun)
 * [C. Welch, National Geographic, 19/11/2018: How Amazon forest loss may affect water—and climate—far away](https://www.nationalgeographic.com/environment/2018/11/how-cutting-the-amazon-forest-could-affect-weather/) 
 * [Report by Indigenous Missionary Council, settembre 2018: “Congresso Anti-Indígena Os parlamentares que mais atuaram contra os direitos dos povos indígenas” ](https://cimi.org.br/wp-content/uploads/2018/09/congresso-anti-indigena.pdf)
-
-
-
 * Climate Home News:
 
 1. [29/10/2018: Brazil elects Bolsonaro, who has threatened Amazon and global climate efforts ](http://www.climatechangenews.com/2018/10/29/brazil-elects-bolsonaro-threatened-amazon-global-climate-efforts/)
