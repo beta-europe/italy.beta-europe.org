@@ -18,7 +18,7 @@ share: true
 published: true
 edit: true
 ---
-Since his recent election Jair Bolsonaro, the new President of Brazil, made some alarming statement on  the Amazon forest, whose future seems now uncertain and troubled. Damaging the "Lungs of Earth" could cause permanent damages, not only for Brazil, but for the entire terrestrial ecosystem.
+Since his recent election Jair Bolsonaro, the new President of Brazil, made some alarming statement on  the Amazon forest, whose future seems now uncertain and troubled. Ruining the "Lungs of Earth" could cause permanent damages not only for Brazil, but for the entire terrestrial ecosystem.
 
 [Here](https://italy.beta-europe.org/2018/12/10/dossier-il-brasile-di-bolsonaro-una-minaccia-all-ecosistema-amazzonico/)  for the Italian version 
 
