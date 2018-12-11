@@ -19,7 +19,9 @@ edit: true
 ---
 Le dichiarazioni di Jair Bolsonaro, neopresidente del Brasile, non lasciano presagire nulla di buono per il futuro della Foresta Amazzonica. Danneggiare il "polmone verde della Terra" potrebbe portare a danni irreparabili, non solo per il paese, ma per l'intero ecosistema nel nostro pianeta. 
 
-![](/assets/images/bolsonaroita.jpg)
+[Qui](https://italy.beta-europe.org/2018/12/10/dossier-bolsocalipse-the-last-call-for-amazon-rainforest/) per la versione in inglese 
+
+![null](/assets/images/bolsonaroita.jpg)
 
 Il **Brasile** ha scelto: dalla sera del 28 ottobre **Jair Bolsonaro** è il nuovo presidente eletto del 5° Paese al mondo per estensione. Il suo mandato inizierà il primo gennaio 2019, ma l’eco dei risultati delle elezioni brasiliane rimbomba già in tutto il mondo; le **preoccupazioni** più grandi riguardano soprattutto la **foresta amazzonica**, il “**grande polmone verde**” della Terra. 
 
@@ -73,9 +75,6 @@ FONTI:
 * [F. Maisonnave, The Ecologist, 19/11/2018: Bolsonaro’s deforestation has begun ](https://theecologist.org/2018/nov/19/bolsonaros-deforestation-has-begun)
 * [C. Welch, National Geographic, 19/11/2018: How Amazon forest loss may affect water—and climate—far away](https://www.nationalgeographic.com/environment/2018/11/how-cutting-the-amazon-forest-could-affect-weather/) 
 * [Report by Indigenous Missionary Council, settembre 2018: “Congresso Anti-Indígena Os parlamentares que mais atuaram contra os direitos dos povos indígenas” ](https://cimi.org.br/wp-content/uploads/2018/09/congresso-anti-indigena.pdf)
-
-
-
 * Climate Home News:
 
 1. [29/10/2018: Brazil elects Bolsonaro, who has threatened Amazon and global climate efforts ](http://www.climatechangenews.com/2018/10/29/brazil-elects-bolsonaro-threatened-amazon-global-climate-efforts/)
