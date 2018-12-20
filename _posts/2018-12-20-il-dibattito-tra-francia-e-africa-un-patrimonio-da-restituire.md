@@ -12,7 +12,7 @@ Il Presidente Macron ha recentemente dichiarato di voler restituire ai paesi afr
 
 ![museo del quai Branly, museo delle arti primitive o delle arti e civiltà d'Africa, Asia, Oceania e Americhe](/assets/images/ce5d40fd820817fb2c49a8e725d43c85.jpg)
 
-_Nell'immagine: museo del quai Branly, museo delle arti primitive o delle arti e civiltà d'Africa, Asia, Oceania e Americhe_
+_Nell'immagine: Museo del quai Branly, il museo delle arti primitive o delle arti e civiltà d'Africa, Asia, Oceania e Americhe di Parigi_
 
 Di recente **Emmanuel Macron**, in seguito ad alcune controverse dichiarazioni, ha aperto un **dibattito politico-artistico** che potrebbe avere assurdi risvolti. In seguito alla sua visita politica il 28 novembre 2017 a **Ouagadougou**, capitale del Burkina Faso, il Presidente francese ha promesso di **riconsegnare ai paesi africani le opere d’arte a loro sottratte dalla Francia**. Queste affermazioni si sono poi trasformate in un vero e proprio **progetto**, che sta ormai prendendo una reale forma. Esso prevede che la Francia restituisca **entro 5 anni** le opere africane ospitate nei musei Francesi. Alcune saranno restituite in **maniera definitiva,** altre, invece, saranno “prestate” solo per un **determinato periodo**
 . La maggior parte (se non la quasi interezza) delle opere d’arte dell’intero continente africano si trovano attualmente **al di fuori dello stesso**, poiché sottratte ai suoi abitanti durante i decenni del colonialismo.
