@@ -1,5 +1,7 @@
 ---
-title: 'UE ed immigrazione: il Parlamento approva i visti umanitari'
+title: >-
+  Il Parlamento europeo detta la strategia delle politiche migratorie: i visti
+  umanitari
 excerpt: 'UE ed immigrazione: il Parlamento approva i visti umanitari'
 date: '2018-12-27 12:27:19'
 toc: false
