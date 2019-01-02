@@ -10,23 +10,25 @@ edit: true
 ---
 La legge sul biotestamento, al momento della sua approvazione nel dicembre del 2017, fece parecchio scalpore nel nostro paese. Ma oggi questo tema così delicato non viene più ripreso dai media e dal dibattito pubblico. Facciamo un po' di chiarezza, per capire, dopo più di un anno, a che punto siamo. 
 
-![](/assets/images/che-fine-ha-fatto-il-testamento-biologico_.jpg)
+![null](/assets/images/che-fine-ha-fatto-il-testamento-biologico_.jpg)
 
 A distanza di un anno dalla sua **approvazione**, sorgono spontanee alcune domande: **che fine ha fatto il testamento biologico**? Sappiamo di cosa stiamo parlando? Per quale motivo è **scomparso dal dibattito** pubblico e giornalistico? A che punto siamo con questa legge nel concreto? È possibile stabilire un primo bilancio annuale? 
 
-Animato dal mio naturale istinto di curiosità, ho pensato che potesse essere utile scrivere un breve approfondimento su uno dei più combattuti **diritti civili** degli ultimi anni (più precisamente, dal 2008). Il desiderio è accresciuto a seguito del rilascio di una rassegna stampa da parte _**dell’Associazione Luca Coscioni**_. Quest’ultima, infatti,  ha rilevato che, a distanza di un anno,  **7 cittadini su 10 **non sappiano  effettivamente che cosa sia il testamento biologico. “Quasi il 54% delle persone ne ha sentito parlare solo superficialmente e il 18% non ne sa nulla: quindi “non pervenuta” in sette casi su 10 e solo il 28% dice di conoscerla bene”. 
+Animato dal mio naturale istinto di curiosità, ho pensato che potesse essere utile scrivere un breve approfondimento su uno dei più combattuti **diritti civili** degli ultimi anni (più precisamente, dal 2008). Il desiderio è accresciuto a seguito del rilascio di una rassegna stampa da parte **_dell’Associazione Luca Coscioni_**. Quest’ultima, infatti,  ha rilevato che, a distanza di un anno, 7 cittadini su 10** **non sappiano  effettivamente che cosa sia il testamento biologico. “Quasi il 54% delle persone ne ha sentito parlare solo superficialmente e il 18% non ne sa nulla: quindi “non pervenuta” in sette casi su 10 e solo il 28% dice di conoscerla bene”. 
 
-Secondo un’indagine condotta da _Vidas_ (associazione di assistenza gratuita ai malati terminali), il biotestamento viene spesso **confuso** con il più noto concetto di **eutanasia**. Prosegue la rassegna dicendo che a complicare la situazione ci sia un alto tasso di **disinformazione a livello locale**, soprattutto nei “Comuni \[che] spesso non \[sono stati capaci di trovare] risposte adeguate e questo ha creato ancora più confusione”. Si tratta, pertanto, di “una situazione che favorisce la sovrapposizione con l’altro delicatissimo tema dell’eutanasia”. Inoltre, “se il 70% degli intervistati è mediamente favorevole al testamento biologico, il 63% teme che sia uno step verso l’eutanasia” e molte persone, pur essendo favorevoli al biotestamento, tendono a **posticipare la decisione**, dato che non si comprende quale sia il momento giusto per farlo, se in giovane età o più avanti negli anni. 
+Secondo un’indagine condotta da _Vidas_ (associazione di assistenza gratuita ai malati terminali), il biotestamento viene spesso **confuso** con il più noto concetto di **eutanasia**. Prosegue la rassegna dicendo che a complicare la situazione ci sia un alto tasso di **disinformazione a livello locale**, soprattutto nei “Comuni \[che] spesso non \[sono stati capaci di trovare] risposte adeguate e questo ha creato ancora più confusione”. Si tratta, pertanto, di “una situazione che favorisce la sovrapposizione con l’altro delicatissimo tema dell’eutanasia”. Inoltre, “se il 70% degli intervistati è mediamente favorevole al testamento biologico, il 63% teme che sia uno step verso l’eutanasia” e molte persone, pur essendo favorevoli al biotestamento, tendono a **posticipare la decisione**, dato che non si comprende quale sia il momento giusto per farlo, se in giovane età o più avanti negli anni. 
 
-## La battaglia civile del testamento biologico
 
-Esattamente un anno fa, in data 14 dicembre 2017, è stata approvata la tanto discussa e attesa **legge sul biotestamento**, entrata successivamente in vigore il 31 gennaio 2018.
+
+## La battaglia civile del testamento biologico
+
+Esattamente un anno fa, in data 14 dicembre 2017, è stata approvata la tanto discussa e attesa **legge sul biotestamento**, entrata successivamente in vigore il 31 gennaio 2018.
 
 Molti cittadini, interessati al campo dei diritti civili e alla lotta per il raggiungimento di un riconoscimento legale del diritto all’eutanasia, si ricorderanno molto bene del lungo e travagliato percorso che ha preceduto **l’approvazione del testo legislativo** qui discusso. Infatti, le legge sul testamento biologico si inserisce all’interno di una **lotta per i diritti civili**: una causa per la quale (a prescindere dal proprio colore politico) si sono resi particolarmente attivi soprattutto **gli ultimi due governi** della precedente legislatura (**Renzi e Gentiloni**).  
 
-Sono stati proprio i **diritti civili** uno dei principali protagonisti del dibattito parlamentare. In alcune circostanze, è stato addirittura possibile assistere a forze politiche che, seppur diametralmente opposte, sono state capaci di trovare un **punto di convergenza**. Il testamento biologico non è stato esente da un lungo ostruzionismo parlamentare che si è consumano in migliaia di emendamenti. Ciononostante, alla fine ha ottenuto l’approvazione grazie a 180 voti a favore, 71 contrari e 6 astensioni, con il voto favorevole del  **Partito Democratico, Movimento 5 Stelle e la sinistra **(MDP & Sinistra Italiana-Possibile), ed il no di Lega Nord, Forza Italia e Alternativa Popolare. La vera pecca del governo Gentiloni è stata probabilmente quella di aver pensato (forse troppo ottimisticamente) di poter raggiungere i numeri necessari per l’approvazione tanto del biotestamento quanto del c.d. Ius soli entro la fine della legislatura. Un obiettivo che il governo si era proposto anzitempo.
+Sono stati proprio i **diritti civili** uno dei principali protagonisti del dibattito parlamentare. In alcune circostanze, è stato addirittura possibile assistere a forze politiche che, seppur diametralmente opposte, sono state capaci di trovare un **punto di convergenza**. Il testamento biologico non è stato esente da un lungo ostruzionismo parlamentare che si è consumano in migliaia di emendamenti. Ciononostante, alla fine ha ottenuto l’approvazione grazie a 180 voti a favore, 71 contrari e 6 astensioni, con il voto favorevole del  **Partito Democratico, Movimento 5 Stelle e la sinistra **(MDP & Sinistra Italiana-Possibile), ed il no di Lega Nord, Forza Italia e Alternativa Popolare. La vera pecca del governo Gentiloni è stata probabilmente quella di aver pensato (forse troppo ottimisticamente) di poter raggiungere i numeri necessari per l’approvazione tanto del biotestamento quanto del c.d. Ius soli entro la fine della legislatura. Un obiettivo che il governo si era proposto anzitempo.
 
-In ogni caso, il **testamento biologico** si è inserito all’interno di questo ciclo di battaglie politiche nel quale i nostri precedenti parlamentari sono stati capaci, a volte addirittura all’unanimità, di creare nuove leggi a tutela dei diritti civili, fra i quali è possibile menzionare:
+In ogni caso, il **testamento biologico** si è inserito all’interno di questo ciclo di battaglie politiche nel quale i nostri precedenti parlamentari sono stati capaci, a volte addirittura all’unanimità, di creare nuove leggi a tutela dei diritti civili, fra i quali è possibile menzionare:
 
 \-	Il Divorzio breve (22 aprile del 2015);
 
@@ -44,7 +46,9 @@ In ogni caso, il **testamento biologico** si è inserito all’interno di questo
 
 \-	La legge sull’ Autismo (5 agosto del 2015). 
 
-## Quale categoria di diritti?
+## 
+
+Quale categoria di diritti?
 
 Quando parliamo di biotestamento ed eutanasia rientriamo all’interno dei c.d. “**nuovi diritti**” o “**diritti di quarta generazione**”. Ci si riferisce a libertà rivendicate più recentemente che investono soprattutto la tutela dell’ambiente, la dignità dell’uomo in un senso assai ampio del termine, le nuove tecnologie informatiche, il campo dell’informazione, la fecondazione assistita, il “suicidio assistito”, la procreazione artificiale e quindi anche la **bioetica**. 
 
@@ -58,7 +62,7 @@ Con **testamento biologico** si intende una “**dichiarazione anticipata di vol
 
 ## Il Testamento biologico in Europa, brevemente
 
-Come spiegato da _Euronews_, il quadro normativo a livello europeo risulta assai variegato a seconda del caso preso in esame.  Vi è, comunque, un documento di riferimento chiamato _**Convenzione dei diritti dell’uomo e la biomedicina**_, altresì conosciuta come Convenzione di Oviedo (1997) che enuncia all’art. 9 il “**principio della libertà di scelta dell’individuo rispetto alle cure**”.
+Come spiegato da _Euronews_, il quadro normativo a livello europeo risulta assai variegato a seconda del caso preso in esame.  Vi è, comunque, un documento di riferimento chiamato **_Convenzione dei diritti dell’uomo e la biomedicina_**, altresì conosciuta come Convenzione di Oviedo (1997) che enuncia all’art. 9 il “**principio della libertà di scelta dell’individuo rispetto alle cure**”.
 
 Per quanto concerne la legislazione in materia, abbiamo due gruppi di paesi:
 
@@ -79,8 +83,6 @@ Secondo l’associazione, **non c’è stata una vera e propria campagna d’inf
 Come dichiarato dallo stesso comunicato, “per rintracciare un documento uscito dal Governo sul testamento biologico, dobbiamo tornare indietro al Governo Gentiloni quando il Ministero dell’Interno sostenuto da Marco Minniti, l’8 febbraio 2018, diramò una propria circolare fondamentale per chiarire il ruolo degli uffici dello stato civile e degli enti comunali circa il recepimento delle DAT”. 
 
 L’impressione è, quindi, che **ci sia ancora molto lavoro da fare** per una piena e completa attuazione della legge e che ci sia bisogno di più tempo affinché il tema possa entrare pienamente nella **coscienza** dei cittadini italiani.
-
-
 
 FONTI:
 
