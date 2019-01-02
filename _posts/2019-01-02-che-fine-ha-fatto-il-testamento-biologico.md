@@ -88,16 +88,16 @@ FONTI:
 
 Augusto Barbera & Carlo Fusaro, Corso di diritto pubblico, sesta edizione, Il Mulino, Bologna, 2010. 
 
-Cecilia Cacciotto, Il testamento biologico nei diversi Paesi europei, Euronews, https://it.euronews.com/2017/11/26/convenzione-oviedo-testameno-biologico-europa. 
+[Cecilia Cacciotto, Il testamento biologico nei diversi Paesi europei, Euronews](https://it.euronews.com/2017/11/26/convenzione-oviedo-testameno-biologico-europa),
 
-Luca Coscioni, Un anno di Biotestamento. Dal nostro sito scaricati circa 30 mila moduli, Associazione Luca Coscioni, https://www.associazionelucacoscioni.it/notizie/comunicati/un-anno-legge-sul-biotestamento/. 
+[Luca Coscioni, Un anno di Biotestamento. Dal nostro sito scaricati circa 30 mila moduli, Associazione Luca Coscioni](https://www.associazionelucacoscioni.it/notizie/comunicati/un-anno-legge-sul-biotestamento/), 
 
-Lucia Mazzei, Biotestamento un anno dopo: 7 cittadini su 10 non sanno cos’è, Associazione Luca Coscioni, https://www.associazionelucacoscioni.it/notizie/rassegna-stampa/117613/. 
+[Lucia Mazzei, Biotestamento un anno dopo: 7 cittadini su 10 non sanno cos’è, Associazione Luca Coscioni](https://www.associazionelucacoscioni.it/notizie/rassegna-stampa/117613/),  
 
-Matteo Mainardi, Testamento biologico. A che punto siamo?, Associazione Luca Coscioni, https://www.associazionelucacoscioni.it/notizie/blog/testamento-biologico-punto/.
+[Matteo Mainardi, Testamento biologico. A che punto siamo?, Associazione Luca Coscioni](https://www.associazionelucacoscioni.it/notizie/blog/testamento-biologico-punto/),
 
-Redazione TPI, Che differenze ci sono tra eutanasia, suicidio assistito e testamento biologico, TPI, https://www.tpi.it/2017/02/27/eutanasia-suicidio-assistito-testamento-biologico-differenze/. 
+[Redazione TPI, Che differenze ci sono tra eutanasia, suicidio assistito e testamento biologico, TPI](https://www.tpi.it/2017/02/27/eutanasia-suicidio-assistito-testamento-biologico-differenze/), 
 
-Serenella Ronda, Dal biotestamento alle unioni civili. Quali sono i nuovi diritti degli italiani, Agi, https://www.agi.it/politica/rapporto-legislatura/unioni_civili_biotestamento_divorzio_breve-3315619/news/2017-12-28/. 
+[Serenella Ronda, Dal biotestamento alle unioni civili. Quali sono i nuovi diritti degli italiani, Agi](https://www.agi.it/politica/rapporto-legislatura/unioni_civili_biotestamento_divorzio_breve-3315619/news/2017-12-28/), 
 
-The Post, Il testamento biologico è legge, Sezione Politica, https://www.ilpost.it/2017/12/14/voto-finale-testamento-biologico/.
+[The Post, Il testamento biologico è legge, Sezione Politica](https://www.ilpost.it/2017/12/14/voto-finale-testamento-biologico/).
