@@ -46,8 +46,6 @@ In ogni caso, il **testamento biologico** si è inserito all’interno di questo
 
 \-	La legge sull’ Autismo (5 agosto del 2015). 
 
-
-
 ## Quale categoria di diritti?
 
 Quando parliamo di biotestamento ed eutanasia rientriamo all’interno dei c.d. “**nuovi diritti**” o “**diritti di quarta generazione**”. Ci si riferisce a libertà rivendicate più recentemente che investono soprattutto la tutela dell’ambiente, la dignità dell’uomo in un senso assai ampio del termine, le nuove tecnologie informatiche, il campo dell’informazione, la fecondazione assistita, il “suicidio assistito”, la procreazione artificiale e quindi anche la **bioetica**. 
