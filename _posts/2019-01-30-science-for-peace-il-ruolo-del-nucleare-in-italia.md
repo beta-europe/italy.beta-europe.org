@@ -12,7 +12,7 @@ Nell'ultima edizione di _Science for Peace, _il congresso organizzato dall'Assoc
 
 ![null](/assets/images/schermata-2019-01-30-alle-14.29.19.png)
 
-Lo scorso novembre si è tenuta, presso l’Università Bocconi di Milano, la **decima edizione **del congresso mondiale _Science for Peace,_ un evento organizzato dalla **Fondazione Umberto Veronesi.** Il progetto, ideato proprio dal Dott. Umberto Veronesi, ha l’obiettivo di riunire protagonisti del panorama scientifico e non solo (sono infatti chiamati a partecipare anche esponenti della cultura e delle istituzioni), per discutere di **come la scienza possa e debba impegnarsi per costruire un mondo di pace**. Il tema di quest’ultima edizione era “**Disuguaglianze globali”**. 
+Lo scorso novembre si è tenuta, presso l’Università Bocconi di Milano, la decima edizione del congresso mondiale _Science for Peace,_ un evento organizzato dalla Fondazione Umberto Veronesi. Il progetto, ideato proprio dal Dott. Umberto Veronesi, ha l’obiettivo di riunire protagonisti del panorama scientifico e non solo (sono infatti chiamati a partecipare anche esponenti della cultura e delle istituzioni), per discutere di **come la scienza possa e debba impegnarsi per costruire un mondo di pace**. Il tema di quest’ultima edizione era “**Disuguaglianze globali”**. 
 
 Nella prima giornata è intervenuta, durante i saluti iniziali, **Susi Snyder, presidentessa dell’ICAN.** Il suo intervento è stato così intenso ed interessante che ha ricevuto diversi minuti di applausi, ed è stato a mio parere uno dei contributi più significativi della giornata. 
 
