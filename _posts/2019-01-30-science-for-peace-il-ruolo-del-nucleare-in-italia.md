@@ -8,9 +8,9 @@ share: true
 published: true
 edit: true
 ---
-Nell'ultima edizione di _Science for Peace, _il congresso mondiale organizzato dall'Associazione Umberto Veronesi,_ _si è parlato di nucleare ed in particolare dell'azione svolta nel nostro paese dall'ICAN, International Campaign to Abolish Nuclear Weapons. 
+Nell'ultima edizione di _Science for Peace, _il congresso organizzato dall'Associazione Umberto Veronesi_,_ si è parlato di nucleare ed in particolare dell'azione svolta nel nostro paese dall'ICAN, International Campaign to Abolish Nuclear Weapons. 
 
-![](/assets/images/schermata-2019-01-30-alle-14.29.19.png)
+![null](/assets/images/schermata-2019-01-30-alle-14.29.19.png)
 
 Lo scorso novembre si è tenuta, presso l’Università Bocconi di Milano, la **decima edizione **del congresso mondiale _Science for Peace,_ un evento organizzato dalla **Fondazione Umberto Veronesi.** Il progetto, ideato proprio dal Dott. Umberto Veronesi, ha l’obiettivo di riunire protagonisti del panorama scientifico e non solo (sono infatti chiamati a partecipare anche esponenti della cultura e delle istituzioni), per discutere di **come la scienza possa e debba impegnarsi per costruire un mondo di pace**. Il tema di quest’ultima edizione era “**Disuguaglianze globali”**. 
 
@@ -22,7 +22,8 @@ Il nostro paese si espresse, di fatto, contro il nucleare e la costruzione di ce
 
 Nonostante la tensione tra questi due grandi stati si sia molto acquietata col trascorrere degli anni, l’Italia, in quanto membro NATO, permette ancora alle **basi militari americane** presenti nel nostro territorio di tenere nelle loro sedi delle **bombe atomiche**. 
 
-Qualche anno fa, un’inchiesta della rivista [_L’Espresso_](http://espresso.repubblica.it/inchieste/2014/07/01/news/ecco-le-bombe-nucleari-di-brescia-1.171372), avvallata da una ricerca della **Federazione degli scienziati americani** ([FSA](https://fas.org/blogs/security/2014/06/ghedi/)), ha documentato come in Italia siano presenti tra le 70 e le 180 unità di ordigni nucleari statunitensi. I due governi non hanno mai confermato o smentito tale ricerca, ma le prove recuperate dall’associazione, come la presenza di veicoli NATO specializzati per il trasporto di ordigni atomici e una speciale unità dell’esercito americano che si occupa nello specifico di questo tipo di bombe, fa pensare che quelle riportate dall’inchiesta non siano semplici supposizioni. 
+Qualche anno fa, un’inchiesta della rivista [_L’Espresso_](http://espresso.repubblica.it/inchieste/2014/07/01/news/ecco-le-bombe-nucleari-di-brescia-1.171372), avvallata da una ricerca della **Federazione degli scienziati americani** ([FSA](https://fas.org/blogs/security/2014/06/ghedi/)), ha documentato come in Italia siano presenti tra le 70 e le 180 unità di ordigni nucleari statunitensi. 
+I due governi non hanno mai confermato o smentito tale ricerca, ma le prove recuperate dall’associazione, come la presenza di veicoli NATO specializzati per il trasporto di ordigni atomici e una speciale unità dell’esercito americano che si occupa nello specifico di questo tipo di bombe, fa pensare che quelle riportate dall’inchiesta non siano semplici supposizioni. 
 
 Secondo il presidente della FSA, in Italia, sarebbero presenti **due tipi di bombe:** la B61-4, con potenze da 0.3 a 50 kiloton e la B61-3, con potenze da 0.3 a 170 kiloton; questi ordigni hanno una **potenza** di ben **11 volte maggiore **rispetto a quelli sganciati sulla città giapponese di Hiroshima. La presenza sul territorio nazionale di queste testate nucleari non solo pone **preoccupazione** sulla salute umana, ma rappresenta anche un elevato **onere** per le casse dello Stato, che deve infatti occuparsi della messa in sicurezza dei depositi impegnando cifre tutt'altro che trascurabili. Nel mondo, in un singolo minuto, 25 milioni di lattine di Coca Cola vengono consumate, nascono 258 bambini, 58 aeroplani decollano e 70 000 dollari vengono spesi per gli armamenti nucleari. Tutto questo in appena **60 secondi**. 
 
