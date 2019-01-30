@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 ---
-Nell'ultima edizione di _Science for Peace, _il congresso organizzato dall'Associazione Umberto Veronesi_,_ si è parlato di nucleare ed in particolare dell'azione svolta nel nostro paese dall'ICAN, International Campaign to Abolish Nuclear Weapons. 
+Nell'ultima edizione di Science for Peace, il congresso organizzato dall'Associazione Umberto Veronesi, si è parlato di nucleare ed in particolare dell'azione svolta nel nostro paese dall'ICAN, International Campaign to Abolish Nuclear Weapons. 
 
 ![null](/assets/images/schermata-2019-01-30-alle-14.29.19.png)
 
