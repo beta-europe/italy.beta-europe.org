@@ -20,8 +20,7 @@ Solo i paesi **dell’Est Europa** sono in condizioni più critiche, ma la loro 
 
 Allora perché l’Italia non cresce più? Le cause possono essere riassunte in tre punti:  
 
-1. **Politica anti-inflazionistica
-   **
+1. **Politica anti-inflazionistica**
 
 Dalla fine degli anni 70’ il Bel Paese ha cercato di **stabilizzare** i propri **tassi di cambio** \[1] rispetto a quelli dei paesi concorrenti ed il modo più efficace per riuscirci era assicurarsi che i **tassi d’inflazione** (cioè la variazione del potere d'acquisto della moneta) italiani fossero in linea con quelli degli altri Stati. Si è lasciato dunque che fosse una banca a decidere per la **politica monetaria italiana** \[3], una realtà che fosse in grado di garantire una maggiore stabilità e sicurezza: la **Deutsche Bank**, la banca leader della Germania, lo Stato con il PIL più alto dell’Unione Europea. Questa decisione ha comportato la **perdita dell’autonomia** in ambito monetario e gravi danni a tutta l'economia italiana. La Deutsche Bank si è sempre occupata ditrovre soluzioni per migliorare l’economia tedesca, non quella italiana, e aveva tutte le ragioni per farlo.
 
