@@ -26,11 +26,11 @@ Dalla fine degli anni 70’ il Bel Paese ha cercato di **stabilizzare** i propri
 
 Si è sfociati dunque in un **aumento dei tassi d’interesse** che, nel giro di 10/15 anni, ha portato a sua volta ad un rapporto debito/PIL superiore al 100%. In altre parole, la famiglia italiana media si è trovata ad avere un **potere d’acquisto più limitato** e lo **Stato Italiano** si è invece **impoverito**, a fronte di una crescente evasione fiscale ed una minor volontà degli investitori esteri di puntare sui titoli italiani.    
 
- \[1] Tasso di cambio = “numero di unità di moneta estera che possono essere acquistate con un'unità di moneta nazionale”
+ \[1] Tasso di cambio: numero di unità di moneta estera che possono essere acquistate con un'unità di moneta nazionale
 
-\[2] Tasso di inflazione = “la variazione del potere d'acquisto della moneta”
+\[2] Tasso di inflazione: la variazione del potere d'acquisto della moneta
 
-\[3] Politica monetaria = “è l’insieme degli obiettivi, strumenti e interventi adottati da uno Stato, per modificare e orientare la moneta, il credito e la finanza, al fine di raggiungere obiettivi prefissati di politica economica, di cui la politica monetaria fa parte”
+\[3] Politica monetaria: è l’insieme degli obiettivi, strumenti e interventi adottati da uno Stato, per modificare e orientare la moneta, il credito e la finanza, al fine di raggiungere obiettivi prefissati di politica economica, di cui la politica monetaria fa parte
 
 2. **Mercato del lavoro**
 
