@@ -14,7 +14,7 @@ Una breve panoramica sulle difficoltà che l'economia italiana sta affrontando d
 
 Telegiornali, quotidiani, radio. Ne parlano tutti. 
 
-**L’Italia**, ancora una volta, si ritrova a dover lottare per la **sopravvivenza** **economica. **Il confronto con gli altri paesi della zona Euro è impietoso: dagli anni ‘80 ad oggi il nostro è uno dei pochi Stati che non ha saputo riprendersi dalle recenti stangate economiche. Nel terzo trimestre del 2018 la dinamica dell’economia italiana è risultata stagnante: il tasso di crescita del PIL si è assestato allo **0.8%**, contro l’1.2% del trimestre precedente.
+L’Italia, ancora una volta, si ritrova a dover lottare per la sopravvivenza economica. Il confronto con gli altri paesi della zona Euro è impietoso: dagli anni ‘80 ad oggi il nostro è uno dei pochi Stati che non ha saputo riprendersi dalle recenti stangate economiche. Nel terzo trimestre del 2018 la dinamica dell’economia italiana è risultata stagnante: il tasso di crescita del PIL si è assestato allo 0.8%, contro l’1.2% del trimestre precedente.
 
 Solo i paesi **dell’Est Europa** sono in condizioni più critiche, ma la loro situazione di partenza è completamente diversa. La storica e continua instabilità politica e sociale ha portato questi Stati ad un progressivo indebolimento, incentivando la focalizzazione dei loro sforzi economici sulla ricostruzione delle infrastrutture e sulla cucitura del tessuto sociale. 
 
