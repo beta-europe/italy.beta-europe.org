@@ -8,9 +8,9 @@ share: true
 published: true
 edit: true
 ---
-_Un articolo che ripercorre la storia linguistica, politica e culturale di un Paese che, ancora oggi, si trova a cavallo tra "le due metà" del mondo. _
+Un articolo che ripercorre la storia linguistica, politica e culturale di un Paese che, ancora oggi, si trova a cavallo tra "le due metà" del mondo. 
 
-![](/assets/images/whatsapp-image-2018-12-15-at-18.52.12.jpeg)
+![null](/assets/images/whatsapp-image-2018-12-15-at-18.52.12.jpeg)
 
 Osservando l’estensione della **Federazione Russa,** si può notare che il Paese ricopre il 23% del continente europeo ed il 77% di quello asiatico; si trova quindi, da un **punto di vista geografico**, in una posizione quantomeno **ambigua**. 
 
@@ -36,17 +36,22 @@ Solo con il Romanticismo, ed in particolare con il poeta **Puskin**, la lingua r
 
 La cosa fondamentale e molto curiosa al riguardo è che, fino alla metà dell’Ottocento, la lingua russa era solo **dedicata alla letteratura**. Solo con il passare del tempo e in seguito al suo adattamento, il russo ricoprirà anche altri campi – scientifico, pubblicistico, opere ufficiali -  che non solo faranno acquisire al parlante nuovi elementi linguistici, ma anche **altri valori e modelli culturali**.
 
-Questo si verifica in maniera molto netta e profonda durante tutto il **periodo comunista**, nel quale la lingua russa bandisce tutti i prestiti di altre lingue e crea neologismi propri. Solo con la **caduta dell’URSS**, i parlanti russi riprendono ad utilizzare prestiti e calchi derivati soprattutto dalla cultura anglo-americana. Un esempio? “FeisBuk” in russo significa “Facebook”! 
+Questo si verifica in maniera molto netta e profonda durante tutto il **periodo comunista**, nel quale la lingua russa bandisce tutti i prestiti di altre lingue e crea neologismi propri.
+ Solo con la **caduta dell’URSS**, i parlanti russi riprendono ad utilizzare prestiti e calchi derivati soprattutto dalla cultura anglo-americana. Un esempio? “FeisBuk” in russo significa “Facebook”! 
 
 Concludendo, quindi, capiamo che il russo non è altro che una lingua costruita nel corso del tempo e che si fa carico di tradizioni e culture che le danno un’identità ambigua. Nel repertorio di questo ricco e versatile linguaggio non solo troviamo **elementi occidentali** (latinismi, grecismi, italianismi, francesismi, germanismi), ma anche **elementi orientali** (turchismi, giudaismi, sionismi, arabismi) sintomo che questa lingua e quindi l’intera identità russa è un ibrido.
 
-## Le radici storico-culturali
+## 
 
-Ma come mai la lingua russa è così pregna di tutti questi elementi stranieri? La risposta ci viene dalla Storia. Infatti, la Russia è stata nel corso dei secoli **terra di passaggio** di numerose culture e popolazioni.
+Le radici storico-culturali
+
+Ma come mai la lingua russa è così pregna di tutti questi elementi stranieri? La risposta ci viene dalla Storia.
+ Infatti, la Russia è stata nel corso dei secoli **terra di passaggio** di numerose culture e popolazioni.
 
 Inizialmente, il territorio russo era occupato da **popolazioni nomadi**, alle quali nel VII secolo subentrarono gli **Slavi** ed alcune popolazioni di origine vichinga, che, sovrapponendosi e mescolandosi a questo substrato, diedero origine alla **Rus’ kieviana**. Questo territorio prese il nome dall’operato dei principi del popolo Rus’ (di stirpe vichinga) provenienti da Novgorod che si stabilirono intorno a Kiev.
 
-Con la **conversione** al cristianesimo del principe Oleg, conosciuto come **Vladimir I, **avvenuta nel 988 d.C., la Rus’ di Kiev entrò in stretti rapporti con **Bisanzio**. Nel 1132, con la Morte di Vladimir II il potere centrale si disgregò e vennero creati nuovi centri di potere, tra cui Novgorod. Nel **1237** il paese fu **invaso dai Mongoli** guidati da **Gengis Khan** che fondarono il _Khanato dell’Orda d’Oro _\[2]  e che nel 1240 misero a ferro e fuoco Kiev. I principati russi in questo periodo furono ridotti ad una posizione **subordinata e tributaria** verso il Khanato. 
+Con la **conversione** al cristianesimo del principe Oleg, conosciuto come **Vladimir I, **avvenuta nel 988 d.C., la Rus’ di Kiev entrò in stretti rapporti con **Bisanzio**. Nel 1132, con la Morte di Vladimir II il potere centrale si disgregò e vennero creati nuovi centri di potere, tra cui Novgorod.
+ Nel **1237** il paese fu **invaso dai Mongoli** guidati da **Gengis Khan** che fondarono il _Khanato dell’Orda d’Oro _\[2]  e che nel 1240 misero a ferro e fuoco Kiev. I principati russi in questo periodo furono ridotti ad una posizione **subordinata e tributaria** verso il Khanato. 
 
 Il **periodo tataro-mongolo **si concluse solo nel **1480** con **Ivan III**, sovrano che dichiarò decaduto ogni dovere di fedeltà verso il khan. Inoltre Ivan III fu promotore del **processo di unificazione** dei russi e, sposando nel 1472 la nipote dell’ultimo imperatore bizantino, diede inizio al **mito della “Terza Roma”,** secondo il quale la Russia sarebbe stata l’erede della civiltà romano-bizantina. Il figlio di Ivan III, **Basilio III** (1503-1533), adottò uno “schema universalista che rifiutava l’autorità del Papa, rendendo Mosca la terza Roma: a livello politico lo zar ne ricevette **un’autorità derivata direttamente da Dio**.” \[3]  Si trattava di un elemento fondamentale per la costruzione dell’identità russa.
 
@@ -64,11 +69,10 @@ Questo episodio **trasformò culturalmente** la vita di tutta la Russia: da quel
 
 Il periodo degli zar si concluse con la **Rivoluzione d’Ottobre del 1917 **che sconvolse ancora una volta la cultura e la tradizione russa. Con l’instaurarsi del comunismo, ad esempio, fu **bandita** dal territorio russo la religione **cristiana ortodossa**. Questo cambiamento drastico causò una profonda percezione della religiosità da parte della popolazione, in particolare quella contadina, che progressivamente sostituì la propria religione con il **culto dello Stato**. 
 
-Per comprendere meglio quanto riportato precedentemente, vi fornisco un esempio. All’interno di ogni casa russa vi era un angolo chiamato “**krasnij ugol**” (che in russo pre-comunista significa “**angolo bello**”) nel quale vi era appesa un’ikona \[4] alla quale si rivolgevano preghiere o si chiedeva protezione. Con l’avvento del comunismo, la parola “krasnij”, assunse il significato odierno di “**rosso**”, per cui “**krasnij ugol**” significa “**angolo rosso**”, ovvero la zona della casa dove vi erano appesi i quadri che ritraevano i maggiori esponenti del partito comunista.
+Per comprendere meglio quanto riportato precedentemente, vi fornisco un esempio.
+ All’interno di ogni casa russa vi era un angolo chiamato “**krasnij ugol**” (che in russo pre-comunista significa “**angolo bello**”) nel quale vi era appesa un’ikona \[4] alla quale si rivolgevano preghiere o si chiedeva protezione. Con l’avvento del comunismo, la parola “krasnij”, assunse il significato odierno di “**rosso**”, per cui “**krasnij ugol**” significa “**angolo rosso**”, ovvero la zona della casa dove vi erano appesi i quadri che ritraevano i maggiori esponenti del partito comunista.
 
 Il periodo sovietico, si concluse il **25 dicembre del 1991** con l’abbassamento della bandiera sovietica dal Cremlino. Con questo significativo episodio, **finì** un’era caratterizza dal più **totale isolamento** dal mondo occidentale che aveva scosso e cambiato profondamente la cultura e la percezione russa dell’Occidente. Oggi, però, tale percezione è più **aperta e prossima all’accoglienza** del mondo esterno, occidentale e non.
-
-
 
 ## Slavisti ed occidentalisti
 
@@ -82,11 +86,10 @@ Gli slavofili sono soliti sostenere che il Paese è stato un **crocevia di civil
 
 \[2] Dopo la morte di Gengis Khan, l’impero mongolo fu diviso in quattro khanati tra i quali quello Dell’Orda D’Oro, fiorito in Russia nei secoli XII-XVI. 
 
-\[3] Rey, Marie-Pierre, Le dilemme russe. La Russie et l’Europe occidentale d’Ivan le Terrible à Boris Eltsine, Paris, Flammarion 2002, pag. 24
+\[3]
+ Rey, Marie-Pierre, Le dilemme russe. La Russie et l’Europe occidentale d’Ivan le Terrible à Boris Eltsine, Paris, Flammarion 2002, pag. 24
 
 \[4] Raffigurazione sacra dipinta su tavola, prodotta nell'ambito della cultura cristiana bizantina e slava
-
-
 
 FONTI: 
 
