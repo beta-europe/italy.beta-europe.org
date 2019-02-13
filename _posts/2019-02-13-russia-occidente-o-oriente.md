@@ -41,9 +41,7 @@ Questo si verifica in maniera molto netta e profonda durante tutto il **periodo 
 
 Concludendo, quindi, capiamo che il russo non è altro che una lingua costruita nel corso del tempo e che si fa carico di tradizioni e culture che le danno un’identità ambigua. Nel repertorio di questo ricco e versatile linguaggio non solo troviamo **elementi occidentali** (latinismi, grecismi, italianismi, francesismi, germanismi), ma anche **elementi orientali** (turchismi, giudaismi, sionismi, arabismi) sintomo che questa lingua e quindi l’intera identità russa è un ibrido.
 
-## 
-
-Le radici storico-culturali
+## Le radici storico-culturali
 
 Ma come mai la lingua russa è così pregna di tutti questi elementi stranieri? La risposta ci viene dalla Storia.
  Infatti, la Russia è stata nel corso dei secoli **terra di passaggio** di numerose culture e popolazioni.
