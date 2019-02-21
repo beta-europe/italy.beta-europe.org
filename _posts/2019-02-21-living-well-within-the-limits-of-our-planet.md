@@ -31,9 +31,7 @@ The concept of **poverty** combined with **environmental degradation** remains o
 
 **The environment** is one of the tools through which individuals can **decrease or increase their level of well-being** and that of others. Human societies have been built by taking into account the availability of natural resources which from a long-term conservationist perspective, they are based on **respect for biodiversity**. The growth of the population requires an increase in the demand of natural resources and greater **pressure on ecosystems**. This tension creates two problems. These include pollution or the need for other basic necessities, compared to those already existing such as the disposal of polluting waste, deforestation, etc. (Tietenberg, Folmer , Eldgar, 2006). Hence, it is essential to **contain waste and excesses**. It is essential to think in terms of sustainability to reduce poverty, and I am not taking about worldwide poverty, I am talking about the EU loss of unity, which is crucial for us as European citizen.
 
-```
-The environment does not concern the individual only. **Everyone must be involved and take action** both as an individual and as a group. Only with **the Union **the results will be achieved. 
-```
+The environment does not concern the individual only. **Everyone must be involved and take action** both as an individual and as a group. Only with the Union the results will be achieved. 
 
 Only in the Union will we be able to resolve **sustainability issues** affecting the EU and the whole world, which surrounds our community. But only after having solved the micro level someone can speak in the name of the whole world. It is clear that the rest of the world is not condemned at all, but if we start from the EU level, we can no longer say that the problems are too big to be clarified. We must therefore remain **_in varietate concord_**.  The sole way to do so is to live united and more sustainable.
 
