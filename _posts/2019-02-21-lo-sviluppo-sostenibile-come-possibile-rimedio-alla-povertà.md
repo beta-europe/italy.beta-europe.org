@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 ---
-Con l'introduzione del concetto di "sviluppo sostenibile" e l'elaborazione di specifici piani per lo sviluppo dei paesi più poveri e la tutela dell'ambiente, alcune organizzazioni sovranazionali, come l'ONU o l'UE, hanno negli ultimi anni contribuito a portare una particolare attenzione su questo tema. 
+Con l'introduzione del concetto di "sviluppo sostenibile" e l'elaborazione di specifici piani per lo sviluppo dei paesi più poveri e la tutela dell'ambiente, alcune istituzioni, come l'ONU o l'UE, hanno negli ultimi anni contribuito a portare una particolare attenzione su questo tema. 
 
 ![null](/assets/images/1550660690320blob.jpg)
 
