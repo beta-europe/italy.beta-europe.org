@@ -47,4 +47,4 @@ Only in the Union will we be able to resolve **sustainability issues** affecting
 * Corduas  Claudio Consalvo, (2013), “Environmental sustainability and quality of development”, Ed. Nuova Cultura.
 * UNESCO (2017),  Education for the SSGs http://www.unesco.org/open-access/termsuse-ccbysa-en§.
 * Tietenberg T., Folmer H., Edward Eldgar, (2006), The International Year Book of Environmental  and  Resource  Economics:  A  survey  of  current  issues,  Publishing  Limited, Cheltenam, UK.
-* http://ec.europa.eu/environment/action-programme/
+* [europa.eu](http://ec.europa.eu/environment/action-programme/)
