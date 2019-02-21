@@ -33,7 +33,7 @@ The concept of **poverty** combined with **environmental degradation** remains o
 
 The environment does not concern the individual only. **Everyone must be involved and take action** both as an individual and as a group. Only with the Union the results will be achieved. 
 
-Only in the Union will we be able to resolve **sustainability issues** affecting the EU and the whole world, which surrounds our community. But only after having solved the micro level someone can speak in the name of the whole world. It is clear that the rest of the world is not condemned at all, but if we start from the EU level, we can no longer say that the problems are too big to be clarified. We must therefore remain **_in varietate concord_**.  The sole way to do so is to live united and more sustainable.
+Only in the Union will we be able to resolve **sustainability issues** affecting the EU and the whole world, which surrounds our community. But only after having solved the micro level someone can speak in the name of the whole world. It is clear that the rest of the world is not condemned at all, but if we start from the EU level, we can no longer say that the problems are too big to be clarified. We must therefore remain **_in varietate concordia_**.  The sole way to do so is to live united and more sustainable.
 
 \[1] Living well, within the limits of our planet: decision n.1386/2013/EU of 20 November 2013
 
