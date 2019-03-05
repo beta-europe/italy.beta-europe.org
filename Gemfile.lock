@@ -3,7 +3,7 @@ GIT
   revision: 52b28ba9e2e932cad86373d6413535874ff2b85e
   specs:
     minimal-mistakes-beta-jekyll (4.12.0.4)
-      jekyll (~> 3.6)
+      jekyll (~> 3.6.4)
       jekyll-archives (~> 2.1)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.9.2)
@@ -34,7 +34,7 @@ GEM
       nokogiri (>= 1.4)
     i18n (1.0.1)
       concurrent-ruby (~> 1.0)
-    jekyll (3.6.2)
+    jekyll (3.6.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -74,7 +74,7 @@ GEM
     mini_portile2 (2.3.0)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    nokogiri (1.8.3)
+    nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     octokit (4.9.0)
       sawyer (~> 0.8.0, >= 0.5.3)
