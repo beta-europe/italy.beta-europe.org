@@ -41,14 +41,11 @@ Per farvi capire che donna fantastica sia Amalia Ercoli Finzi vorrei concludere 
 
 FONTI: 
 
-https://www.youtube.com/watch?v=Xi0cZ1aNN8w 
-
-https://www.youtube.com/watch?v=L51Vm2V2eA8 
-
-https://www.asi.it/it/attivita/esplorare-lo-spazio/esplorazione-del-sistema-solare/rosetta
-
-https://www.esa.int/kids/it/imparare/L_Universo/Pianeti_e_satelliti/La_Fascia_di_Kuiper 
+* [Youtube](https://www.youtube.com/watch?v=Xi0cZ1aNN8w)
+* [Youtube](https://www.youtube.com/watch?v=L51Vm2V2eA8)
+* [asi.it](https://www.asi.it/it/attivita/esplorare-lo-spazio/esplorazione-del-sistema-solare/rosetta)
+* [esa.it](<https://www.esa.int/kids/it/imparare/L_Universo/Pianeti_e_satelliti/La_Fascia_di_Kuiper >) 
 
 CREDITS IMMAGINI: 
 
-http://archive.oapd.inaf.it/pianetav/L15_11S.html
+[Immagine cometa](http://archive.oapd.inaf.it/pianetav/L15_11S.html)
