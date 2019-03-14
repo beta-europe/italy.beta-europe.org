@@ -11,7 +11,7 @@ header: {}
 ---
 Spesso l'Unione Europea viene **criticata** per portare avanti un tipo di **politiche** che, a parer di alcuni, deteriorano l'aspetto sociale in molti paesi. Ma è così?
 
-![](/assets/images/p035644000202-687757_small.jpeg "La proposta per il Pilastro Europeo dei Diritti Sociali è stata firmata dal Presidente Juncker per la Commissione europea, dal Presidente Tajani per il Parlamento europeo e dal Primo ministro Ratas per il Consiglio dell'Unione europea. Immagine © European Union, 1995-2019")
+[![](/assets/images/p035644000202-687757_small.jpeg "La proposta per il Pilastro Europeo dei Diritti Sociali è stata firmata dal Presidente Juncker per la Commissione europea, dal Presidente Tajani per il Parlamento europeo e dal Primo ministro Ratas per il Consiglio dell'Unione europea. Immagine © European Union, 1995-2019")](http://europa.eu/rapid/press-release_STATEMENT-17-4706_en.htm)
 
 Le **politiche sociali**, come molti sanno, **non** fanno parte delle **competenze esclusive** dell'Unione Europea. L'UE può legiferare in materia di commercio internazionale (area in cui è particolarmente attiva), politiche monetarie e nella definizione delle regole alla base della concorrenza (art.3 del TFEU\[1]). Le **politiche del lavoro, dell'educazione e della salute** rimangono di **competenza degli stati membri**, che continuano a formularle facendo riferimento alla legislazione nazionale.
 
