@@ -4,7 +4,7 @@ excerpt: >-
   Il summit del 27 e 28 febbraio 2019 ad Hanoi (Vietnam) tra il presidente
   statunitense Donald Trump ed il dittatore nordcoreano Kim Jong-un ha deluso e
   sorpreso le aspettative di tutto il mondo.
-date: '2019-03-26 12:30:00'
+date: '2019-03-26 11:30:00'
 toc: false
 comments: false
 share: true
