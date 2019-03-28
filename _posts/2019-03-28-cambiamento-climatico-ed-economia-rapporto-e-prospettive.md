@@ -11,7 +11,7 @@ header: {}
 ---
 _Grazie all'azione concreta di Greta Thunberg la coscenza collettiva rispetto alle tematiche ambientali sembra essersi risvegliata. Qual è - e soprattutto - quale sarà, tra qualche anno, il rapporto tra aziende, economia e approccio ecosostenibile?_ 
 
-![](/assets/images/schermata-2019-03-28-alle-14.34.46.png)
+![](/assets/images/schermata-2019-03-28-alle-14.53.31.png)
 
 "La nostra casa è in fiamme", così **Greta Thunberg** esordì lo scorso Gennaio a Davos durante il **World Economic Forum 2019.** L’evento prende il nome dall’omonima organizzazione, che si considera                     < "impegnata a migliorare la condizione del mondo" e si sforza di essere imparziale e priva di vincoli di natura politica, ideologica o nazionale>. L’appuntamento viene riproposto con cadenza **annuale** ed è della durata di cinque giorni. 
 
