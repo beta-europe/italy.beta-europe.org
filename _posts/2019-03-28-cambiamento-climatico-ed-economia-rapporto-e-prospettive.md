@@ -1,6 +1,6 @@
 ---
-title: 'Cambiamento climatico ed economia: rapporto e prospettive '
-excerpt: 'Cambiamento climatico ed economia: rapporto e prospettive '
+title: 'Cambiamento climatico ed economia: rapporti e prospettive '
+excerpt: 'Cambiamento climatico ed economia: rapporti e prospettive '
 date: '2019-03-28 02:00:10'
 toc: false
 comments: false
