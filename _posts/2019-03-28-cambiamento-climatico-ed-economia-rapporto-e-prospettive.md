@@ -70,7 +70,8 @@ Fonti:
 [wikipedia.org](https://it.wikipedia.org/wiki/Forum_economico_mondiale#Organizzazione)
 
 [greenenergyconsulting.uk
-](https://www.greenenergyconsulting.co.uk/)\
+](https://www.greenenergyconsulting.co.uk/)
+
 [a2a.eu](https://www.a2a.eu/it/sostenibilita)
 
 [Immagine copertina](https://www.flickr.com/photos/stephane_p/47201260171) by [stephane_p](https://www.flickr.com/photos/stephane_p/)
