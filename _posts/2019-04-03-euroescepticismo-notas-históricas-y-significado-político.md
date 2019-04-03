@@ -1,5 +1,5 @@
 ---
-title: 'EUROESCEPTICISMO: NOTAS HISTÓRICAS Y SIGNIFICADO POLÍTICO'
+title: 'EUROESCEPTICISMO: HISTÓRICAS Y SIGNIFICADO POLÍTICO'
 excerpt: >-
   El euroescepticismo se ha convertido en un fenómeno político multidimensional
   que ha crecido mucho en los países miembros de la Unión Europea. Su naturaleza
@@ -19,6 +19,8 @@ published: false
 edit: true
 header: {}
 ---
+![](/assets/images/euroescepticismo_-notas-histor-icas-y-significado-político.jpg "Image credits are described in the article")
+
 Abril 2018 -- poco más o menos de un **mes** a las próximas **elecciones europeas,** a través de las cuales casi 375 millones de ciudadanos europeos votarán para elegir a los eurodiputados de la **IX legislatura** europea y por consiguiente decidir el destino de la UE para los próximos cinco años.
 
 En las elecciones europeas de **2009**, el resultado de los **partidos euroescépticos** fue en general **poco influyente**: los peores resultados se registraron en Polonia, Suecia y Dinamarca. De todas maneras, las elecciones europeas del 2014 vieron un **crecimiento sustancial** de los europarlamentarios euroescépticos con el inherente aumento de su popularidad y visibilidad en los debates y sesiones plenarias del Parlamento europeo.
@@ -27,7 +29,7 @@ En los últimos cinco años, dentro de la orientación crítica de los movimient
 
 Además, la **crisis económica**, política y social de nuestro continente, principalmente provocada por el colapso de Lehamn Brothers, ha tenido también graves consecuencias electorales a largo plazo. Efectivamente, muchos ciudadanos europeos han expresado posteriormente su **frustración electoral**, tanto a nivel nacional como europeo. Frente a la crítica situación económica, millones de ciudadanos europeos han seguido propuestas electorales anti-inmigración y antieuropeas, de lo cuales la **Brexit** (2016) y las elecciones italianas del 2018 han representado el punto de culminación.
 
-Muchos periódicos europeos coinciden en que las **elecciones europeas 2019** pueden representar, de hecho, un **_punto de inflexión_** para el futuro de la Unión Europea, un momento decisivo para decidir entre una "Europa de las naciones" y una Europa de las instituciones supranacionales basadas en el método comunitario de la acción política.
+Muchos periódicos europeos coinciden en que las **elecciones europeas 2019** pueden representar, de hecho, un _**punto de inflexión**_ para el futuro de la Unión Europea, un momento decisivo para decidir entre una "Europa de las naciones" y una Europa de las instituciones supranacionales basadas en el método comunitario de la acción política.
 
 En vista de esta cita ineludible con la historia, luego surgen espontáneamente algunas preguntas: **¿Qué significa políticamente ser euroescéptico?** ¿Qué es el euroescepticismo realmente?
 
@@ -35,7 +37,7 @@ Es difícil identificar una definición inequívoca y perfectamente exhaustiva d
 
 El término ha asumido diferentes connotaciones en numerosas campañas electorales, pero su origen se remonta a los años '80 y '90.
 
-Normalmente se supone que el término se usó por primera vez en un artículo del **_Times_** que hablaba de la entonces Primera Ministra británica **Margaret Tatcher**. Otras fuentes afirman que esta expresión fue utilizada en un artículo del **_The Economist_** por el politólogo **Ronald Tiersky**, quien definió ciudadanos más euroescépticos "aquellos que defienden sólo la mínima integración europea que garantice la paz y la prosperidad, tratando de preservar el mayor grado de soberanía nacional posible". Aún según otros analistas políticos como **Hooghe y Marks**, con euroescepticismo se entiende también "**dudas o aprensión** respecto a la integración europea, manifestándose en un amplio abanico de posiciones críticas que incluye, entre otras, la oposición frontal y abierta a la UE".
+Normalmente se supone que el término se usó por primera vez en un artículo del _**Times**_ que hablaba de la entonces Primera Ministra británica **Margaret Tatcher**. Otras fuentes afirman que esta expresión fue utilizada en un artículo del _**The Economist**_ por el politólogo **Ronald Tiersky**, quien definió ciudadanos más euroescépticos "aquellos que defienden sólo la mínima integración europea que garantice la paz y la prosperidad, tratando de preservar el mayor grado de soberanía nacional posible". Aún según otros analistas políticos como **Hooghe y Marks**, con euroescepticismo se entiende también "**dudas o aprensión** respecto a la integración europea, manifestándose en un amplio abanico de posiciones críticas que incluye, entre otras, la oposición frontal y abierta a la UE".
 
 Por lo tanto, el euroescepticismo se basa en un sentimiento general de **desafección** con respecto al proceso de **integración**, la **moneda única** y el rol supranacional de las **instituciones europeas**. Basa su esencia en la duda, se relaciona con la incredulidad y tiene al menos tres dimensiones.
 
