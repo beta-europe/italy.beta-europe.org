@@ -9,11 +9,13 @@ date: '2019-04-03 09:30:00'
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 header: {}
 ---
 ![](/assets/images/euroscepticism_-a-complex-and-adaptive-phenomenon-1-.jpg "Image credits are described in the article")
+
+_Also available in [Italian](/2019/04/03/euroscetticismo-la-forza-di-un-fenomeno-adattivo/) and [Spanish](/2019/04/03/euroescepticismo-notas-históricas-y-significado-político/)._
 
 April 2018 - the next European elections are just over a **month** away. Through the vote, almost 375 million European citizens will **vote to elect** the deputies of the **IX legislative** term of the European Parliament, thus deciding the fate of the EU for the next 5 years.
 
