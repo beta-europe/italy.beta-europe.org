@@ -15,6 +15,8 @@ header: {}
 ---
 ![](/assets/images/euroscetticismo_-la-forza-di-un-fenomeno-adattivo.jpg "I crediti dell'immagine sono descritti nell'articolo")
 
+_Anche in [inglese](/2019/04/03/euroscepticism-a-complex-and-adaptive-phenomenon/) e [spagnolo](/2019/04/03/euroescepticismo-notas-históricas-y-significado-político/)._
+
 Aprile 2018 -- manca poco più di un **mese** alle prossime **elezioni europee**, attraverso le quali quasi 375 milioni di cittadini europei voteranno per eleggere i deputati della **IX legislatura** del Parlamento europeo e decidere così il destino dell'UE per i prossimi 5 anni.
 
 Alle ultime elezioni europee del **2009**, gli **euroscettici** si sono dimostrati complessivamente **poco influenti**: infatti i risultati peggiori sono stati registrati solo in Polonia, Svezia e Danimarca. Malgrado ciò, le elezioni europee del 2014 nel loro complesso hanno comunque mostrato una **crescita sostanziale** degli eurodeputati euroscettici, i quali sono stati capaci di guadagnarsi ulteriore consenso e popolarità all'interno dei dibattiti e delle sessioni plenarie del Parlamento europeo.
