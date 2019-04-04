@@ -17,7 +17,7 @@ header: {}
 
 _Also available in [Italian](/2019/04/03/euroscetticismo-la-forza-di-un-fenomeno-adattivo/) and [Spanish](/2019/04/03/euroescepticismo-notas-históricas-y-significado-político/)._
 
-April 2018 - the next European elections are just over a **month** away. Through the vote, almost 375 million European citizens will **vote to elect** the deputies of the **IX legislative** term of the European Parliament, thus deciding the fate of the EU for the next 5 years.
+April 2019 - the next European elections are just over a **month** away. Through the vote, almost 375 million European citizens will **vote to elect** the deputies of the **IX legislative** term of the European Parliament, thus deciding the fate of the EU for the next 5 years.
 
 At the last European elections of **2009**, the **Eurosceptics** proved to be altogether **less influential**. Indeed, the worst outcomes were found only in Poland, Sweden and Denmark. Nevertheless, the 2014 European elections as a whole have shown **substantial growth** of Eurosceptic MEPs who have been able to achieve further consensus within European Parliament debates and plenary sessions.
 
