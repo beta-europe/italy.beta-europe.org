@@ -1,5 +1,5 @@
 ---
-title: 'EUROESCEPTICISMO: HISTÓRICAS Y SIGNIFICADO POLÍTICO'
+title: 'EUROESCEPTICISMO: NOTAS HISTÓRICAS Y SIGNIFICADO POLÍTICO'
 excerpt: >-
   El euroescepticismo se ha convertido en un fenómeno político multidimensional
   que ha crecido mucho en los países miembros de la Unión Europea. Su naturaleza
