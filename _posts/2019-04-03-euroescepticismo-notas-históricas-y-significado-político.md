@@ -21,10 +21,9 @@ header: {}
 ---
 ![](/assets/images/euroescepticismo_-notas-histor-icas-y-significado-político.jpg "Image credits are described in the article")
 
-
 _Versión [italiana](/2019/04/03/euroscetticismo-la-forza-di-un-fenomeno-adattivo/), versión [inglesa](/2019/04/03/euroscepticism-a-complex-and-adaptive-phenomenon/)._
 
-Abril 2018 -- poco más o menos de un **mes** a las próximas **elecciones europeas,** a través de las cuales casi 375 millones de ciudadanos europeos votarán para elegir a los eurodiputados de la **IX legislatura** europea y por consiguiente decidir el destino de la UE para los próximos cinco años.
+Abril 2019 -- poco más o menos de un **mes** a las próximas **elecciones europeas,** a través de las cuales casi 375 millones de ciudadanos europeos votarán para elegir a los eurodiputados de la **IX legislatura** europea y por consiguiente decidir el destino de la UE para los próximos cinco años.
 
 En las elecciones europeas de **2009**, el resultado de los **partidos euroescépticos** fue en general **poco influyente**: los peores resultados se registraron en Polonia, Suecia y Dinamarca. De todas maneras, las elecciones europeas del 2014 vieron un **crecimiento sustancial** de los europarlamentarios euroescépticos con el inherente aumento de su popularidad y visibilidad en los debates y sesiones plenarias del Parlamento europeo.
 
