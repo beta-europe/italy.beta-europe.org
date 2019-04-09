@@ -1,6 +1,10 @@
 ---
 title: Mapa de los Euroescepticos en Europa
 excerpt: Mapa de los Euroescepticos en Europa
+tags:
+  - Euroescepticismo
+  - UE
+  - Unión Europea
 date: '2019-04-11 10:00:00'
 toc: false
 comments: false
@@ -10,6 +14,8 @@ edit: true
 header: {}
 ---
 _Una ola de euroescepticismo se ha extendido por todo el continente europeo. En los últimos cinco años, las viejas y nuevas fuerzas euroescépticas se han ido creciendo y consolidando y van a constituir un bloque que, a pesar de su polarización, involucrará a un amplio número de países miembros de la UE._
+
+![](/assets/images/guía-de-la-europa-euroescéptica.jpg "Guía de la Europa euroescéptica")
 
 ¿Cuáles son los principales **partidos euroescépticos** en Europa? ¿Se puede detectar una diferencia? Analicemos los 12 principales partidos politicos euroescépticos en Europa.
 
@@ -52,6 +58,8 @@ En este momento, 47 días después de las elecciones europeas, el **proyecto má
 Es **difícil** encontrar un solo **bloque electoral común**, ya que algunos partidos, que se definen como euroescépticos, tienen una visión propria de Europa, no necesariamente “**destructiva**”, sino “**reformista**”, con la atribución de mayores poderes a las naciones. En este sentido, un ejemplo claro y evidente puede ser constituido por el Movimiento 5 Estrellas que, a pesar de sus posiciones euroescépticas, espera un cambio institucional a nivel europeo. 
 
 No hay que olvidar que **Italia** es uno de los **países fundadores del proyecto** de integración europea, así como la tercera potencia de la UE. Es una circunstancia histórica en la que la ausencia de un eje político entre Alemania, Italia, y Francia, podría resultar decisiva tanto en el Parlamento Europeo como en el Consejo de la UE y el Consejo Europeo, para el proceso legislativo UE y la definición de una agenda política europea.
+
+**Bibliografía**:
 
 •	Albert Aixalà i Blanch, Crisis económica y Euroescepticismo (2007-2014), http://www.fundacionalternativas.org/public/storage/estudios_document os_archivos/c2452f69087858fe49a92223e84b0408.pdf.
 
@@ -96,3 +104,5 @@ No hay que olvidar que **Italia** es uno de los **países fundadores del proyect
 •	Ryan Heath, 4 biggest risks to Europe’s 2019 election, https://www.politico.eu/article/european-election-2019-brussels-risks/. 
 
 •	Will Carter, A guide to Europe’s key eurosceptic parties, and how successful they are, https://www.newstatesman.com/politics/brexit/2016/08/guide-europe-s-key-eurosceptic-parties-and-how-successful-they-are.
+
+Image based on [Bandera Ue Europa](https://pixabay.com/es/illustrations/bandera-ue-europa-colores-golpe-1463476/) ([Pixabay License](https://pixabay.com/service/license/)).
