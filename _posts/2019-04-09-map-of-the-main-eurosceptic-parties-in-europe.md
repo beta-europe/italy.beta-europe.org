@@ -1,6 +1,10 @@
 ---
 title: Map of the main Eurosceptic parties in Europe
 excerpt: Map of the main Eurosceptic parties in Europe
+tags:
+  - Euroscepticism
+  - EU
+  - European Union
 date: '2019-04-11 10:00:00'
 toc: false
 comments: false
@@ -10,6 +14,8 @@ edit: true
 header: {}
 ---
 _A wave of Euroscepticism has spread throughout the European continent. Throughout the last five years, old and new Eurosceptic forces have been growing and consolidating to such an extent that will constitute a block that, despite its polarization, will involve a large number of EU member countries._
+
+![](/assets/images/mapping-euroscepticism.jpg "Mapping Euroscepticism")
 
 What are the main **Eurosceptic parties** in Europe? Can we detect a difference? We will analyse the 12 main Eurosceptic political parties in Europe.
 
@@ -52,6 +58,8 @@ It is **difficult** to find a **single common electoral block**, since some part
 Concretely speaking, at 47 days after the European elections, the **most ambitious project** has been presented by **Matteo Salvini**. At a recent conference in Milan, the leader of the Northern League has presented the "**European Alliance of People and Nations**" whose objective is to create an "enlarged" European parliamentary group. As the newspaper Il Post reported, “the new formation \[...] will start from the European group ENF, which currently includes the majority of the parties of the radical European right (including the Northern League and Marine Le Pen), but aims to make new allies.” Indeed, among the most important parties which accepted Salvini's invitation it is possible to mention Alternative for Germany, as well as the Danish People's Party and the True Finns. During the conference there was no member of Law and Justice or Victor Orban’s Fidesz. Effectively, we are mentioning political forces that Salvini has been courting for some time and without which it will be difficult to forge a coalition capable of counteracting the probable alliance between PSE, PPE, the Greens and ALDE; a very difficult challenge, but not impossible.
 
 Should we not forget that **Italy** is one of the **founding countries** of the EEC, the EU and the European integration project, as well as the third economic power of the EU. We are about to face a historical turning point in which the absence of a trilateral axis between Germany, Italy, and France could be decisive both in the European Parliament and in the Council of the EU and the European Council, for the EU legislative process and the definition of a common political agenda.
+
+**Bibliography**:
 
 •	Albert Aixalà i Blanch, Crisis económica y Euroescepticismo (2007-2014), http://www.fundacionalternativas.org/public/storage/estudios_document os_archivos/c2452f69087858fe49a92223e84b0408.pdf.
 
@@ -96,3 +104,5 @@ Should we not forget that **Italy** is one of the **founding countries** of the 
 •	Ryan Heath, 4 biggest risks to Europe’s 2019 election, https://www.politico.eu/article/european-election-2019-brussels-risks/. 
 
 •	Will Carter, A guide to Europe’s key eurosceptic parties, and how successful they are, https://www.newstatesman.com/politics/brexit/2016/08/guide-europe-s-key-eurosceptic-parties-and-how-successful-they-are.
+
+Image based on [Flag Eu Europe](https://pixabay.com/illustrations/flag-eu-europe-colours-blow-1463476/) ([Pixabay License](https://pixabay.com/service/license/)).
