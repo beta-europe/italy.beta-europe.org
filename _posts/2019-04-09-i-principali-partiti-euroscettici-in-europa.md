@@ -11,6 +11,8 @@ header: {}
 ---
 _Un’ondata di euroscetticismo si è diffusa in tutto il continente europeo. Negli ultimi cinque anni vecchie e nuove forze politiche promotrici di campagne anti-UE sono riuscite a consolidarsi a tal punto da costituire un blocco elettorale che, malgrado la sua polarizzazione, accomuna numerosi paesi membri dell’UE._ 
 
+![](/assets/images/geografia-dell-euroscetticismo.jpg "Geografia dell'Euroscetticismo")
+
 Quali sono i principali **partiti euroscettici** in Europa? È possibile identificare una **filo conduttore** a livello di proposte politiche? Cercheremo di rispondere a tali domande analizzando i 12 principali partiti euroscettici europei.
 
 **FRANCIA**. _Fronte nazionale_ (ora Raggruppamento Nazionale) - leader, **Marine Le Pen**. Fondato su ideali politici quali **conservatorismo protezionista** e **populismo di destra**, il Fronte nazionale (FN) è un movimento anti-UE e anti-immigrazione che è cresciuto molto nei sondaggi nazionali ed europei. La sua leader, **Marine Le Pen**, ha dichiarato che la cittadinanza francese dovrebbe essere acquisita per “eredità o meriti” e che è contro la politica della libera circolazione garantita dallo Spazio Schengen. Prima che si tenessero le elezioni presidenziali francesi del 2017, infatti, la leader francese aveva promesso di indire un referendum **sulla Frexit**, dichiarandosi a favore del recupero della sovranità monetaria nazionale e della costruzione di una “Europa delle nazioni sovrane”. Il Fronte Nazionale ha perso le elezioni presidenziali con la **vittoria di Macron**, e fa ancora parte del gruppo dei deputati al Parlamento europeo denominato Europa delle Nazioni e della Libertà. 
@@ -55,7 +57,7 @@ Al momento, a distanza di 47 giorni dalle elezioni europee, il **progetto più c
 
 Non bisogna dimenticare che l’**Italia** è uno dei **paesi fondatori** della CEE, dell’Unione e del progetto d’integrazione europea, nonché la terza potenza economica dell'UE. L’assenza di un asse trilaterale fra Germania, Francia e Italia potrebbe risultare decisiva nella definizione di un’agenda comune europea all’interno delle istituzioni UE, con un’Italia che risulta essere sempre più a rischio di esclusione dai vertici politici europei e di un conseguente isolamento internazionale. 
 
-Bibliografia:
+**Bibliografia:**
 
 •	Albert Aixalà i Blanch, Crisis económica y Euroescepticismo (2007-2014), http://www.fundacionalternativas.org/public/storage/estudios_document os_archivos/c2452f69087858fe49a92223e84b0408.pdf.
 
@@ -100,3 +102,5 @@ Bibliografia:
 •	Ryan Heath, 4 biggest risks to Europe’s 2019 election, https://www.politico.eu/article/european-election-2019-brussels-risks/. 
 
 •	Will Carter, A guide to Europe’s key eurosceptic parties, and how successful they are, https://www.newstatesman.com/politics/brexit/2016/08/guide-europe-s-key-eurosceptic-parties-and-how-successful-they-are.
+
+Immagine basata su [Flag Eu Europe](https://pixabay.com/it/illustrations/bandiera-ue-europa-colori-colpo-1463476/) ([Pixabay License](https://pixabay.com/service/license/)).
