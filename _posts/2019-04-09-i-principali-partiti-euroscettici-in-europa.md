@@ -1,6 +1,10 @@
 ---
 title: I principali partiti euroscettici in Europa
 excerpt: I principali partiti euroscettici in Europa
+tags:
+  - Euroscetticismo
+  - UE
+  - Unione Europea
 date: '2019-04-11 10:00:00'
 toc: false
 comments: false
