@@ -9,7 +9,11 @@ published: false
 edit: true
 header: {}
 ---
+**[_Italian version_](/2019/04/18/oceanix-city-il-futuro-delle-città-galleggia-sugli-oceani/)**
+
 On Wednesday April 3rd, **UN Habitat**, the United Nations programme working towards a better urban future, presented a project of innovative **housing solutions**, in cooperation with **Oceanix City**, MIT University and The Explorers Club. The concept consists of a cluster of **floating artificial islands**, built together to form villages. The idea behind floating cities is to propose a solution to urban development taking into consideration issues such as climate change.
+
+![Floating towards the future? Oceanix City](/assets/images/floating-towards-the-future.jpg)
 
 A UN report confirms indeed that by 2030 **over 70%** of the world’s population will **live in cities**. Taking into consideration these data, it is therefore a priority to promote and develop a more sustainable lifestyle even in the housing sector: Oceanix City floating houses are showcased as a **new habitation solution** for the future. Those cities are artificial islands **anchored to the seabed**. A cluster of islands could host a 12-hectare village with 1,650; more clusters can be be combined to form an archipelago which supports up to 10,000 citizens. The name of the project is “Oceanix City” and **sustainability** is at its very core: a zero-waste policy will be pursued and buildings will be designed with locally originated materials and will rely on **renewable energy resources** such as solar panels and wind turbines.
 
