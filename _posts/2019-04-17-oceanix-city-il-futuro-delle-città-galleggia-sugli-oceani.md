@@ -9,7 +9,11 @@ published: false
 edit: true
 header: {}
 ---
+__[_English version_](/2019/04/18/floating-towards-a-new-future/)__
+
 Mercoledì 3 aprile, presso la sede **UN Habitat**, agenzia delle Nazioni Unite finalizzata all’identificazione di **soluzioni abitative** innovative e sostenibili per il futuro, è stato presentato il progetto “**Oceanix City**”, una proposta abitativa futuristica di città galleggianti.
+
+![Floating towards the future? Oceanix City](/assets/images/floating-towards-the-future.jpg)
 
 Il progetto è stato ideato da UN Habitat in collaborazione con Oceanix City, MIT University e Explorers Club e consiste nella creazione di **moduli abitativi fluttuanti** in grado di offrire in futuro un’alternativa alle odierne metropoli, anche in termini di sostenibilità e lotta al cambiamento climatico.
 
@@ -35,4 +39,5 @@ La presentazione del progetto di Oceanix City è stato solo il calcio d’inizio
 * <https://www.bbc.com/news/world-47827136>
 
 **Crediti immagine**:
+
 Basata su [01_Oceanix City_Aerial_Image](https://oceanix.org/wp-content/uploads/2019/04/01_BIG_SFC_OceanixCity_Aerial_Image-by-BIG-Bjarke-Ingels-Group-1.jpg) di [OCEANIX/BIG-Bjarke Ingels Group](https://oceanix.org/media/)
