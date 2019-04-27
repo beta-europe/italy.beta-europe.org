@@ -11,6 +11,8 @@ header: {}
 ---
 # Introduction
 
+![40 years of European elections - Simone Veil](/assets/images/40-years-of-european-elections-.jpg)
+
 This year's elections coincide with the 40th anniversary of the first elections to the European Parliament by direct universal suffrage (7-10th June, 1979) -- an historic event marking both an ending and a fundamental starting point for the whole European history and for the construction of a Europe for citizens. Today we must face a historical turning point for our common history which leads us to hold up a second and take a look back. Indeed, we will analyse some important historical milestones of our history in order to understand how the EU works today. Our primary objective will be to reflect on the impact of the European Parliament, the heart of European representative democracy. We will show how the European Parliament can reflect the dreams of the founding fathers that were holding Europe together to favour the construction of a free, united, democratic and supranational Europe.
 
 # Between European reconstruction and integration process (1946-1979)
