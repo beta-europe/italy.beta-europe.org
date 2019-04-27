@@ -15,7 +15,7 @@ Fra il **23 ed il 26 maggio 2019**, i cittadini europei di tutti gli stati membr
 
 Molti sono gli analisti che considerano queste votazioni le **più importanti di tutta la storia dell’UE** (da quando, nel 1979, si sono tenute le prime elezioni a suffragio universale): il neo-Parlamento si troverà infatti ad affrontare molte **situazioni spinose** e dovrà prendere decisioni che saranno determinanti per il futuro dell'Unione e dei suoi cittadini. La problematica sicuramente più pressante è quella che riguarda la **Brexit** (e l'eventuale accordo da stipulare con una fragile e confusa Gran Bretagna per evitare un’uscita _hard_ dall’Unione), ma non meno preoccupanti risultano le minacce dell'**euroscetticismo** e del **nazionalismo**, che negli ultimi anni si stanno diffondendo a macchia d’olio in tutto il continente. 
 
-I **Parlamentari** eletti a maggio saranno **705**, ben 46 in meno rispetto ai 751 delle ultime elezioni, svoltesi nel 2014. È stato il Parlamento stesso a decretare questa **riduzione dei propri componenti** in seguito alla decisione della Gran Bretagna di lasciare l’Unione; alcuni seggi sono stati eliminati, mentre altri ridistruibuti tra gli Stati membri (l'Italia, ad esempio, eleggerà 76 parlamentari, tre in più rispetto al 2014).
+I **Parlamentari** eletti a maggio saranno **705**, ben 46 in meno rispetto ai 751 delle ultime elezioni, svoltesi nel 2014. È stato il Parlamento stesso a decretare questa **riduzione dei propri componenti** in seguito alla decisione della Gran Bretagna di lasciare l’Unione; alcuni seggi sono stati eliminati, mentre altri ridistribuiti tra gli Stati membri (l'Italia, ad esempio, eleggerà 76 parlamentari, tre in più rispetto al 2014).
 
 ## Cosa si vota?
 
