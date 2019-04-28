@@ -1,13 +1,12 @@
 ---
 title: Guida alle elezioni europee 2019
 excerpt: Guida alle elezioni europee 2019
-date: '2019-04-26 05:48:25'
+date: '2019-04-28 09:30:00'
 toc: false
 comments: false
 share: true
-published: false
-edit: true
-author: nicoletta_volonte
+published: true
+edit: false
 header: {}
 ---
 Fra il **23 ed il 26 maggio 2019**, i cittadini europei di tutti gli stati membri dell’Unione saranno chiamati alle urne per eleggere i membri del **Parlamento europeo**, che rimarranno in carica per i prossimi cinque anni. 
