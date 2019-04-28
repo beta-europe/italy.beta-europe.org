@@ -5,17 +5,17 @@ title: >-
 excerpt: >-
   Il deficit democratico dell'Unione Europea: tra legittimità democratica e
   disaffezione dell'elettorato
-date: '2019-04-21 10:05:30'
+date: '2019-04-28 08:00:00'
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: false
 header: {}
 ---
 Le **elezioni europee** del 26 maggio si avvicinano, e la campagna elettorale è iniziata ormai anche in Italia. Nell’affrontare queste importanti elezioni, che rendono il **Parlamento Europeo** l’unico parlamento transnazionale al mondo ad elezione universale diretta, uno dei temi toccati dal dibattito pubblico e politico riguarda **l’esistenza di un “deficit democratico”** che caratterizza la vita politica dell’Unione Europea (UE). 
 
-![](/assets/images/schermata-2019-04-21-alle-10.09.09.png)
+![Edificio del Parlamento Europeo a Strasburgo](/assets/images/strasbourg-1166650_1280.jpg)
 
 Secondo questa critica, l’UE manca di **legittimità democratica** ed è caratterizzata da procedure così complicate da rendere **impossibile** per i cittadini europei **partecipare consapevolmente** e influenzare le sue politiche. In questo modo, le istituzioni europee non si adattano alle preferenze dell’elettorato europeo, ma piuttosto lasciano il **potere decisionale** nelle mani o dei governi nazionali, o degli **“eurocrati”** (i tecnocrati europei alla guida della Commissione).
 
@@ -54,3 +54,9 @@ FONTI
 \-	Beta Italia, Il Parlamento europeo detta la strategia delle politiche migratorie: i visti umanitari, 27 Dic 2018, <https://italy.beta-europe.org/2018/12/27/ue-ed-immigrazione-il-parlamento-approva-i-visti-umanitari/>
 
 \-	Casu, S. L’UE come tertium genus nel diritto internazionale: il caso van Gend & Loos, Ius in Itinere, 12 giu 2018, <https://www.iusinitinere.it/lue-come-tertium-genus-nel-diritto-internazionale-il-caso-van-gend-loos-10761>
+
+
+
+CREDITI IMMAGINE
+
+[Strasburgo Parlamento Europeo](https://pixabay.com/it/photos/strasburgo-parlamento-europeo-1166650/) di [you_littleswine](https://pixabay.com/it/users/you_littleswine-1842632/) ([Pixabay License](https://pixabay.com/it/service/license/))
