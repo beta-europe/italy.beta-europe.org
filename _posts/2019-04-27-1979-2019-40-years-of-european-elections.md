@@ -1,13 +1,12 @@
 ---
 title: '1979-2019: 40 years of European elections'
 excerpt: '1979-2019: 40 years of European elections'
-date: '2019-04-27 02:41:11'
+date: '2019-04-28 09:00:00'
 toc: false
 comments: false
 share: true
-published: false
-edit: true
-author: leonardo_brambilla
+published: true
+edit: false
 header: {}
 ---
 # Introduction
