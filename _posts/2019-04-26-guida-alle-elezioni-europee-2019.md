@@ -7,6 +7,7 @@ comments: false
 share: true
 published: false
 edit: true
+author: nicoletta_volonte
 header: {}
 ---
 Fra il **23 ed il 26 maggio 2019**, i cittadini europei di tutti gli stati membri dell’Unione saranno chiamati alle urne per eleggere i membri del **Parlamento europeo**, che rimarranno in carica per i prossimi cinque anni. 
