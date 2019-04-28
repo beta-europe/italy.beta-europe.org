@@ -1,13 +1,12 @@
 ---
 title: 'Europa, Erasmus, Identità'
 excerpt: 'Europa, Erasmus, Identità'
-date: '2019-04-27 05:09:42'
+date: '2019-04-28 08:30:00'
 toc: false
 comments: false
 share: true
-published: false
-edit: true
-author: elia_gerola
+published: true
+edit: false
 header: {}
 ---
 L'EEI non è una delle tante sigle che descrivono un'agenzia europea, bensì il trittico di concetti sul quale oggi vorrei soffermarmi: **Europa, Erasmus, Identità**. Stiamo infatti festeggiando la **settimana europea della gioventù**, ma io ormai da qualche anno, nonostante creda nell'UE, mi senta europeo e sia attivo nell'associazionismo giovanile che la promuove, mi chiedo se effettivamente esista o meno un'**identità europea**. 
