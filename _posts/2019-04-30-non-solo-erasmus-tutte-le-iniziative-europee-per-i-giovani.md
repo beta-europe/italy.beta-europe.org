@@ -15,7 +15,7 @@ Una cosa che ci si chiede spesso - soprattutto in questo periodo storico nel qua
 
 ![](/assets/images/foto-theandrasbarta.jpg)
 
-Prima di rispondere a questa domanda, però, è bene capire come i giovani (termine che utilizziamo per indicare tutte le persone **tra i 18 ed i 30 anni**) percepiscono l’Unione europea.
+Prima di rispondere a questa domanda, però, è bene capire come i giovani (termine che utilizziamo per indicare tutte le persone **tra i 18 ed i 30 anni**) percepiscono l’Unione Europea.
 
 Secondo i dati dell’**eurobarometro** \[1] relativi al **2018**, l’Unione Europea è percepita nel complesso **positivamente**. 
 
