@@ -15,7 +15,7 @@ Una cosa che ci si chiede spesso - soprattutto in questo periodo storico nel qua
 
 ![](/assets/images/foto-theandrasbarta.jpg)
 
-Prima di rispondere a questa domanda, però, è bene capire come i giovani (termine he utilizziamo per indicare tutte le persone **tra i 18 ed i 30 anni**) percepiscono l’Unione europea.
+Prima di rispondere a questa domanda, però, è bene capire come i giovani (termine che utilizziamo per indicare tutte le persone **tra i 18 ed i 30 anni**) percepiscono l’Unione europea.
 
 Secondo i dati dell’**eurobarometro** \[1] relativi al **2018**, l’Unione Europea è percepita nel complesso **positivamente**. 
 
@@ -29,13 +29,10 @@ Con le elezioni europee del **24-26 maggio**, questo problema sembra si stia col
 
 Dunque, per rispondere alla domanda iniziale, ecco una lista di altre **iniziative** e **progetti** che l’Europa fornisce per i giovani:
 
-1.	**Servizio Volontario Europeo** (SVE), questo programma finanziato dalla Commissione europea, rientra nel programma Erasmus+ \[3] e permette ai giovani dai 17 fino ai 30 anni di vivere un’esperienza di **volontariato internazionale** per un periodo di massimo 12 mesi prestando la propria opera in una organizzazione no-profit (per maggiori info: [https://serviziovolontarioeuropeo.it/](https://serviziovolontarioeuropeo.it));
-
-2.	**Interrail pass 2019**, è un’iniziativa rivolta a tutti neo-diciottenni cittadini europei, per cui l’Unione ha stanziato un fondo per pagare 12 mila biglietti (per maggiori info: <https://www.interrail.eu/it/pass-interrail/vantaggi-del-pass/il-tuo-pacchetto-di-viaggio-gratuito>);
-
-3.	**European Employement Service** (EURES), è una rete formata da servizi per l’impiego, sindacati e organizzazioni dei datori di lavoro, che favorisce la mobilità dei giovani lavoratori nello Spazio economico europeo (per maggiori info: <https://ec.europa.eu/eures/public/it/homepage>);
-
-4.	**Portale europeo per i giovani**, è uno spazio di approfondimento al portale europeo dei giovani realizzato dalla Commissione europea (Direzione  Generale Istruzione e  Cultura), collegamento parte italiana ogni DG (Direttorato Generale) ha un collegamento, un “ufficio” che si occupa di alcune tematiche dell’Unione in ogni paese membro. Un esempio che abbiamo qua in Italia è l’ufficio informativo della Rappresentanza della Commissione europea, o anche una rappresentanza del Comitato delle Regioni, oppure un DG che si occupa della ricerca ad Ispra, vicino a Varese. Diciamo che l’Unione cerca di creare dei collegamenti tra i Direttorati Generali ed i paesi membri. Per maggiori info: <https://www.portaledeigiovani.it/index.php>;
+1. **Servizio Volontario Europeo** (SVE), questo programma finanziato dalla Commissione europea, rientra nel programma Erasmus+ \[3] e permette ai giovani dai 17 fino ai 30 anni di vivere un’esperienza di **volontariato internazionale** per un periodo di massimo 12 mesi prestando la propria opera in una organizzazione no-profit (per maggiori info: [https://serviziovolontarioeuropeo.it/](https://serviziovolontarioeuropeo.it));
+2. **Interrail pass 2019**, è un’iniziativa rivolta a tutti neo-diciottenni cittadini europei, per cui l’Unione ha stanziato un fondo per pagare 12 mila biglietti (per maggiori info: <https://www.interrail.eu/it/pass-interrail/vantaggi-del-pass/il-tuo-pacchetto-di-viaggio-gratuito>);
+3. **European Employement Service** (EURES), è una rete formata da servizi per l’impiego, sindacati e organizzazioni dei datori di lavoro, che favorisce la mobilità dei giovani lavoratori nello Spazio economico europeo (per maggiori info: <https://ec.europa.eu/eures/public/it/homepage>);
+4. **Portale europeo per i giovani**, è uno spazio di approfondimento al portale europeo dei giovani realizzato dalla Commissione europea (Direzione  Generale Istruzione e  Cultura), collegamento parte italiana ogni DG (Direttorato Generale) ha un collegamento, un “ufficio” che si occupa di alcune tematiche dell’Unione in ogni paese membro. Un esempio che abbiamo qua in Italia è l’ufficio informativo della Rappresentanza della Commissione europea, o anche una rappresentanza del Comitato delle Regioni, oppure un DG che si occupa della ricerca ad Ispra, vicino a Varese. Diciamo che l’Unione cerca di creare dei collegamenti tra i Direttorati Generali ed i paesi membri. Per maggiori info: <https://www.portaledeigiovani.it/index.php>;
 
 Ovviamente queste sono **solo alcune iniziative** che vengono rivolte ai giovani. 
 
@@ -43,7 +40,7 @@ Questo sottolinea il fatto che **l’Europa è presente** e si spende per i giov
 
 \[1] <http://www.europarl.europa.eu/at-your-service/it/be-heard/eurobarometer/socio-demographic-trends-in-national-public-opinion-edition-4>
 
-\[2] [https://www.stavoltavoto.eu/?recruiter_id=259059&gclid=Cj0KCQjw19DlBRCSARIsAOnfReioyz_9ogXwC1lrNjUGmj8STc5p8Q32c-ZbLpwcP7U-1SHMT9lhPOAaAo4YEALw_wcB#xtor=AD-41-\[Thistimeimvoting_IT]-\[032019]-\[link]-\[google]](https://www.stavoltavoto.eu/?recruiter_id=259059&gclid=Cj0KCQjw19DlBRCSARIsAOnfReioyz_9ogXwC1lrNjUGmj8STc5p8Q32c-ZbLpwcP7U-1SHMT9lhPOAaAo4YEALw_wcB#xtor=AD-41-%5BThistimeimvoting_IT%5D-%5B032019%5D-%5Blink%5D-%5Bgoogle%5D) 
+\[2] \[https://www.stavoltavoto.eu/?recruiter_id=259059&gclid=Cj0KCQjw19DlBRCSARIsAOnfReioyz_9ogXwC1lrNjUGmj8STc5p8Q32c-ZbLpwcP7U-1SHMT9lhPOAaAo4YEALw_wcB#xtor=AD-41-[Thistimeimvoting_IT]-\[032019]-\[link]-\[google]](https://www.stavoltavoto.eu/?recruiter_id=259059&gclid=Cj0KCQjw19DlBRCSARIsAOnfReioyz_9ogXwC1lrNjUGmj8STc5p8Q32c-ZbLpwcP7U-1SHMT9lhPOAaAo4YEALw_wcB#xtor=AD-41-%5BThistimeimvoting_IT%5D-%5B032019%5D-%5Blink%5D-%5Bgoogle%5D) 
 
 \[3] Per saperne di più consultare [http://www.erasmusplus.it/](http://www.erasmusplus.it) 
 
