@@ -17,7 +17,7 @@ Una cosa che ci si chiede spesso - soprattutto in questo periodo storico nel qua
 
 Prima di rispondere a questa domanda, però, è bene capire come i giovani (termine che utilizziamo per indicare tutte le persone **tra i 18 ed i 30 anni**) percepiscono l’Unione Europea.
 
-Secondo i dati dell’**eurobarometro** \[1] relativi al **2018**, l’Unione Europea è percepita nel complesso **positivamente**. 
+I dati riportati di seguito sono forniti dall’**eurobarometro** \[1]  e sono relativi al **2018.** 
 
 Le statistiche più interessanti sono quelle che emergono proprio dai grafici che propongono la **divisione per età**. Il sondaggio chiedeva agli intervistati di indicare quanto **fossero d'accordo** con l'affermazione **"La mia voce conta in Europa"**. I risultati riguardanti il **nostro paese** non sono del tutto incoraggianti. Facendo sempre riferimento ai dati del 2018, prendendo in considerazione la **fascia d'età 15-24**, si legge che ad aprile la percentuale abbia raggiunto il 40%, per poi crollare al **30%** solo qualche mese dopo, a settembre. Per quanto riguarda invece la **fascia 25-39**, le cifre sono tristemente simili: 36% ad aprile, e 33% a settembre.  I dati relativi ai restati paesi europei li potete trovare sul sito del [Parlamento europeo](http://www.europarl.europa.eu/at-your-service/it/be-heard/eurobarometer/socio-demographic-trends-in-national-public-opinion-edition-4).
 
