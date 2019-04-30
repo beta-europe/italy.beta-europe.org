@@ -40,7 +40,7 @@ Questo sottolinea il fatto che **l’Europa è presente** e si spende per i giov
 
 \[1] <http://www.europarl.europa.eu/at-your-service/it/be-heard/eurobarometer/socio-demographic-trends-in-national-public-opinion-edition-4>
 
-\[2] \[https://www.stavoltavoto.eu/?recruiter_id=259059&gclid=Cj0KCQjw19DlBRCSARIsAOnfReioyz_9ogXwC1lrNjUGmj8STc5p8Q32c-ZbLpwcP7U-1SHMT9lhPOAaAo4YEALw_wcB#xtor=AD-41-[Thistimeimvoting_IT]-\[032019]-\[link]-\[google]](https://www.stavoltavoto.eu/?recruiter_id=259059&gclid=Cj0KCQjw19DlBRCSARIsAOnfReioyz_9ogXwC1lrNjUGmj8STc5p8Q32c-ZbLpwcP7U-1SHMT9lhPOAaAo4YEALw_wcB#xtor=AD-41-%5BThistimeimvoting_IT%5D-%5B032019%5D-%5Blink%5D-%5Bgoogle%5D) 
+\[2] [https://www.stavoltavoto.eu/](https://www.stavoltavoto.eu/?recruiter_id=259059&gclid=Cj0KCQjw19DlBRCSARIsAOnfReioyz_9ogXwC1lrNjUGmj8STc5p8Q32c-ZbLpwcP7U-1SHMT9lhPOAaAo4YEALw_wcB#xtor=AD-41-[Thistimeimvoting_IT]-[032019]-[link]-[google]](https://www.stavoltavoto.eu/?recruiter_id=259059&gclid=Cj0KCQjw19DlBRCSARIsAOnfReioyz_9ogXwC1lrNjUGmj8STc5p8Q32c-ZbLpwcP7U-1SHMT9lhPOAaAo4YEALw_wcB#xtor=AD-41-%5BThistimeimvoting_IT%5D-%5B032019%5D-%5Blink%5D-%5Bgoogle%5D))
 
 \[3] Per saperne di più consultare [http://www.erasmusplus.it/](http://www.erasmusplus.it) 
 
