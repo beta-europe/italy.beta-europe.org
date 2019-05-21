@@ -1,7 +1,7 @@
 ---
 title: 'EU-MERCOSUR: an agreement in jeopardy'
 excerpt: 'EU-MERCOSUR: an agreement in jeopardy'
-date: '2019-05-22 10:57:32'
+date: '2019-05-21 10:57:32'
 toc: false
 comments: false
 share: true
