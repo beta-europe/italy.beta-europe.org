@@ -13,45 +13,49 @@ Negli ultimi anni, grazie al corso di laurea in **studi internazionali** che ho 
 
 ![](/assets/images/eu-mercosur.png)
 
-I miei studi hanno confermato la mia convinzione del fatto che lo scambio economico e culturale tra gli Stati Membri dell’UE ha portato non solo ad **un’economia più solida**, ma anche a **migliori condizioni di vita, pace e sicurezza sociale**. Ovviamente, tutto ciò è confermato da dati e statistiche. \[1]
+I miei studi hanno confermato la mia convinzione del fatto che lo scambio economico e culturale tra gli Stati Membri dell’UE ha portato non solo ad **un’economia più solida**, ma anche a **migliori condizioni di vita, pace e sicurezza sociale**. Ovviamente, tutto ciò è confermato da dati e statistiche. 
+\[1]
 
-L’Unione mira a permettere ai cittadini europei di **studiare, vivere, comprare, lavorare e andare in pensione in ogni Stato membro** e poter usufruire dei prodotti da tutta Europa. Per fare ciò, essa assicura il libero movimento di beni, servizi, capitale e persone all’interno di un unico mercato europeo. Eliminando le barriere tecniche, legali e burocratiche, l’UE ha anche permesso ai cittadini di commerciare e concludere affari liberamente. Per poter preservare la sua stabilità finanziaria e risolvere le tensioni rispetto ai debiti nazionali all’interno dell’area euro, l’UE ha istituito inoltre una rete di sicurezza per i membri della zona euro in difficoltà: il Meccanismo di Stabilità Europeo.
+L’Unione mira a permettere ai cittadini europei di **studiare, vivere, comprare, lavorare e andare in pensione in ogni Stato membro** e poter usufruire dei prodotti da tutta Europa. Per fare ciò, essa assicura il libero movimento di beni, servizi, capitale e persone all’interno di un unico mercato europeo. Eliminando le barriere tecniche, legali e burocratiche, l’UE ha anche permesso ai cittadini di commerciare e concludere affari liberamente. Per poter preservare la sua stabilità finanziaria e risolvere le tensioni rispetto ai debiti nazionali all’interno dell’area euro, l’UE ha istituito inoltre una rete di sicurezza per i membri della zona euro in difficoltà: il Meccanismo di Stabilità Europeo.
 
-Rimpiazzando gli strumenti temporanei che esistevano prima, l’UE è diventata **l’istituzione multilaterale finanziaria più grande del mondo**, con una capacità di prestito effettiva di 500.000 milioni di euro.
+Rimpiazzando gli strumenti temporanei che esistevano prima, l’UE è diventata **l’istituzione multilaterale finanziaria più grande del mondo**, con una capacità di prestito effettiva di 500.000 milioni di euro.
 
 Oltre a ciò, i vantaggi della **moneta unica** sembrano essere chiari: innanzitutto le persone non devono più cambiare denaro quando viaggiano o lavorano all’interno della zona euro, risparmiando tempo e costi di transizione; in secondo luogo costa molto meno o addirittura nulla effettuare pagamenti inter-nazionali e, infine, consumatori e imprenditori possono comparare i prezzi più facilmente, incrementando la competenza e l’abbassamento dei prezzi stessi. All’interno della zona euro sono garantiti anche **prezzi stabili** dato che la Banca Centrale Europea stabilisce i tassi di interesse a livelli designati in modo tale da mantenere l’inflazione vicina, ma inferiore, al 2%. 
 
-Personalmente, mi sono resa conto di quanto ciò sia importante solo vivendo alcuni mesi in Argentina, dove **l’inflazione** ha raggiunto picchi di quasi il 50% all’anno \[2] e i **prezzi crescono** costantemente, mentre il potere acquisitivo dei salari diminuisce. 
+Personalmente, mi sono resa conto di quanto ciò sia importante solo vivendo alcuni mesi in Argentina, dove **l’inflazione** ha raggiunto picchi di quasi il 50% all’anno \[2] e i **prezzi crescono** costantemente, mentre il potere acquisitivo dei salari diminuisce. 
 
 La grandezza e la forza della zona euro portano tale moneta ad essere **forte e stabile** cosicché essa sia in grado di proteggere i propri membri da traumi esterni e turbolenze del mercato finanziario meglio di quanto qualsiasi singolo Stato potrebbe fare individualmente.
 
-Inoltre, attraverso il pilastro europeo dei diritti sociali , l’UE tutela i **diritti dei cittadini** assicurando uguali opportunità e accesso al mercato del lavoro, adeguate condizioni lavorative, protezione e inclusione sociale. I fondi europei aiutano le organizzazioni pubbliche e private ad implementare e migliorare le proprie politiche sociali e di impiego, e finanziano progetti finalizzati a supportare i propri cittadini.
+Inoltre, attraverso il pilastro europeo dei diritti sociali , l’UE tutela i **diritti dei cittadini** assicurando uguali opportunità e accesso al mercato del lavoro, adeguate condizioni lavorative, protezione e inclusione sociale. I fondi europei aiutano le organizzazioni pubbliche e private ad implementare e migliorare le proprie politiche sociali e di impiego, e finanziano progetti finalizzati a supportare i propri cittadini.
 
-Oltre a ciò, dal 1999 al 2010, il commercio estero dell’UE è duplicato e ora rappresenta più del 30% del prodotto interno lordo dell’Unione.
+Oltre a ciò, dal 1999 al 2010, il commercio estero dell’UE è duplicato e ora rappresenta più del 30% del prodotto interno lordo dell’Unione.
 
 Inoltre, presentandosi come **una singola entità** unita, l’UE esercita **maggior potere nelle negoziazioni economiche e commerciali internazionali** rispetto a quanto potrebbe fare qualsiasi membro individualmente. In più, gli accordi con l’Unione Europea solitamente includono **clausole democratiche**, riduzione delle imposte, regolazioni che concernono la proprietà intellettuale o lo sviluppo sostenibile e clausole per il rispetto dei **diritti umani e civili**, in modo tale che si espanda li Stato di diritto in tutto il mondo.
 
-Basandomi su queste conoscenze, che considero ancora fondamentali, ho iniziato a scrivere la mia tesi triennale in merito alle relazioni tra l’Unione Europea e il **MERCOSUR (Mercato Comune del Sud)**, l’organizzazione regionale del Sudamerica. Esso è un esempio di area di libero commercio limitata, caratterizzata da un basso livello di istituzionalizzazione, se paragonata all’Unione Europea, e priva di sovranità sovranazionale. \[4]
+Basandomi su queste conoscenze, che considero ancora fondamentali, ho iniziato a scrivere la mia tesi triennale in merito alle relazioni tra l’Unione Europea e il **MERCOSUR (Mercato Comune del Sud)**, l’organizzazione regionale del Sudamerica. Esso è un esempio di area di libero commercio limitata, caratterizzata da un basso livello di istituzionalizzazione, se paragonata all’Unione Europea, e priva di sovranità sovranazionale. 
+\[4]
 
-Quando ho iniziato a scrivere il mio elaborato, innanzitutto ho letto articoli e testi in Italia, aumentando la mia convinzione che il **libero commercio** in tutto il mondo, se appoggiato da **misure sociali** mirate a proteggere i piccoli produttori e soprattutto i consumatori, sarebbe stato la risposta alla povertà e al sottosviluppo. Tuttavia, quando sono venuta in Argentina e ho cominciato a studiare le stesse relazioni da un altro punto di vista, ho trovato diverse argomentazioni con le quali mi trovo in completo accordo, ma che mi hanno portata ad una conclusione opposta rispetto a ciò che pensavo inizialmente.
+Quando ho iniziato a scrivere il mio elaborato, innanzitutto ho letto articoli e testi in Italia, aumentando la mia convinzione che il **libero commercio** in tutto il mondo, se appoggiato da **misure sociali** mirate a proteggere i piccoli produttori e soprattutto i consumatori, sarebbe stato la risposta alla povertà e al sottosviluppo.
+ Tuttavia, quando sono venuta in Argentina e ho cominciato a studiare le stesse relazioni da un altro punto di vista, ho trovato diverse argomentazioni con le quali mi trovo in completo accordo, ma che mi hanno portata ad una conclusione opposta rispetto a ciò che pensavo inizialmente.
 
-Il possibile **accordo di libero commercio** tra le due organizzazioni si baserebbe sui **principi democratici** sui quali entrambe si fondando e incrementerebbe la loro **cooperazione** in molti settori di mutuo interesse, come energia, trasporti, protezione ambientale, politiche contro il traffico di droghe e l’ambito educativo. \[5] Per quanto riguarda le politiche economiche, l’accordo ridurrebbe le tasse all’importazione e i dazi doganali in modo tale da aumentare il commercio tra le due regioni.
+Il possibile **accordo di libero commercio** tra le due organizzazioni si baserebbe sui **principi democratici** sui quali entrambe si fondando e incrementerebbe la loro **cooperazione** in molti settori di mutuo interesse, come energia, trasporti, protezione ambientale, politiche contro il traffico di droghe e l’ambito educativo. \[5] Per quanto riguarda le politiche economiche, l’accordo ridurrebbe le tasse all’importazione e i dazi doganali in modo tale da aumentare il commercio tra le due regioni.
 
-Nonostante ciò, non sono più certa del fatto che un accordo di libero commercio tra l’UE e il MERCOSUR beneficerebbe entrambi e rafforzerebbe le loro economie.
+Nonostante ciò, non sono più certa del fatto che un accordo di libero commercio tra l’UE e il MERCOSUR beneficerebbe entrambi e rafforzerebbe le loro economie.
 
 Da un lato, alcuni Stati in Europa, come Francia, Italia, Irlanda e Polonia, vedrebbero le proprie economie **pregiudicate dalla liberalizzazione dei prodotti agricoli** con il MERCOSUR, dato che i beni sudamericani sarebbero più economici e di miglior qualità. 
 
-Nonostante ciò, alcuni autori considerano che si tratti solo di una **questione politica** e che non pregiudicherebbe l’economia regionale dato che i prodotti agricoli sensibili concernono solo il 14,3% del totale delle importazioni europee di beni agricoli dal MERCOSUR. \[6]
+Nonostante ciò, alcuni autori considerano che si tratti solo di una **questione politica** e che non pregiudicherebbe l’economia regionale dato che i prodotti agricoli sensibili concernono solo il 14,3% del totale delle importazioni europee di beni agricoli dal MERCOSUR. 
+\[6]
 
-D’altra parte, il MERCOSUR sta cercando di **proteggere la propria produzione locale** nei settori manifatturiero e industriale, soprattutto nel campo delle high tech e delle automobili. Infatti le economie sudamericane sono generalmente basate su politiche protezionistiche e dazi doganali alle importazioni, in particolare per prodotti europei, in modo tale da proteggere il fragile mercato interno. Per ciò, la riduzione o sospensione di tali imposte potrebbe danneggiare l’economia del MERCOSUR, che è già instabile ed incerta.
+D’altra parte, il MERCOSUR sta cercando di **proteggere la propria produzione locale** nei settori manifatturiero e industriale, soprattutto nel campo delle high tech e delle automobili. Infatti le economie sudamericane sono generalmente basate su politiche protezionistiche e dazi doganali alle importazioni, in particolare per prodotti europei, in modo tale da proteggere il fragile mercato interno. Per ciò, la riduzione o sospensione di tali imposte potrebbe danneggiare l’economia del MERCOSUR, che è già instabile ed incerta.
 
-Per concludere, dato che un accordo di cooperazione politica senza un accordo di libero commercio sembra essere fuori discussione nel mondo in cui viviamo, ciò che mi sembra essere lo scenario maggiormente auspicabile è che si concretizzi **un’integrazione interna più stabile e forte dal punto di vista economico, politico e sociale** sia per l’Unione Europea che per il MERCOSUR separatamente, ma non posso più considerarmi partitaria di un accordo di libero commercio tra le due organizzazioni, in quanti ritengo che esso potrebbe non essere favorevole soprattutto per il Sudamerica.
+Per concludere, dato che un accordo di cooperazione politica senza un accordo di libero commercio sembra essere fuori discussione nel mondo in cui viviamo, ciò che mi sembra essere lo scenario maggiormente auspicabile è che si concretizzi **un’integrazione interna più stabile e forte dal punto di vista economico, politico e sociale** sia per l’Unione Europea che per il MERCOSUR separatamente, ma non posso più considerarmi partitaria di un accordo di libero commercio tra le due organizzazioni, in quanti ritengo che esso potrebbe non essere favorevole soprattutto per il Sudamerica.
 
-\[1] https://europa.eu/european-union/index_enè
+\[1] <https://europa.eu/european-union/index_it>
 
-\[2] https://www.gauchonews.it/economia-argentina/inflazione-in-argentina-2018/
+\[2] <https://www.gauchonews.it/economia-argentina/inflazione-in-argentina-2018/>
 
-\[3] https://ec.europa.eu/commission/sites/beta-political/files/social-summit-european-pillar-social-rights-booklet_en.pdf
+\[3] <https://ec.europa.eu/commission/sites/beta-political/files/social-summit-european-pillar-social-rights-booklet_en.pdf>
 
 \[4] R. Belloni, M. Moschella, D. Sicurelli, Le organizzazioni internazionali, Bologna, Il mulino, 2013.
 
@@ -59,9 +63,7 @@ Nonostante ciò, alcuni autori considerano che si tratti solo di una **questione
 
 \[6] M. Cienfuegos Mateo, “Las relaciones exteriores del Mercosur”, Revista CIDOB d’Afers Internacionals, n. 54-55, 2001, pp. 139-164.
 
-
-
-FONTI:
+**FONTI**:
 
 S. Abreu, “El Mercosur y la Unión Europea. Hacia el inicio de una nueva era en sus relaciones bilaterales”, Revista Enfoques Mercosur, año 1, n. 3, Montevideo, Programa de cooperación COMISEC/BID/PNUD, feb. 1995. 
 
