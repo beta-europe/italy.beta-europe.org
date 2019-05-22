@@ -51,6 +51,10 @@ D’altra parte, il MERCOSUR sta cercando di **proteggere la propria produzione 
 
 Per concludere, dato che un accordo di cooperazione politica senza un accordo di libero commercio sembra essere fuori discussione nel mondo in cui viviamo, ciò che mi sembra essere lo scenario maggiormente auspicabile è che si concretizzi **un’integrazione interna più stabile e forte dal punto di vista economico, politico e sociale** sia per l’Unione Europea che per il MERCOSUR separatamente, ma non posso più considerarmi partitaria di un accordo di libero commercio tra le due organizzazioni, in quanti ritengo che esso potrebbe non essere favorevole soprattutto per il Sudamerica.
 
+_Ester Davanzo_
+
+**NOTE**:
+
 \[1] <https://europa.eu/european-union/index_it>
 
 \[2] <https://www.gauchonews.it/economia-argentina/inflazione-in-argentina-2018/>
