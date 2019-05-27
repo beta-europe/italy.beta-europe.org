@@ -13,6 +13,8 @@ header: {}
 
 This is an article dedicated to the **70 years** of the **Council of Europe**. This institution plays a fundamental role in European history, especially concerning the protection of **human rights** and **representative democracy**. The Council of Europe has changed the life of millions of Europeans. For these reasons, the article will attempt to explore its history and mission to explain its contribution to the historical development of European integration process from 1949 to the present day.
 
+![Seventy years of the Council of Europe](/assets/images/seventy-years-of-the-council-of-europe.jpg)
+
 **The origins of the Council of Europe**
 
 The Council of Europe was the first European post-war intergovernmental organization to have an effective political agenda at European level. Nowadays, this institution holds the multiform concept of "**the idea of Europe**" and, with its 47 members, represents an important meeting point between EU members and further European countries that are not part of the Union (for instance, Russia). This emphasizes the importance of the Council in promoting **mutual understanding and cooperation** at international level beyond the EU borders, as well as the fundamental values of the Union all over the continent.
