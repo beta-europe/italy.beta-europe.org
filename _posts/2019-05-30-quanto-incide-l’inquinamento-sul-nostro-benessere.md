@@ -9,7 +9,7 @@ published: true
 edit: true
 header: {}
 ---
-Esistono dei rapporti matematici, ormai verificati e comprovati, che mettono in relazione l'inquinamento di un paese con il suo sviluppo economico e, dunque, con il benessere dei suoi abitanti. L'articolo affronta le problematiche e i dibattiti legati a questo tema estremamente attuale e interessante. 
+Esistono dei rapporti economici, ormai verificati e comprovati, che mettono in relazione l'inquinamento di un paese con il suo sviluppo economico e, dunque, con il benessere dei suoi abitanti. L'articolo affronta le problematiche e i dibattiti legati a questo tema estremamente attuale e interessante. 
 
 ![](/assets/images/garbage-2729608_960_720.jpg)
 
