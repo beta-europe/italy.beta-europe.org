@@ -9,7 +9,7 @@ published: true
 edit: true
 header: {}
 ---
-Esistono dei rapporti matematici, ormai verificati e comprovati, che mettono in relazione l'inquinamento di un paese con lo il suo sviluppo econimico, e, dunque con il benessere dei suoi abitanti. L'articolo affronta le problematiche e i dibattiti legati a questo tema attuale e interessante. 
+Esistono dei rapporti matematici, ormai verificati e comprovati, che mettono in relazione l'inquinamento di un paese con il suo sviluppo economico e, dunque, con il benessere dei suoi abitanti. L'articolo affronta le problematiche e i dibattiti legati a questo tema estremamente attuale e interessante. 
 
 ![](/assets/images/garbage-2729608_960_720.jpg)
 
@@ -33,7 +33,7 @@ Si ha **decrescita** quando entrano in gioco tre fattori:
 
 3-	gli **incentivi dell’innovazione tecnologica** e i cambiamenti strutturali. 
 
-Si deduce che, per ottenere crescita in un paese, ci sia bisogno del **consumo delle risorse ambientali**; ciò provoca un aumento **dell’intensità dell’inquinamento**. Dato che si verificano sempre maggiori cambiamenti nelle preferenze dei consumatori, ci sarà **un’ampia richiesta di qualità ambientale** (intesa come bene sostituto di lusso). 
+Si deduce che, per ottenere crescita in un paese, ci sia bisogno del **consumo delle risorse ambientali**; ciò provoca un aumento **dell’intensità dell’inquinamento**. Dato che si verificano sempre maggiori cambiamenti nelle preferenze dei consumatori, ci sarà **un’ampia richiesta di qualità ambientale** (intesa come bene sostituto di lusso). 
 
 Per livelli crescenti di reddito, i nostri **beni** saranno **scambiati** con **qualità ambientale**. I cambiamenti nella tecnologia caratterizzati dal progresso tecnico e dall’aumento di beni immateriali sono anch’essi importanti, perché permettono di “**risparmiare**” **risorse** naturali. Nondimeno, il mutamento nelle istituzioni porta all’aumento della crescita economica, che ha come fine ultimo quello di permettere un uso razionale delle risorse ambientali.
 
@@ -53,11 +53,10 @@ _Teodora Nacu_
 
 \[4] Studiosi della curva ambientale di Kuznets.
 
-\[5]   La trappola della povertà riprende il modello macroeconomico semplificato e riguarda il mantenimento delle persone in stato di povertà anche quando queste cercano di uscire dalla loro condizione. Solitamente si fa riferimento al modello ideato da Solow, nel contesto ambientale sarà Sachs che ci permetterà di definire l’idea di “trappola della povertà ambientale.
+\[5]   La trappola della povertà riprende il modello macroeconomico semplificato e riguarda il mantenimento delle 
+persone in stato di povertà anche quando queste cercano di uscire dalla loro condizione. Solitamente si fa riferimento al modello ideato da Solow, nel contesto ambientale sarà Sachs che ci permetterà di definire l’idea di “trappola della povertà ambientale.
 
-
-
-Bibliografia
+Bibliografia
 
 •	Tietenberg T., Folmer H., Edward Eldgar, (2006), The International Year Book of Environmental  and  Resource  Economics:  A  survey  of  current  issues,  Publishing  Limited, Cheltenam, UK.
 
