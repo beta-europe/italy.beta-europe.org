@@ -1,7 +1,7 @@
 ---
 title: The EU closing its greatest trade agreement with MERCOSUR
 excerpt: The EU closing its greatest trade agreement with MERCOSUR
-date: '2019-07-09 11:35:00'
+date: '2019-07-10 11:35:00'
 toc: false
 comments: false
 share: true
@@ -9,6 +9,8 @@ published: false
 edit: true
 ---
 In today's convulse period for the EU's political scenario, with the neo-elected MEPs just installed and the discussions for the top-EU jobs just finished, the end of negotiations for EU's greatest trade deal seemed not to have been on top of the news. However, on Friday, **June the 28th**, the EU produced a final draft for an **Association Agreement with MERCOSUR** - the most relevant southern American integration group - composed of Brazil, Argentina, Paraguay and Uruguay.
+
+![Mercosur-EU agreement](/assets/images/ftamercosureu.jpg "Mercosur-EU agreement")
 
 President Juncker defined it "an **historical moment**"; reaching a provisional draft after almost 20 years of negotiations. On the other side of the Atlantic, the Argentinian and Brazilian Presidents - Jair Bolsonaro and Mauricio Macri - responded with the same amount of enthusiasm. Jean-Claude Juncker defined it "**a win-win deal**", indeed it represents the largest trade agreement the EU has ever concluded. It will save European companies over €4 billion in duties at the border, four times as much as the EU deal with Japan. On the South American countries' side, it is the first utmost trade agreement, it opens up their market but also commits them to environmental protection rules, human and social rights, in a moment when global protectionism is on the rise and major powers such as the United States and China are stuck in a trade war.
 
@@ -38,10 +40,16 @@ The official text will be available after legal revisions from both sides. Then,
 
 _Francesco Carboni and Ester Davanzo_
 
-**Sources**
+**Sources:**
 
 <http://ec.europa.eu/trade/policy/in-focus/eu-mercosur-association-agreement/>
 
 <http://trade.ec.europa.eu/doclib/press/index.cfm?id=2040>
 
 "Ue-Mercosur, raggiunto l'accordo commerciale" by Antonella Andriuolo (Italian language); last update: 29/06/2019 <https://it.euronews.com/2019/06/29/ue-mercosur-raggiunto-l-accordo-commerciale>
+
+
+
+**Image credits:**
+
+[Free trade agreement between EU and Mercosur](https://commons.wikimedia.org/wiki/File:FTAMercosurEU.jpg) by [Wikipediow](https://commons.wikimedia.org/wiki/Special:Contributions/Wikipediow) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
