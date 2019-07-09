@@ -1,7 +1,7 @@
 ---
 title: The EU closing its greatest trade agreement with MERCOSUR
 excerpt: The EU closing its greatest trade agreement with MERCOSUR
-date: '2019-07-10 12:35:59'
+date: '2019-07-09 11:35:00'
 toc: false
 comments: false
 share: true
