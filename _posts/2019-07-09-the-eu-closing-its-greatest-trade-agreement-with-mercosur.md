@@ -5,7 +5,7 @@ date: '2019-07-10 11:35:00'
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 ---
 In today's convulse period for the EU's political scenario, with the neo-elected MEPs just installed and the discussions for the top-EU jobs just finished, the end of negotiations for EU's greatest trade deal seemed not to have been on top of the news. However, on Friday, **June the 28th**, the EU produced a final draft for an **Association Agreement with MERCOSUR** - the most relevant southern American integration group - composed of Brazil, Argentina, Paraguay and Uruguay.
