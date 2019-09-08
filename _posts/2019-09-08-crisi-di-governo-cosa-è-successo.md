@@ -1,7 +1,7 @@
 ---
 title: 'Crisi di governo: cosa è successo?'
-excerpt: Dalla crisi al governo Conte bis
-link: Dalla crisi al governo Conte bis
+excerpt: 'Crisi di governo: cosa è successo?'
+link: ''
 date: '2019-09-06 04:38:53'
 toc: false
 comments: false
