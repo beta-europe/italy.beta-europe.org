@@ -59,15 +59,15 @@ Anche le **borse italiane** sembrano aver reagito bene alla nascita della nuova 
 
 Quale saranno le prossime mosse del governo giallorosso? Staremo a vedere, quel che è certo è che presentandosi come il **governo della discontinuità** rispetto a quello precedente, il Partito democratico ha già annunciato di voler **modificare** il **decreto Sicurezza bis** tanto voluto dall’ex ministro dell’interno Matteo Salvini.
 
-Fonti: [https://www.repubblica.it/politica/2019/09/02/news/governo_conte_tappe_e_totoministri-234955756/](<•	https://www.repubblica.it/politica/2019/09/02/news/governo_conte_tappe_e_totoministri-234955756/>)
+Fonti: <https://www.repubblica.it/politica/2019/09/02/news/governo_conte_tappe_e_totoministri-234955756/>
 
-[https://video.virgilio.it/guarda-video/la-piattaforma-rousseau-del-movimento-5-stelle-cose-e-come-funziona_bc6078452220001](<•	https://video.virgilio.it/guarda-video/la-piattaforma-rousseau-del-movimento-5-stelle-cose-e-come-funziona_bc6078452220001>)
+<https://video.virgilio.it/guarda-video/la-piattaforma-rousseau-del-movimento-5-stelle-cose-e-come-funziona_bc6078452220001>
 
-[https://www.open.online/2019/08/31/conte-al-quirinale-a-colloquio-con-mattarella/](<•	https://www.open.online/2019/08/31/conte-al-quirinale-a-colloquio-con-mattarella/>)
+<https://www.open.online/2019/08/31/conte-al-quirinale-a-colloquio-con-mattarella/>
 
-[https://www.open.online/2019/08/31/il-pendolo-di-rousseau-perche-di-maio-sta-facendo-il-duro/](<•	https://www.open.online/2019/08/31/il-pendolo-di-rousseau-perche-di-maio-sta-facendo-il-duro/>)
+<https://www.open.online/2019/08/31/il-pendolo-di-rousseau-perche-di-maio-sta-facendo-il-duro/>
 
-[https://www.open.online/2019/09/02/partita-ministri-ultimo-borsino-nomi-donna-vicina-viminale-ripiego-di-maio/](<•	https://www.open.online/2019/09/02/partita-ministri-ultimo-borsino-nomi-donna-vicina-viminale-ripiego-di-maio/>)
+<https://www.open.online/2019/09/02/partita-ministri-ultimo-borsino-nomi-donna-vicina-viminale-ripiego-di-maio/>
 
 >
 
