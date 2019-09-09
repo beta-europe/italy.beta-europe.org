@@ -53,7 +53,7 @@ Con l’approvazione del 79% degli iscritti a **Rousseau**, la piattaforma del M
 
 Le **critiche** da parte dei partiti ormai relegati a **opposizione** non si sono certo fatte mancare. Rinominando il nuovo esecutivo come "il governo delle poltrone”, **Salvini** insieme alla leader di Fratelli d’Italia, **Giorgia** **Meloni** ha annunciato il loro intervento in piazza a Roma il 19 ottobre, giorno della votazione della fiducia al governo entrante. Chi si è allontanato dall’idea di un’opposizione in piazza è invece il partito di **Forza Italia**, che preferisce manifestare il suo dissenso tra i banchi del Parlamento. 
 
-**L’establishment** per il nuovo Governo è arrivato anche dai **vertici europei** a Bruxelles, che nel frattempo aspettano la legge di Bilancio 2020 che dovrà essere presentata ad ottobre di quest’anno.
+**L’endorsement** per il nuovo Governo è arrivato anche dai **vertici europei** a Bruxelles, che nel frattempo aspettano la legge di Bilancio 2020 che dovrà essere presentata ad ottobre di quest’anno.
 
 Anche le **borse italiane** sembrano aver reagito bene alla nascita della nuova coalizione, con lo spread in discesa. 
 
