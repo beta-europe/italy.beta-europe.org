@@ -10,6 +10,8 @@ edit: true
 ---
 _ABSTRACT: Uno spettro si aggira per l’Europa: è la Brexit! A più di tre anni dal referendum che sancì la volontà del 52% dei cittadini britannici di abbandonare l’Unione, però, della tanta annunciata Brexit nessun segnale. Perché? Cosa sta succedendo? Le ultime settimane sono state intense e piene di colpi di sciena, e hanno riportato la Brexit sulla bocca di tutti. È il caso quindi di riepilogare quanto successo in queste giornate che entreranno negli annali di storia, nel bene o nel male, e vedere cosa ci aspetta in futuro._
 
+![](/assets/images/brexit-3575384_1920.jpg)
+
 **DOVE ERAVAMO RIMASTI?**
 
 Nel dicembre 2018, Leonardo Brambilla ha scritto su questo sito un dossier sullo s[tato dell’arte della Brexit](https://italy.beta-europe.org/2018/12/05/dossier-brexit-luce-in-fondo-al-tunnel/), spiegando che “dopo mesi di tensioni e incertezze, soprattutto sulla possibilità di incorre in un “no-deal” \[…] le due sponde della Manica sembrano aver trovato un punto di convergenza”. A **novembre 2018** infatti, il Governo Britannico di Theresa May aveva raggiunto un accordo ([Withdrawal Agreement](https://europa.eu/rapid/press-release_MEMO-18-6422_it.htm)) con i negoziatori europei che stabiliva le condizioni dell'uscita del Regno Unito dall' Unione Europea (UE): in attesa di un più dettagliato accordo sulle relazioni future (specialmente commerciali), i negoziatori Britannici ed europei erano riusciti a concordare i “termini del divorzio”. La stipula del Withdrwawal Agreement era stata accolta con positività e sollievo, [dopo mesi di stallo e difficoltà](https://www.internazionale.it/opinione/2018/07/20/secondo-referendum-brexit) spesi nel tentaativo di conciliare gli interessi divergenti delle parti: si intravedeva finalmente **la luce in fondo al tunnel**. 
@@ -98,18 +100,22 @@ The Guardian: <https://www.theguardian.com/politics/ng-interactive/2019/oct/18/h
 
 IL VOTO DELLA CAMERA DEI COMUNI E L’ESTENSIONE FINO AL 31 GENNAIO
 
-Il Post: https://www.ilpost.it/2019/10/20/johnson-rinvio-brexit/
+Il Post: <https://www.ilpost.it/2019/10/20/johnson-rinvio-brexit/>
 
-Metro: https://metro.co.uk/2019/03/29/meaningful-vote-actually-mean-9060923/
+Metro: <https://metro.co.uk/2019/03/29/meaningful-vote-actually-mean-9060923/>
 
-Politico.eu : https://www.politico.eu/article/john-bercow-disallows-second-vote-on-brexit-deal/
+Politico.eu : <https://www.politico.eu/article/john-bercow-disallows-second-vote-on-brexit-deal/>
 
-Politico.eu: https://www.politico.eu/article/eu-agrees-to-january-31-brexit-extension/
+Politico.eu: <https://www.politico.eu/article/eu-agrees-to-january-31-brexit-extension/>
 
-Sito del Parlamento Britannico: https://www.parliament.uk/business/news/2019/october/parliament-sits-on-a-saturday-to-debate-the-prime-ministers-proposed-brexit-deal/
+Sito del Parlamento Britannico: <https://www.parliament.uk/business/news/2019/october/parliament-sits-on-a-saturday-to-debate-the-prime-ministers-proposed-brexit-deal/>
 
-Telegraph: https://www.telegraph.co.uk/politics/2019/10/19/benn-act-will-boris-johnson-forced-request-brexit-extention/
+Telegraph: <https://www.telegraph.co.uk/politics/2019/10/19/benn-act-will-boris-johnson-forced-request-brexit-extention/>
 
-The Guardian: https://www.theguardian.com/commentisfree/2019/sep/03/no-deal-brexit-crashing-out-uk-europe
+The Guardian: <https://www.theguardian.com/commentisfree/2019/sep/03/no-deal-brexit-crashing-out-uk-europe>
 
-The Guardian: https://www.theguardian.com/politics/ng-interactive/2019/oct/19/brexit-deal-how-did-your-mp-vote-on-the-letwin-amendment
+The Guardian: <https://www.theguardian.com/politics/ng-interactive/2019/oct/19/brexit-deal-how-did-your-mp-vote-on-the-letwin-amendment>
+
+**CREDITS:** 
+
+[Immagine copertina](https://pixabay.com/it/illustrations/brexit-regno-unito-eu-gran-bretagna-3575384/): foto di [Tumisu](https://pixabay.com/it/users/tumisu-148124/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3575384) da [Pixabay](https://pixabay.com/it/)
