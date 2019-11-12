@@ -1,5 +1,5 @@
 ---
-title: BREXIT O NON BREXIT? È QUANDO IL PROBLEMA
+title: Dossier | Brexit o non Brexit? È quando il problema - Parte I
 excerpt: BREXIT O NON BREXIT? È QUANDO IL PROBLEMA
 date: '2019-11-11 10:17:17'
 toc: false
@@ -51,6 +51,8 @@ L’approvazione dell’emendamento Letwin ha quindi fatto **crollare la strateg
 I leader europei, pur non mettendo seriamente in discussione la possibilità di concedere un’ulteriore estensione, hanno discusso per più di una settimana sulla **durata e tipo di estensione** più opportuna. Pur essendoci consenso sul fatto che uno scenario _no-deal_ avrebbe [risultati negativi](https://www.theguardian.com/commentisfree/2019/sep/03/no-deal-brexit-crashing-out-uk-europe) non solo per il Regno Unito, ma anche per l’Unione stessa, il prolungamento della Brexit ha anche delle ripercussioni negative sul lungo termine, richiedendo ulteriori e prolungate energie su una questione dei risultati dubbi e con implicazioni negative in termini di immagine. Il [28 ottobre](https://www.politico.eu/article/eu-agrees-to-january-31-brexit-extension/) infine, i leader europei si sono accordati per una **estensione fino al 31 gennaio**, declinandola come un “**rinvio flessibile**”, che permetta al Regno Unito di uscire dall’Unione non appena approvato e finalizzato il Withdrawal Agreement. 
 
 Dopo più di tre anni dal referendum con cui il regno Unito ha deciso di lasciare l’UE, la Brexit è tornata in cima alle pagine dei giornali, riservando colpi di scena e novità, prima di scivolare nuovamente nella sua comfort zone, la **procrastinazione**. Tuttavia, i recenti sviluppi avranno importanti conseguenze, sia per il Regno Unito che per l’Unione.
+
+_Marco Gerbaudo_
 
 **FONTI:** 
 
