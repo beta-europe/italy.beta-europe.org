@@ -124,6 +124,6 @@ The Guardian: <https://www.theguardian.com/politics/ng-interactive/2019/oct/19/b
 
 [Immagine copertina](https://pixabay.com/it/illustrations/brexit-regno-unito-eu-gran-bretagna-3575384/): foto di [Tumisu](https://pixabay.com/it/users/tumisu-148124/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3575384)
 
-[Immagine 1](https://unsplash.com/photos/wod3IB2jkhA): foto di [Jannes Van den wouwer](https://unsplash.com/@jannesvdw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+[Immagine ](https://commons.wikimedia.org/wiki/File:Johnson_meets_with_Junker_in_Luxembourg.jpg)1: Wikimedia Commons 
 
-[Immagine 2](https://commons.wikimedia.org/wiki/File:Johnson_meets_with_Junker_in_Luxembourg.jpg): Wikimedia Commons
+[Immagine ](https://unsplash.com/photos/wod3IB2jkhA)2: foto di [Jannes Van den wouwer](https://unsplash.com/@jannesvdw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
