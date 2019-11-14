@@ -1,11 +1,11 @@
 ---
 title: Dossier | Brexit o non Brexit? È quando il problema - Parte I
 excerpt: BREXIT O NON BREXIT? È QUANDO IL PROBLEMA
-date: '2019-11-11 10:17:17'
+date: '2019-11-14 01:30:00'
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 ---
 _ABSTRACT: Uno spettro si aggira per l’Europa: è la Brexit! A più di tre anni dal referendum che sancì la volontà del 52% dei cittadini britannici di abbandonare l’Unione, però, della tanta annunciata Brexit nessun segnale. Perché? Cosa sta succedendo? Le ultime settimane sono state intense e piene di colpi di sciena, e hanno riportato la Brexit sulla bocca di tutti. È il caso quindi di riepilogare quanto successo in queste giornate che entreranno negli annali di storia, nel bene o nel male, e vedere cosa ci aspetta in futuro._
