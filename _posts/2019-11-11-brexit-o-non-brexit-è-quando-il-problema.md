@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 ---
-_ABSTRACT: Uno spettro si aggira per l’Europa: è la Brexit! A più di tre anni dal referendum che sancì la volontà del 52% dei cittadini britannici di abbandonare l’Unione, però, della tanta annunciata Brexit nessun segnale. Perché? Cosa sta succedendo? Le ultime settimane sono state intense e piene di colpi di sciena, e hanno riportato la Brexit sulla bocca di tutti. È il caso quindi di riepilogare quanto successo in queste giornate che entreranno negli annali di storia, nel bene o nel male, e vedere cosa ci aspetta in futuro._
+_ABSTRACT: Uno spettro si aggira per l’Europa: è la Brexit! A più di tre anni dal referendum che sancì la volontà del 52% dei cittadini britannici di abbandonare l’Unione, però, della tanta annunciata Brexit nessun segnale. Perché? Cosa sta succedendo? Le ultime settimane sono state intense e piene di colpi di scena, e hanno riportato la Brexit sulla bocca di tutti. È il caso quindi di riepilogare quanto successo in queste giornate che entreranno negli annali di storia, nel bene o nel male, e vedere cosa ci aspetta in futuro._
 
 ![](/assets/images/brexit-3575384_1920.jpg)
 
