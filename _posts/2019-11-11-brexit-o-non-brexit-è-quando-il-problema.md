@@ -1,6 +1,6 @@
 ---
 title: Dossier | Brexit o non Brexit? È quando il problema - Parte I
-excerpt: BREXIT O NON BREXIT? È QUANDO IL PROBLEMA
+excerpt: Dossier | Brexit o non Brexit? È quando il problema
 date: '2019-11-14 12:30:00'
 toc: false
 comments: false
