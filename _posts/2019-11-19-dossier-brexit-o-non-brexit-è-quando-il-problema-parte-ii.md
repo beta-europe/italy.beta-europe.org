@@ -46,78 +46,79 @@ _Marco Gerbaudo_
 
 _NEL REGNO UNITO_
 
-BBC: https://www.bbc.com/news/election-2019-50311003
+BBC: <https://www.bbc.com/news/election-2019-50311003>
 
-BBC: https://www.bbc.com/news/uk-politics-48379730
+BBC: <https://www.bbc.com/news/uk-politics-48379730>
 
-BBC: https://www.bbc.com/news/uk-politics-50216607
+BBC: <https://www.bbc.com/news/uk-politics-50216607>
 
-BBC: https://www.bbc.com/news/uk-politics-50229318
+BBC: <https://www.bbc.com/news/uk-politics-50229318>
 
-Breaking news.ie: https://www.breakingnews.ie/ireland/northern-ireland-votes-will-matter-as-never-before-in-dec-12-uk-election-960546.html
+Breaking news.ie: <https://www.breakingnews.ie/ireland/northern-ireland-votes-will-matter-as-never-before-in-dec-12-uk-election-960546.html>
 
-CNN: https://edition.cnn.com/uk/live-news/brexit-boris-johnson-parliament-tuesday-dle-intl/index.html
+CNN: <https://edition.cnn.com/uk/live-news/brexit-boris-johnson-parliament-tuesday-dle-intl/index.html>
 
-Il Post: https://www.ilpost.it/2019/11/04/nigel-farage-rielezione-dicembre-regno-unito/
+Il Post: <https://www.ilpost.it/2019/11/04/nigel-farage-rielezione-dicembre-regno-unito/>
 
-Il Post: https://www.ilpost.it/2019/11/11/brexit-party-collegi-conservatori-farage-2019/
+Il Post: <https://www.ilpost.it/2019/11/11/brexit-party-collegi-conservatori-farage-2019/>
 
-Independent: https://www.independent.co.uk/news/uk/politics/general-election-nigel-farage-brexit-party-candidates-boris-johnson-a9181556.html
+Independent: <https://www.independent.co.uk/news/uk/politics/general-election-nigel-farage-brexit-party-candidates-boris-johnson-a9181556.html>
 
-International Affaris Institute (IAI) : https://www.iai.it/en/pubblicazioni/taking-back-control-uk-parliament-and-brexit-withdrawal-negotiations
+International Affairs Institute (IAI) : <https://www.iai.it/en/pubblicazioni/taking-back-control-uk-parliament-and-brexit-withdrawal-negotiations>
 
-Internazionale: https://www.internazionale.it/opinione//2018/07/20/secondo-referendum-brexit
+Internazionale: <https://www.internazionale.it/opinione//2018/07/20/secondo-referendum-brexit>
 
-Politico.eu: https://www.politico.eu/article/blow-for-boris-johnson-as-mps-reject-his-brexit-timetable/
+Politico.eu: <https://www.politico.eu/article/blow-for-boris-johnson-as-mps-reject-his-brexit-timetable/>
 
-Politico.eu: https://www.politico.eu/article/boris-johnson-snubs-nigel-farage-over-electoral-pact/
+Politico.eu: <https://www.politico.eu/article/boris-johnson-snubs-nigel-farage-over-electoral-pact/>
 
-Politico.eu: https://www.politico.eu/article/corbyn-defends-6-month-plan-end-brexit-debate/
+Politico.eu: <https://www.politico.eu/article/corbyn-defends-6-month-plan-end-brexit-debate/>
 
-Politico.eu: https://www.politico.eu/article/jeremy-corbyn-labour-pledges-to-get-brexit-sorted-within-six-months/
+Politico.eu: <https://www.politico.eu/article/jeremy-corbyn-labour-pledges-to-get-brexit-sorted-within-six-months/>
 
-Politico: https://www.politico.eu/article/why-nigel-farages-brexit-party-uk-british-election-gift-isnt-a-game-changer-boris-johnson-tory-party/
+Politico: <https://www.politico.eu/article/why-nigel-farages-brexit-party-uk-british-election-gift-isnt-a-game-changer-boris-johnson-tory-party/>
 
-Sito del Parlamento Britannico: https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979
+Sito del Parlamento Britannico: <https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7979>
 
-Sito ufficiale SNP: https://www.snp.org/nicola-sturgeons-open-letter-to-remain-voters-back-the-snp-to-escape-brexit/
+Sito ufficiale SNP: <https://www.snp.org/nicola-sturgeons-open-letter-to-remain-voters-back-the-snp-to-escape-brexit/>
 
-The Guardian: https://www.theguardian.com/commentisfree/2019/nov/04/elections-solutions-politics-scandal-lies
+The Guardian: <https://www.theguardian.com/commentisfree/2019/nov/04/elections-solutions-politics-scandal-lies>
 
-The Guardian: https://www.theguardian.com/commentisfree/2019/nov/03/buckle-up-britain-it-will-be-a-rocky-and-twisting-road-to-polling-day
+The Guardian: <https://www.theguardian.com/commentisfree/2019/nov/03/buckle-up-britain-it-will-be-a-rocky-and-twisting-road-to-polling-day>
 
-The Guardian: https://www.theguardian.com/politics/2019/nov/05/corbyn-insists-labour-brexit-stance-really-isnt-complicated
+The Guardian: <https://www.theguardian.com/politics/2019/nov/05/corbyn-insists-labour-brexit-stance-really-isnt-complicated>
 
-The Guardian: https://www.theguardian.com/politics/2019/oct/30/let-battle-commence-how-the-parties-are-shaping-up-for-decembers-election
+The Guardian: <https://www.theguardian.com/politics/2019/oct/30/let-battle-commence-how-the-parties-are-shaping-up-for-decembers-election>
 
-The Guardian: https://www.theguardian.com/politics/blog/live/2019/oct/22/brexit-boris-johnson-deal-leave-eu-live-news
+The Guardian: <https://www.theguardian.com/politics/blog/live/2019/oct/22/brexit-boris-johnson-deal-leave-eu-live-news>
+
 
 _NELL'UNIONE EUROPEA_
 
-EU Observer: https://euobserver.com/economic/146342
+EU Observer: <https://euobserver.com/economic/146342>
 
-EU Observer: https://euobserver.com/political/146639
+EU Observer: <https://euobserver.com/political/146639>
 
-Euractiv: https://www.euractiv.com/section/uk-europe/news/brexit-frustration-increases-as-eu-censures-uk-over-failure-to-nominate-commissioner/
+Euractiv: <https://www.euractiv.com/section/uk-europe/news/brexit-frustration-increases-as-eu-censures-uk-over-failure-to-nominate-commissioner/>
 
-European Parliament: http://www.europarl.europa.eu/RegData/etudes/STUD/2019/621914/IPOL_STU(2019)621914_EN.pdf
+European Parliament: <http://www.europarl.europa.eu/RegData/etudes/STUD/2019/621914/IPOL_STU(2019)621914_EN.pdf>
 
-Financial Times: https://www.ft.com/content/9f580dbc-fa44-11e9-a354-36acbbb0d9b6
+Financial Times: <https://www.ft.com/content/9f580dbc-fa44-11e9-a354-36acbbb0d9b6>
 
-Il Post: https://www.ilpost.it/2019/10/23/brexit-non-finira-mai/
+Il Post: <https://www.ilpost.it/2019/10/23/brexit-non-finira-mai/>
 
-ISPI online: https://www.ispionline.it/it/pubblicazione/balcani-il-consiglio-ue-rimanda-ancora-albania-e-macedonia-23389
+ISPI online: <https://www.ispionline.it/it/pubblicazione/balcani-il-consiglio-ue-rimanda-ancora-albania-e-macedonia-23389>
 
-Politico.eu: https://www.politico.eu/article/brussels-asks-uk-to-nominate-european-commissioner/
+Politico.eu: <https://www.politico.eu/article/brussels-asks-uk-to-nominate-european-commissioner/>
 
-Politico.eu: https://www.politico.eu/article/eu-transition-uncertainty-european-commission-ursula-von-der-leyen/
+Politico.eu: <https://www.politico.eu/article/eu-transition-uncertainty-european-commission-ursula-von-der-leyen/>
 
-Politico.eu: https://www.politico.eu/article/faq-the-uk-british-role-in-the-next-european-commission-brexit-ursula-von-der-leyen/
+Politico.eu: <https://www.politico.eu/article/faq-the-uk-british-role-in-the-next-european-commission-brexit-ursula-von-der-leyen/>
 
-Politico.eu: https://www.politico.eu/article/ursula-von-der-leyen-wants-new-uk-commissioner-brexit-delay/
+Politico.eu: <https://www.politico.eu/article/ursula-von-der-leyen-wants-new-uk-commissioner-brexit-delay/>
 
-The Consitution Unit: https://constitution-unit.com/2019/06/07/the-uncertain-role-of-the-uks-meps-in-the-new-european-parliament/
+The Constitution Unit: <https://constitution-unit.com/2019/06/07/the-uncertain-role-of-the-uks-meps-in-the-new-european-parliament/>
 
-The Guardian: https://www.theguardian.com/business/2019/sep/27/brexit-uncertainty-pushes-uk-to-brink-of-recession
+The Guardian: <https://www.theguardian.com/business/2019/sep/27/brexit-uncertainty-pushes-uk-to-brink-of-recession>
 
-The London School of Economics and Political Sciences-blog: https://blogs.lse.ac.uk/brexit/2019/06/05/the-european-parliament-after-brexit-what-would-it-look-like/
+The London School of Economics and Political Sciences-blog: <https://blogs.lse.ac.uk/brexit/2019/06/05/the-european-parliament-after-brexit-what-would-it-look-like/>
