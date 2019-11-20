@@ -122,3 +122,12 @@ The Constitution Unit: <https://constitution-unit.com/2019/06/07/the-uncertain-r
 The Guardian: <https://www.theguardian.com/business/2019/sep/27/brexit-uncertainty-pushes-uk-to-brink-of-recession>
 
 The London School of Economics and Political Sciences-blog: <https://blogs.lse.ac.uk/brexit/2019/06/05/the-european-parliament-after-brexit-what-would-it-look-like/>
+
+
+## **Crediti immagini:**
+
+[Brexit Regno Unito Eu Gran](https://pixabay.com/it/illustrations/brexit-regno-unito-eu-gran-bretagna-3575384/) di [Tumisu](https://pixabay.com/it/users/tumisu-148124/4) ([Pixabay License](https://pixabay.com/it/service/license/))
+
+[Polling Station](https://www.flickr.com/photos/secretlondon/6997132774/) di [secretlondon123](https://www.flickr.com/people/secretlondon/) di [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+[Ursula von der Leyen presents her vision to MEPs](https://www.flickr.com/photos/european_parliament/48298975382) - [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/): © European Union 2019 – Source: [EP](https://www.flickr.com/people/european_parliament/)
