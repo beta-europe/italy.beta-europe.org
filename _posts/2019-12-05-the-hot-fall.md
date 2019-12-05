@@ -6,7 +6,7 @@ date: '2019-12-05 11:00:00'
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 ---
 **A protests' guide from Chile to Hong Kong for 'dummies'.**
