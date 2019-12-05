@@ -1,7 +1,6 @@
 ---
 title: The Hot Fall
 excerpt: The Hot Fall
-link: ''
 date: '2019-12-05 11:00:00'
 toc: false
 comments: false
