@@ -72,11 +72,15 @@ The hot Fall spinning around our beautiful planet is becoming less hotter thanks
 
 _Valeria Peruzzi_
 
+****
+
 **SOURCES**:
 
 <https://en.wikipedia.org/wiki/2019_Hong_Kong_extradition_bill>
 
 <https://www.economist.com/the-economist-explains/2019/06/30/what-is-chinas-one-country-two-systems-policy>
+
+****
 
 **IMAGE CREDITS**:
 
