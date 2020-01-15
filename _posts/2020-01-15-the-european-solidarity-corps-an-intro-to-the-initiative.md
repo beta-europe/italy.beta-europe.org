@@ -8,9 +8,7 @@ share: true
 published: false
 edit: true
 ---
-_This is the first part of a 2-part article_
-
-
+_This is the first part of a 2-parts article_
 
 The European Solidarity Corps (ESC) was created in order to be both a continuation and an extension of the "European Voluntary Service", the EU-funded volunteering program that has marked the lives of hundreds of thousands of young Europeans throughout the last 25 years.  The ESC is an initiative that was developed between 2014-2016 thanks to a proposal made by Matteo Renzi 5 years ago for the creation of a "European civil service". Nevertheless, the initiative was presented officially by our former President of the European Commission, Jean Claude Juncker, in his State of the Union 2016. 
 
