@@ -75,4 +75,5 @@ Guía Cuerpo Europeo Solidaridad, <https://www.yeseuropa.org/guia-cuerpo-europeo
 
 UE, nasce il Corpo europeo di solidarietà, <http://www.lavoro.gov.it/stampa-e-media/Comunicati/Pagine/UE-nasce-Corpo-europeo-di-solidarieta-Luigi-Bobba-finalmente-l-Europa-riscopre-il-suo-cuore-giovane.aspx>
 
-Image credits
+***Image Credits***
+
