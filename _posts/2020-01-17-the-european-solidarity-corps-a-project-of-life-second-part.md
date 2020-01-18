@@ -8,7 +8,7 @@ share: true
 published: false
 edit: true
 ---
-This is the second part of a two-parts article. Click here to read the first part.
+This is the second part of a two-parts article. Click [here to read the first part](/2020/01/16/the-european-solidarity-corps-a-project-of-life/).
 
 **Why should young people, students and youth workers choose the European Solidarity Corps?**
 
@@ -89,7 +89,18 @@ Do not be afraid.  Seize this moment to live your transition with liberty, enthu
 The European Solidarity Corps exists, it is a project and it will change your life.
 
 *Author*
-
-Leonardo Brambilla
+_Leonardo Brambilla_
 
 **BIBLIOGRAPHY**
+
+Brambilla Leonardo , *Trabajos Erasmus - libertad, descubrimiento y aventura* , <https://www.yeseuropa.org/trabajos-erasmus-libertad-descubrimiento-y-aventura/>
+﻿
+Corpo europeo di Solidarietà - Guida 2019, <https://www.portaledeigiovani.it/printpdf/pdf/scheda/corpo-europeo-di-solidarieta-guida-2019>
+﻿
+Guía Cuerpo Europeo Solidaridad, <https://www.yeseuropa.org/guia-cuerpo-europeo-solidaridad/>
+﻿
+UE, nasce il Corpo europeo di solidarietà, <http://www.lavoro.gov.it/stampa-e-media/Comunicati/Pagine/UE-nasce-Corpo-europeo-di-solidarieta-Luigi-Bobba-finalmente-l-Europa-riscopre-il-suo-cuore-giovane.aspx>
+﻿
+***Image Credits***
+﻿
+* [book near glass window](https://unsplash.com/photos/F_cHIM0Kcy4) by [John-Mark Smith](https://unsplash.com/@mrrrk_smith) ([Unsplash license](https://unsplash.com/license))
