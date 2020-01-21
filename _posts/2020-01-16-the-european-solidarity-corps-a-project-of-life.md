@@ -79,6 +79,10 @@ The **impact** received from this experience is **almost indescribable**. In one
 
 In other words, I learned to **live in the world with humility and ambition**, but without forgetting the importance of treasuring the little things that we rarely notice in our daily life, but that are its essential part.
 
+*Author: Leonardo Brambilla*
+
+
+
 ***BIBLIOGRAPHY***
 
 Brambilla Leonardo , *Trabajos Erasmus - libertad, descubrimiento y aventura* , <https://www.yeseuropa.org/trabajos-erasmus-libertad-descubrimiento-y-aventura/>
