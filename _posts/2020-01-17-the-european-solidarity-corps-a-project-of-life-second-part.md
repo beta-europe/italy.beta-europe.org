@@ -1,7 +1,7 @@
 ---
 title: 'The European Solidarity Corps: a project of life (second part)'
 excerpt: 'The European Solidarity Corps: a project of life (second part)'
-date: '2020-01-23 11:17:19'
+date: '2020-01-22 01:00:00'
 toc: false
 comments: false
 share: true
@@ -82,8 +82,6 @@ I would like to be honest. Without my ESC experience in Spain, I am sure that I 
 The European Solidarity Corps exists, it is a project and it will change your life.
 
 *Author: Leonardo Brambilla*
-
-
 
 **BIBLIOGRAPHY**
 
