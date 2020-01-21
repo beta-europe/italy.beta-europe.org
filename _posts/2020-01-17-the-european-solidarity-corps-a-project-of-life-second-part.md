@@ -14,7 +14,7 @@ This is the second part of a two-parts article. Click [here to read the first pa
 
 **Why should young people, students and youth workers choose the European Solidarity Corps?**
 
-![Free People Image](/assets/images/ESC-2-02-laurenz-kleinheider-OsC8HauR0e0-unsplash.jpg)
+![Free People](/assets/images/ESC-2-02-laurenz-kleinheider-OsC8HauR0e0-unsplash.jpg)
 
 On a personal level, the choice towards this program was mainly dictated by two factors:
 
@@ -46,7 +46,7 @@ Unfortunately, constant prejudices about "volunteering" often deceive and more a
 
 **So, only economic benefits?** 
 
-![Euro banknotes](/assets/images/ESC-2-04-christian-dubovan-Y_x747Yshlw-unsplash.jpg)
+![Two Euro banknotes](/assets/images/ESC-2-04-christian-dubovan-Y_x747Yshlw-unsplash.jpg)
 
 Of course, no. As I already explained in another [article](https://www.yeseuropa.org/trabajos-erasmus-libertad-descubrimiento-y-aventura/) supported by official EU Commission sources, there are reasons why programmes such as the *Erasmus Plus* and the *European Solidarity Corps* help youth to feel better and find work more easily:
 
@@ -96,3 +96,8 @@ UE, nasce il Corpo europeo di solidarietà, <http://www.lavoro.gov.it/stampa-e-m
 ***Image Credits***
 
 * [book near glass window](https://unsplash.com/photos/F_cHIM0Kcy4) by [John-Mark Smith](https://unsplash.com/@mrrrk_smith) ([Unsplash license](https://unsplash.com/license))
+* [Free People](https://unsplash.com/photos/OsC8HauR0e0) by [Laurenz Kleinheider](https://unsplash.com/@laurenzpicture) ([Unsplash license](https://unsplash.com/license))
+* [Madrid](https://unsplash.com/photos/ChSZETOal-I) by [Jorge Fernández Salas](https://unsplash.com/@jorgefdezsalas) ([Unsplash license](https://unsplash.com/license))
+* [two Euro banknotes](https://unsplash.com/photos/Y_x747Yshlw) by [Christian Dubovan](https://unsplash.com/@cdubo) ([Unsplash license](https://unsplash.com/license))
+* [silhouette photo of man jumping on body of water during golden hour photo](https://unsplash.com/photos/7vSlK_9gHWA) by [Kid Circus](https://unsplash.com/@kidcircus) ([Unsplash license](https://unsplash.com/license))
+* [Live your dream](https://pixabay.com/photos/live-your-dream-motivation-incentive-2045928/) by [Alexas_Fots](https://pixabay.com/users/Alexas_Fotos-686414/) ([Pixabay License](https://pixabay.com/service/license/))
