@@ -5,7 +5,7 @@ date: '2020-01-22 00:10:00'
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 ---
 ![The European Solidarity Corps: a project of life](/assets/images/ESC-1-01-The European solidarity Corps_ a project of life.jpg)
