@@ -1,7 +1,7 @@
 ---
 title: 'The European Solidarity Corps: a project of life (second part)'
 excerpt: 'The European Solidarity Corps: a project of life (second part)'
-date: '2020-01-22 01:00:00'
+date: '2020-01-22 00:10:00'
 toc: false
 comments: false
 share: true
