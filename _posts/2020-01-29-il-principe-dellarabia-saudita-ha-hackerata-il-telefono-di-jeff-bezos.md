@@ -5,7 +5,7 @@ date: '2020-01-29 07:11:14'
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 ---
 *Così risulta dalla recente inchiesta del Guardian. L'episodio sembra inoltre essere collegato all'omicidio del giornalista Jamal Khashoggi e pone l'Arabia Saudita in una difficile posizione sullo scacchiere internazionale.*
@@ -43,10 +43,38 @@ Del resto, **l’astio** che intercorre tra Donald Trump e Jeff Bezos non è cer
 
 *Nicoletta Volontè* 
 
+FONTI: 
+
+<https://www.open.online/2020/01/28/impeachment-bolton-fa-tremare-trump-mi-chiese-di-frenare-gli-aiuti-militari-allucraina-per-far-indagare-biden/>
+
+[https://www.ilsole24ore.com/art/il-telefonino-bezos-hackerato-principe-saudita-bin-salman-ACyglWDB?refresh_ce=1 ](https://www.ilsole24ore.com/art/il-telefonino-bezos-hackerato-principe-saudita-bin-salman-ACyglWDB?refresh_ce=1)
+
+<https://www.adnkronos.com/fatti/esteri/2019/10/02/khashoggi-anno-dopo-nessun-colpevole_UROCb84vLf0T8L4x8q84IP.html?refresh_ce>
+
+<http://www.rainews.it/dl/rainews/media/Bezos-la-talpa-fu-lei-la-fidanzata-Lauren-Sanchez-787800f5-41f6-4769-a3a8-5d0121203d77.html#foto-1>
+
+<https://www.ispionline.it/it/pubblicazione/intrigo-internazionale-24911>
+
+<https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25488>
+
+<https://www.ilpost.it/2018/10/08/giornalista-saudita-scomparso-morto/>
+
+<https://www.ilpost.it/2018/10/11/arabia-saudita-stato-autoritario-omicidio-khashoggi/>
+
+<https://www.ilpost.it/2019/12/23/jamal-khashoggi-omicidio-condanna-morte-arabia-saudita/>
+
+<https://edition.cnn.com/2018/10/10/opinions/mohammed-bin-salman-saudi-dictatorship-bergen/index.html>
+
+<https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince>
+
+[https://www.nytimes.com/2020/01/24/opinion/jeff-bezos-phone-hack.html](https://www.nytimes.com/2020/01/24/opinion/jeff-bezos-phone-hack.html?action=click&module=privacy%20belt%20recirc%20module&pgtype=Article)
+
+<https://www.bloomberg.com/news/articles/2020-01-23/trump-s-silence-on-bezos-hack-shows-risk-of-close-ties-to-prince>
+
 CREDITS: 
 
 [Copertina](https://www.flickr.com/photos/jurvetson/5129303018): [Steve Jurvetson](https://www.flickr.com/photos/jurvetson/), Flickr 
 
-[Immagine 1](https://en.wikipedia.org/wiki/Crown_Prince_of_Saudi_Arabia#/media/File:Crown_Prince_Mohammad_bin_Salman_Al_Saud_-_2017.jpg)
+[Immagine 1](https://www.flickr.com/photos/154085524@N02/48826783596): [POMED](https://www.flickr.com/photos/pomed/), Flickr
 
-[Immagine 2](https://www.flickr.com/photos/154085524@N02/48826783596): [POMED](https://www.flickr.com/photos/pomed/), Flickr
+[Immagine 2](https://en.wikipedia.org/wiki/Crown_Prince_of_Saudi_Arabia#/media/File:Crown_Prince_Mohammad_bin_Salman_Al_Saud_-_2017.jpg)
