@@ -1,6 +1,6 @@
 ---
-title: 'Il principe dell''Arabia Saudita ha hackerata il telefono di Jeff Bezos? '
-excerpt: 'Il principe dell''Arabia Saudita ha hackerata il telefono di Jeff Bezos? '
+title: 'Il principe dell''Arabia Saudita ha hackerato il telefono di Jeff Bezos? '
+excerpt: 'Il principe dell''Arabia Saudita ha hackerato il telefono di Jeff Bezos? '
 date: '2020-01-29 07:11:14'
 toc: false
 comments: false
