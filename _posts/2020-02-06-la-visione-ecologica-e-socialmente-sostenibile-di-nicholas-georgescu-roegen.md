@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 ---
-Secondo la bioeconomia è possibile un utilizzo alternativo e uno sfruttamento più efficace delle fonti energetiche presenti sul nostro pianeta. Come? 
+Secondo la bioeconomia è possibile un utilizzo alternativo e un uso più efficace delle fonti energetiche presenti sul nostro pianeta. Come? 
 
 ![](/assets/images/trash-2385237_1920.jpg)
 
