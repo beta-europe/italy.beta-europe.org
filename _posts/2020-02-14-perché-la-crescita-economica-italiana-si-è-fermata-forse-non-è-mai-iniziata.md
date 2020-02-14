@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 ---
-*Uno sguardo al passato della situazione economica italiana per indagare le orgini delle problematiche che affliggono attualmente il nostro Paese.* 
+*Uno sguardo al passato della situazione economica italiana per indagare le origini delle problematiche che affliggono attualmente il nostro Paese.* 
 
 ![](/assets/images/euro-1166051_960_720.jpg)
 
