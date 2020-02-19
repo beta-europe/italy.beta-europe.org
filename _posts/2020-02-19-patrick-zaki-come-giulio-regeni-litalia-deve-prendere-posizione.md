@@ -1,5 +1,7 @@
 ---
-title: Patrick Zaki come Giulio Regeni? L'Italia deve prendere posizione
+title: >-
+  Patrick Zaki come Giulio Regeni? Di fronte agli abusi dell'Egitto l'Italia
+  deve prendere posizione
 excerpt: Patrick Zaki come Giulio Regeni? L'Italia deve prendere posizione
 date: '2020-02-19 06:18:26'
 toc: false
@@ -8,7 +10,7 @@ share: true
 published: true
 edit: true
 ---
-*Patrick George Zaki, giovane ricercatore e attivista, è stato arrestato e torturato dai servizi segreti egiziani con l'accusa di terrorismo e rischia fino a 25 anni di carcere. L'episodio rievoca il fantasma di Giulio Regeni e impone con urgenza al nostro Paese di schierarsi in difesa dei diritti umani.* 
+*Patrick George Zaki, giovane ricercatore e attivista, è stato arrestato e torturato dai servizi segreti egiziani con l'accusa di terrorismo e ora rischia fino a 25 anni di carcere. L'episodio rievoca il fantasma di Giulio Regeni e impone con urgenza al nostro Paese di schierarsi in difesa dei diritti umani.* 
 
 ![](/assets/images/1280px-Barbed_wire_B&W.JPG)
 
@@ -65,8 +67,6 @@ FONTI:
 <https://www.ispionline.it/it/pubblicazione/verso-unopec-del-gas-mediterraneo-24926>
 
 <https://www.ilgiornale.it/news/cronache/egitto-torture-studente-arrestato-sottoposto-allelettrochoc-1823724.html>
-
-
 
 CREDITS: 
 
