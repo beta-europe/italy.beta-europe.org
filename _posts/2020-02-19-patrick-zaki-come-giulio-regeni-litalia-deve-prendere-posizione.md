@@ -1,7 +1,5 @@
 ---
-title: >-
-  Patrick Zaki come Giulio Regeni? Di fronte agli abusi dell'Egitto l'Italia
-  deve prendere posizione
+title: 'Patrick Zaki arrestato e torturato: l''Italia deve prendere posizione'
 excerpt: Patrick Zaki come Giulio Regeni? L'Italia deve prendere posizione
 date: '2020-02-19 06:18:26'
 toc: false
