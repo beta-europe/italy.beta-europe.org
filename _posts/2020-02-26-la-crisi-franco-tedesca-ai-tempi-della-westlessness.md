@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 ---
-*Un'Europa indebolita dalla Brexit e da crisi interne agli Stati Membri si prepara affrontare un periodo difficile, nel quale dovrà competere con i colossi cinese e statunitense.* 
+*Un'Europa indebolita dalla Brexit e da crisi interne agli Stati Membri, anche quelli tradizionalmente più solidi, si prepara affrontare un periodo difficile, nel quale dovrà competere con i colossi cinese e statunitense.* 
 
 ![](/assets/images/emmanuel_macron_and_angela_merkel_-2019-10-09-.jpg)
 
