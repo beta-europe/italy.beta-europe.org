@@ -8,11 +8,9 @@ share: true
 published: true
 edit: true
 ---
-Quali sono le dinamiche sottese alla diffusione del panico da coronavirus? E quali le conseguenze, a livello non solo nazionale, ma anche e soprattutto europeo? 
+*Il coronavirus sta attaccando l'Europa, servendosi di un valido alleato: la paura. La snervante attesa di una epidemia dai caratteri sfuocati mette a dura prova il mondo dell'informazione e la razionalità dei cittadini. A farne le spese sono le popolazioni più colpite dall'emergenza.*
 
 ![](/assets/images/corona-4893276_960_720.jpg)
-
-
 
 Non è una breaking news, ma un dato di fatto: **il Coronavirus (COVI-19) è arrivato in Europa**. Nell'ultima settimana, il numero di casi individuati ([con alcune differenze fra il numero di casi sospetti e casi confermati](https://www.ilpost.it/2020/02/27/casi-coronavirus-italia-test-conti/)) è aumentato vertiginosamente, soprattutto in Italia. Sulla natura, trasmissione e letalità del nuovo virus ci sono ancora molti dubbi tra i ricercatori. È invece innegabile che l'aumento dei cittadini italiani risultati positivi al virus ha avuto come diretta conseguenza il **diffondersi di ansie e preoccupazioni**, se non addirittura **panico**, tra la popolazione europea. In Italia, dove le [regioni del Nord](http://www.regioni.it/newsletter/n-3784/del-24-02-2020/coronavirus-le-ordinanze-delle-regioni-del-nord-20847/), specialmente Lombardia, Veneto, Emilia-Romagna e Piemonte, hanno adottato misure drastiche per cercare di contenere la diffusione del virus, si è assistito a diverse scene di panico: sulle notizie di [supermercati saccheggiati](https://tg24.sky.it/cronaca/photogallery/2020/02/23/coronavirus-italia-supermercati.html#2),[costosissime amuchine fai da te su Amazon ](https://www.repubblica.it/cronaca/2020/02/23/news/coronavirus_amuchina_mascherine-249358877/)e [mascherine introvabili ](https://tg.la7.it/cronaca/milano-citt%C3%A0-sbarrata-mascherine-introvabili-supermercati-presi-dassalto-24-02-2020-147412)i giornali stanno banchettando da giorni.
 
