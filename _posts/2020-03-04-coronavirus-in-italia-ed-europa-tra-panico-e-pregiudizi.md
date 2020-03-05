@@ -8,7 +8,7 @@ share: true
 published: true
 edit: true
 ---
-*Il coronavirus sta attaccando l'Europa, servendosi di un valido alleato: la paura. La snervante attesa di una epidemia dai caratteri sfuocati mette a dura prova il mondo dell'informazione e la razionalità dei cittadini. A farne le spese sono le popolazioni più colpite dall'emergenza.*
+*Il coronavirus sta attaccando l'Europa, servendosi di un valido alleato: la paura. La snervante attesa di una epidemia dai caratteri sfocati mette a dura prova il mondo dell'informazione e la razionalità dei cittadini. A farne le spese sono le popolazioni più colpite dall'emergenza.*
 
 ![](/assets/images/corona-4893276_960_720.jpg)
 
