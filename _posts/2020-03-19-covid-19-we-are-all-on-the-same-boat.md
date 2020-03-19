@@ -10,7 +10,6 @@ edit: true
 ---
 *The moment of collective responsibility has come. We must act as an international community of active and informed citizens. If we keep on ignoring or underestimating the disease, our inaction will contribute to the growth of theviruswith further and dangerous consequences which remain widely unnoticed.*
 
-\
 The advance of **Coronavirus** in Italy, in Europe and in the world is proving to be an issue that we cannot ignore. The WHO recently declared that we are facing a pandemic situation and that the virus is no longer a national or geographical probl. It is a **global threat**.
 
 For too long, we have underestimated this virus and its crucial health and economic consequences. For too long, we have deemed the **COVID-19** a regular viral infection, when all the main official scientific sources agree that **the two viruses are substantially different** ([https://bit.ly/ 2TQlXVi](https://translate.google.com/translate?hl=it&prev=_t&sl=it&tl=en&u=https://bit.ly/2TQlXVi)).
@@ -33,13 +32,10 @@ With this post we felt compelled to remember that **we are all involved in this 
 
 ### So what to do?
 
-1) Let's start with an assumption: if your government is not doing enough to contain the virus expansion, this does not mean that the virus is not already circulating and spreading without your knowledge. Don't panic, but don't underestimate it neither. **Be smarter and act responsibly**.
-
-2) The perception of lower risk in less affected areas does not prevent all of us as citizens from **acting before the emergency arrives**, from being a good example, from following the indications issued by WHO to protect ourselves and the others, as well as starting to limit unnecessary human contacts, frequenting overly crowded places (cinemas, restaurants, concerts, bars, aperitifs, disco parties and so on) and to start already staying at home as much as possible.
-
-3) We are called to spread common sense to make informed decisions which **help our community move towards civil and preventive behavior**. Look at what happened in Italy and Europe. Talk with the people you love, friends and family and push them to follow all the preventive measures required to contain this virus.
-
-4) **Positivity**: the time for criticism will come and then we will have a common cause not only to get angry, to invert our economies in the primary and absolute good of public health, but also to rethink the inadequacies of this system and how to change it. But this is not the time. Now we need responsibility, good examples and action.
+1. Let's start with an assumption: if your government is not doing enough to contain the virus expansion, this does not mean that the virus is not already circulating and spreading without your knowledge. Don't panic, but don't underestimate it neither. **Be smarter and act responsibly**.
+2. The perception of lower risk in less affected areas does not prevent all of us as citizens from **acting before the emergency arrives**, from being a good example, from following the indications issued by WHO to protect ourselves and the others, as well as starting to limit unnecessary human contacts, frequenting overly crowded places (cinemas, restaurants, concerts, bars, aperitifs, disco parties and so on) and to start already staying at home as much as possible.
+3. We are called to spread common sense to make informed decisions which **help our community move towards civil and preventive behavior**. Look at what happened in Italy and Europe. Talk with the people you love, friends and family and push them to follow all the preventive measures required to contain this virus.
+4. **Positivity**: the time for criticism will come and then we will have a common cause not only to get angry, to invert our economies in the primary and absolute good of public health, but also to rethink the inadequacies of this system and how to change it. But this is not the time. Now we need responsibility, good examples and action.
 
 ***Health. Humanity. Solidarity. Prevention. Preparation. Responsibility. Cooperation. Resistance.***
 
@@ -51,5 +47,6 @@ THE SMALL EXAMPLE OF EACH OF US CAN MAKE A DIFFERENCE!
 
 Thank you.
 
-*Leonardo Brambilla & Giuseppe Caretto.* \
+*Leonardo Brambilla & Giuseppe Caretto.* 
+
 *Two Italians in Brussels*
