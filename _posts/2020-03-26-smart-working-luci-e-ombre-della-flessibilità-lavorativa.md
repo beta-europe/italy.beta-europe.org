@@ -58,7 +58,8 @@ Una sfida che da oggi deve essere colta in questa direzione per migliorare il no
 
 *Valeria Peruzzi*
 
-FONTI: \
+FONTI: 
+
 \[1][ttps://it.wikipedia.org/wiki/Lavoro_agile](https://it.wikipedia.org/wiki/Lavoro_agile)
 
 \[2]<https://www.inail.it/cs/internet/atti-e-documenti/note-e-provvedimenti/circolari/circolare-n-48-del-2-novembre-2017.html>
