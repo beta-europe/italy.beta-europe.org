@@ -5,7 +5,7 @@ date: '2020-03-31 11:19:05'
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 ---
 *Le modalità di gestione dell’emergenza Coronavirus stanno modificando la posizione delle pedine sullo scacchiere internazionale. C’è chi, come la Cina, sta cercando di rafforzare la propria posizione e chi, come gli USA, sembra invece non curarsi dei rapporti oltreoceano. Per l’UE questo è un importante banco di prova che testerà la capacità dell’istituzione di rimanere, veramente, “unita nella diversità.”*
