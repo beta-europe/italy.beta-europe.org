@@ -1,7 +1,7 @@
 ---
 title: "Inquinamento e Coronavirus: il male peggiore"
 excerpt: "Inquinamento e Coronavirus: il male peggiore."
-date: 2020-04-15 09:51:29
+date: 2020-04-15T09:51:29.000Z
 toc: false
 comments: false
 share: true
@@ -61,6 +61,6 @@ e voi, cosa ne pensate?
 
 **Fonti immagini**:
 
-<https://pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/>
+[Covid-19 Coronavirusy L'Epidemia](https://pixabay.com/photos/covid-19-coronavirusy-epidemic-4916028/) ([Pixabay License](https://pixabay.com/it/service/license/))
 
-<https://pixabay.com/photos/smoke-smoking-chimney-fireplace-258786/>
+[Fumo Camino La Tutela Ambientale](https://pixabay.com/photos/smoke-smoking-chimney-fireplace-258786/) ([Pixabay License](https://pixabay.com/it/service/license/))
