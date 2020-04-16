@@ -1,7 +1,7 @@
 ---
 title: "Inquinamento e Coronavirus: il male peggiore"
 excerpt: "Inquinamento e Coronavirus: il male peggiore"
-date: 2020-04-16 10:00:00
+date: 2020-04-16 10:52:37
 toc: false
 comments: false
 share: true
@@ -28,7 +28,7 @@ L'UE agisce su più fronti per ridurre l'inquinamento attraverso le legislazioni
 
 Ma la domanda da porsi è:
 
-**esiste un'ipotesi che l'inquinamento atmosferico possa essere stato un vettore di diffusione del Coronavirus?** La risposta non è chiara, ma può essere logica. Come mostrano alcuni studi, la Pianura Padana ha in media un livello di inquinamento superiore rispetto ad altre aree dell'Italia e dell'Europa. Il fenomeno è rilevante durante i mesi **invernali**, in parte a causa della conformazione geografica ma anche per via delle condizioni meteorologiche, che permettono alle sostanze inquinanti disciolte nell'aria di restare. Inoltre, essendo una delle aree più **densamente industrializzate** d'Italia, ciò produce notevoli emissioni di sostanze inquinanti, che possono contribuire alla diffusione dei virus, delle malattie e nel tempo conducono a problemi respiratori.\[3]
+**esiste un'ipotesi che l'inquinamento atmosferico possa essere stato un vettore di diffusione del Coronavirus?** La risposta non è chiara, ma il dubbio è lecito. Come mostrano alcuni studi, la Pianura Padana ha in media un livello di inquinamento superiore rispetto ad altre aree dell'Italia e dell'Europa. Il fenomeno è rilevante durante i mesi **invernali**, in parte a causa della conformazione geografica ma anche per via delle condizioni meteorologiche, che permettono alle sostanze inquinanti disciolte nell'aria di restare. Inoltre, essendo una delle aree più **densamente industrializzate** d'Italia, ciò produce notevoli emissioni di sostanze inquinanti, che possono contribuire alla diffusione dei virus, delle malattie e nel tempo conducono a problemi respiratori.\[3]
 
 Secondo la World Air Quality Index, che è un progetto internazionale che misura in tempo reale lo smog in tutto il globo, l'Italia a **metà mese di gennaio** era il **secondo Paese Europeo più inquinato** dopo la Romania, che guidava la classifica.\[4] In Cina, invece, troviamo il 90% delle 200 città con il più alto livello di micro-inquinanti nell'ambiente, seguita immediatamente dall'India. Ciò è quanto emerge dal rapporto 2019 World Air Quality Report, pubblicato a marzo dal IQAir Group e dal gruppo Greenpeace.\[5]
 
@@ -36,11 +36,9 @@ Quindi è possibile che una delle cause della diffusione di questo virus sia sta
 
 ![](/assets/images/smoke-258786_1280.jpg)
 
-Ciò che per ora è chiaro è che l'alterazione atmosferica, in seguito al **blackout globale** stia notevolmente rallentando. In questi giorni il web è inondato di immagini satellitari che mostrano l'evidente calo dell'inquinamento nelle grandi aree dell'Italia e nel mondo. Come illustrato dall'articolo di Focus una forte diminuzione dell'NO<sub>2</sub> (diossido di azoto), si è registrata in Lombardia a Marzo del 2020 rispetto all'anno precedente\[6]. Anche se, un tot. numero di studi non sono sufficienti a confermare una teoria, ne servono molti altri. Perlomeno, i dati disponibili online, nonché gli articoli scientifici finora scritti; i nostri ragionamenti logici e quelle idee che magari condividiamo con le altre persone; insomma, tutto questo, incluso il tempo a disposizione durante queste settimane ci potrà chiarire alcuni dei pensieri, o almeno permetterci di avere una propria opinione su questo triste ma reale avvenimento. Inquinamento e Coronavirus: il male peggiore. Io vi ho lanciato la sfida, tocca a voi capire se può l'inquinamento esser stato una delle cause di rapida diffusione della Covid-19 nel nostro paese.
+Ciò che per ora è chiaro è che l'alterazione atmosferica, in seguito al **blackout globale** stia notevolmente rallentando. In questi giorni il web è inondato di immagini satellitari che mostrano l'evidente calo dell'inquinamento nelle grandi aree dell'Italia e nel mondo. Come illustrato dall'articolo di Focus una forte diminuzione dell'NO<sub>2</sub> (diossido di azoto), si è registrata in Lombardia a Marzo del 2020 rispetto all'anno precedente\[6]. Dunque, in attesa di studi scientifici che possano risolvere questi dubbi, il tempo a disposizione durante queste settimane ci potrà aiutare a chiarire alcuni dei pensieri, o almeno permetterci di avere una propria opinione su questo triste ma reale avvenimento. Inquinamento e Coronavirus: il male peggiore. Io vi ho lanciato la sfida, tocca a voi capire se può l'inquinamento esser stato una delle cause di rapida diffusione della Covid-19 nel nostro paese.
 
-In conclusione, non è escluso che la contaminazione dell'aria possa agire come co-fattore peggiorativo nelle epidemie. Però la verifica di queste ipotesi non sarà immediata, ciò richiederà ancora molti anni. Infatti, gli argomenti trattati in quest'articolo sono solo uno spunto di riflessione.
-
-**L'inquinamento è sia un veicolo di diffusione del virus ma è anche una causa stress che rende vulnerabile la popolazione agli effetti dell'epidemia**\[7]...
+In conclusione, non è escluso che la contaminazione dell'aria possa agire come co-fattore peggiorativo nelle epidemie. Però la verifica di queste ipotesi non sarà immediata, ma richiederà ancora molti anni. Infatti, gli argomenti trattati in quest'articolo sono solo uno spunto di riflessione. **L'inquinamento è sia un veicolo di diffusione del virus ma è anche una causa stress che rende vulnerabile la popolazione agli effetti dell'epidemia**\[7]...
 
 e voi, cosa ne pensate?
 
