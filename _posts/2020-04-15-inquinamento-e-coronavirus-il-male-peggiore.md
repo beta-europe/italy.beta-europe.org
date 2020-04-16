@@ -5,7 +5,7 @@ date: 2020-04-16T10:52:37.000Z
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 header:
   image: /assets/images/covid-19-4916028_1280.jpg
