@@ -8,8 +8,11 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/covid-19-4916028_1280.jpg
+  image: ""
+  teaser: /assets/images/covid-19-4916028_1280.jpg
 ---
+![](/assets/images/covid-19-4916028_1280.jpg)
+
 L'inquinamento atmosferico provoca danni all'ambiente e anche alla salute umana. Le città restano i luoghi più a rischio data la mancanza degli spazi verdi e l'elevato consumo da parte dei cittadini che popolano le metropoli globali.
 
 Le concentrazioni di inquinanti in Europa prima della **Covid-19** erano sicuramente elevatissime, nonostante gli sforzi dell'UE negli ultimi decenni a ridurre al minimo le emissioni.
