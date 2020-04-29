@@ -9,6 +9,7 @@ published: true
 edit: true
 header:
   teaser: /assets/images/arrows-in-a-white-paper-3671146.jpg
+  image: /assets/images/arrows-in-a-white-paper-3671146.jpg
 ---
 *Fonte di discussione tra le nostre diverse forze politiche, “MES” è stata la parola più utilizzate dai media nazionali dell’ultimo periodo, probabilmente seconda solo a “Covid-19” e “state a casa”. Mentre gli ultimi due concetti risultano essere decisamente più chiari da comprendere, vi è molta più confusione relativa al cosiddetto Meccanismo Europeo di Stabilità (MES).*
 
