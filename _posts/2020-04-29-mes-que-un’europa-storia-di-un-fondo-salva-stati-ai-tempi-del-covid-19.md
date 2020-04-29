@@ -1,7 +1,7 @@
 ---
 title: MES que un’Europa - Storia di un fondo salva-stati ai tempi del Covid-19
 excerpt: MES que un’Europa - Storia di un fondo salva-stati ai tempi del Covid-19
-date: 2020-04-29 10:21:08
+date: 2020-04-29T10:21:08.000Z
 toc: false
 comments: false
 share: true
@@ -9,6 +9,8 @@ published: true
 edit: true
 ---
 *Fonte di discussione tra le nostre diverse forze politiche, “MES” è stata la parola più utilizzate dai media nazionali dell’ultimo periodo, probabilmente seconda solo a “Covid-19” e “state a casa”. Mentre gli ultimi due concetti risultano essere decisamente più chiari da comprendere, vi è molta più confusione relativa al cosiddetto Meccanismo Europeo di Stabilità (MES).*
+
+![Photo by Markus Spiske from Pexels](/assets/images/arrows-in-a-white-paper-3671146.jpg "Photo by Markus Spiske from Pexels")
 
 **Cos’è il MES?**
 
@@ -24,8 +26,6 @@ Nel 2020, la “condizionalità” passerà dall’essere una condizione definit
 
 Il MES è stato, dunque, recentemente riadattato per fronteggiare la corrente situazione di crisi dovuta alla Covid-19. Come ogni strumento, presenta vantaggi e svantaggi. Questi aspetti variano a seconda dal punto di vista dello stato che li esamina e, in questo caso, saranno suddivisi in base alle esigenze e preoccupazioni dello stato italiano.
 
-
-
 **Il MES in Italia**
 
 Uno dei timori più vividi nelle menti dei nostri politici è l’arrivo della cosiddetta “**Troika**”: un organismo di controllo esterno formato da un rappresentante della Commissione Europea, uno della Banca Centrale Europa ed uno dal Fondo Monetario Internazionale. Si tratta di una personalità in grado di limitare pesantemente l’autonomia decisionale in materia economico-finanziaria di qualsiasi stato siano messi a capo.
@@ -37,8 +37,6 @@ Un’uulteriore rassicurazione è data da Mario Centeno, attuale referente del M
 Inoltre, come riportato dal Corriere Della Sera: ”l’attivazione della nuova linea di credito permetterebbe all’Italia di avere subito a disposizione 36-37 miliardi, con un risparmio annuo di interessi calcolato tra i 550 e gli 800 milioni di euro”
 
 La situazione non è semplice e, in aggiunta, le continue divisioni interne della coalizione di maggioranza hanno portato lo scenario politico italiano nell’incertezza più generale.
-
-
 
 **I vertici EU**
 
@@ -52,8 +50,6 @@ Il Partito Democratico ha votato a favore, mentre Lega e Fratelli D’Italia han
 
 Mentre per quanto riguarda i Recovery Bond, bisognerà aspettare la sessione del 6 Maggio.
 
-
-
 **Il futuro è incerto**
 
 Ad oggi sappiamo che l’Unione Europea è favorevole a finanziare i propri stati. Rimangono ancora in via di definizione le modalità e le tempistiche.
@@ -62,15 +58,9 @@ Bisogna considerare, inoltre, che la richiesta di fondi è a discrezione di ogni
 
 Considerando che la situazione è in continua evoluzione e che le parti interessate sono coinvolte il negoziazioni a tempo pieno, non ci resta che auspicare in una presa di posizione netta ed in una velocità di intervento nettamente superiore a quella vista fino ad oggi.
 
-
-
 *\* Un fondo garantito dall’UE, permetterebbe di emettere obbligazioni (i recovery bond), con la garanzia di bilancio UE. Questo permetterebbe una condivisione del rischio comune limitata al futuro, non comprendendo dunque i debiti passati.*
 
 *Daniele Guadagnolo* 
-
-
-
-
 
 Fonti:
 
