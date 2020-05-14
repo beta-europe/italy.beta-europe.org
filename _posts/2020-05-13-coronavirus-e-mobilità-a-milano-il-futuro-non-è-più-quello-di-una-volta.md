@@ -1,12 +1,14 @@
 ---
 title: "Coronavirus e mobilità: a Milano il futuro non è più quello di una volta"
 excerpt: "Coronavirus e mobilità: a Milano il futuro non è più quello di una volta"
-date: 2020-05-13 06:28:55
+date: 2020-05-13T06:28:55.000Z
 toc: false
 comments: false
 share: true
 published: true
 edit: true
+header:
+  teaser: /assets/images/revolt-g-dpbfxfybs-unsplash.jpg
 ---
 I*l problema dei nostri tempi, diceva Paul Valéry, è che il futuro non è più quello di una volta. Quale miglior provocazione per rendere lo **sconvolgimento** suscitato dall’attuale crisi da coronavirus in tutti i settori e gli ambiti delle nostre vite? Nuove abitudini e indicazioni da adottare repentinamente, una **quotidianità nuova**, delimitata da restrizioni necessarie che di quotidiano sembrano avere davvero poco e all’orizzonte tanti punti interrogativi rivolti al domani.*
 
