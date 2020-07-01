@@ -1,14 +1,22 @@
 ---
 title: Il decollo di una nuova era di viaggi spaziali
 excerpt: " Il decollo di una nuova era di viaggi spaziali"
-date: 2020-07-02 11:59:00
+date: 2020-07-02T11:59:00.000Z
 toc: false
 comments: false
 share: true
 published: false
 edit: true
+header:
+  image: /assets/images/spacexcrewdragon_iss_42840169205_0cfee0a1c8_b.jpg
+  credit: SpaceX Crew Dragon spacecraft approaches the International Space Station
+    by NASA, CC BY-SA 2.0
 ---
-"*Ground Control to Major Tom, commencing countdown, engines on, check ignition and may God\'s love be with you*": così David Bowie immaginava un dialogo nello spazio tra la torre di controllo a terra e il Maggiore Tom fluttuante attorno alla superficie terrestre. Lo spazio ha da sempre rappresentato per il genere umano l'orizzonte da scoprire e da conquistare. Con i primi voli attorno alla Terra di Jurij Gagarin, l'allunaggio nel 1969 e infine con la costruzione della Stazione Spaziale Internazionale (ISS) **in pochi anni il progresso scientifico è riuscito in un'impresa che fino a un secolo fa sembrava quasi impensabile**. Nell'ultimo mese, coronato dalle preoccupazioni mondiali sull'avanzare della pandemia di Covid-19, abbiamo assistito ad un tassello fondamentale dell'esplorazione spaziale che ci avvicina sempre di più **al percepire lo spazio come un luogo di turismo per il genere umano. **
+![](/assets/images/spacexcrewdragon_iss_42840169205_0cfee0a1c8_b.jpg "SpaceX Crew Dragon spacecraft approaches the International Space Station")
+
+
+
+"*Ground Control to Major Tom, commencing countdown, engines on, check ignition and may God's love be with you*": così David Bowie immaginava un dialogo nello spazio tra la torre di controllo a terra e il Maggiore Tom fluttuante attorno alla superficie terrestre. Lo spazio ha da sempre rappresentato per il genere umano l'orizzonte da scoprire e da conquistare. Con i primi voli attorno alla Terra di Jurij Gagarin, l'allunaggio nel 1969 e infine con la costruzione della Stazione Spaziale Internazionale (ISS) **in pochi anni il progresso scientifico è riuscito in un'impresa che fino a un secolo fa sembrava quasi impensabile**. Nell'ultimo mese, coronato dalle preoccupazioni mondiali sull'avanzare della pandemia di Covid-19, abbiamo assistito ad un tassello fondamentale dell'esplorazione spaziale che ci avvicina sempre di più **al percepire lo spazio come un luogo di turismo per il genere umano.** 
 
 Lanciare una navicella spaziale è diventata ormai, per noi generazione del ventunesimo secolo, quasi una routine. Rimaniamo sempre incantati dalle foto che gli astronauti ci mandano della Terra, di queste piccole luci che riconosciamo come casa, ma ci interroghiamo poco sul come questi astronauti siano arrivati fino alla Stazione Spaziale Internazionale. Dal 1961, con il primo volo attorno all'atmosfera terreste, il progresso tecnologico ha affrontato un enorme balzo in avanti, i computer hanno permesso negli anni di rendere sempre più tecnologiche le navicelle e anche più sicure per l'equipaggio a bordo. **Nel 2011, con la missione STS-135 dell'8 luglio 2011, è stato lanciato in orbita per l'ultima volta lo "Shuttle"**, ultimo veicolo prodotto negli USA per le missioni spaziali con equipaggio; da quel momento tutte le missioni internazionali hanno fatto affidamento sullo Soyuz, navicella di produzione russa.
 
@@ -26,7 +34,7 @@ Chi sono quindi i primi due passeggeri di questo taxi spaziale? **I fortunati as
 
 **Una nuova era delle esplorazioni spaziali è iniziata**, quali altri progressi dovremmo aspettarci prossimamente? Difficile a dirsi, sicuramente l'obiettivo a lungo raggio di tutte le agenzie spaziali internazionali è la conquista umana del Pianeta Rosso. Chissà quando raggiungeremo Marte, per ora possiamo solo immaginare, guardando le stelle, di essere lassù. Immaginare di fluttuare a bordo della Stazione Spaziale Internazionale e ammirare la Terra con le sue distese di acqua e terra, che la rendono così magica e unica. E se questo sforzo immaginativo risulta un po' complicato, vi suggerisco [di guardare questo video e di farvi guidare dal Comandante Chris Hadfield attraverso i moduli della ISS](https://www.youtube.com/watch?v=KaOC9danxNo) sulle note della sua versione del celebre brano "Space Oddity" .
 
-_Elisa Contini_
+*Elisa Contini*
 
 **Fonti:**
 
