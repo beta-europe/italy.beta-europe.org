@@ -248,12 +248,20 @@ compress_html:
 collections:
   conferences:
     title: Conferences
-    output: false
+    output: true
     permalink: "/conference/:path/"
   partners:
     title: Partners
     output: true
     permalink: "/partner/:path/"
+  members:
+    title: Members
+    output: true
+    permalink: "/member/:path/"
+  observers:
+    title: Observers
+    output: true
+    permalink: "/observer/:path/"
   teams:
     title: Teams
     output: true
@@ -262,6 +270,10 @@ collections:
     title: Pages
     output: true
     permalink: "/:slug/"
+  teammembers:
+    title: Teammembers
+    output: true
+    permalink: "/teammembers/:path/"
 
 # Defaults
 defaults:
@@ -296,10 +308,43 @@ defaults:
       share: true
       edit: true
       comments: false
+  # _conferences
+  - scope:
+      path: ''
+      type: conferences
+    values:
+      layout: conference_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
   # _partners
   - scope:
       path: ''
       type: partners
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _observers
+  - scope:
+      path: ''
+      type: observers
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _members
+  - scope:
+      path: ''
+      type: members
     values:
       layout: partner_page
       author_profile: true
@@ -320,3 +365,14 @@ defaults:
       related: false
       sidebar:
         nav: teams
+  # _teammembers
+  - scope:
+      path: ''
+      type: teammembers
+    values:
+      layout: team_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
