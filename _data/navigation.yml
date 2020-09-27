@@ -1,22 +1,11 @@
-# main links
 main:
   - title: About
     url: /about/
-
   - title: Contact
     url: /contact/
-    
   - title: News
     url: /news/
-
-  - title: Forum
-    url: https://forum.beta-europe.org
-  
   - title: Partners
     url: /partner/
-
-  - title: Alpha-Beta
-    url: /tags/alpha-beta/ 
-    
   - title: Projects
     url: /projects/
