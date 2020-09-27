@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/beta-europe/minimal-mistakes-beta.git
-  revision: 3f42a3c9f46b50a310679a5c414978bd01f80a9d
+  revision: 9aa742ca9e848d5d39a2cb16cd12d92ff4ca1f96
   specs:
     minimal-mistakes-beta-jekyll (4.12.0.4.6)
       jekyll (~> 3.6)
