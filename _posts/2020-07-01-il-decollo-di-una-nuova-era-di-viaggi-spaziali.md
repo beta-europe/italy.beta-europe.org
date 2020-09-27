@@ -32,7 +32,7 @@ Chi sono quindi i primi due passeggeri di questo taxi spaziale? **I fortunati as
 
 **Una nuova era delle esplorazioni spaziali è iniziata**, quali altri progressi dovremmo aspettarci prossimamente? Difficile a dirsi, sicuramente l'obiettivo a lungo raggio di tutte le agenzie spaziali internazionali è la conquista umana del Pianeta Rosso. Chissà quando raggiungeremo Marte, per ora possiamo solo immaginare, guardando le stelle, di essere lassù. Immaginare di fluttuare a bordo della Stazione Spaziale Internazionale e ammirare la Terra con le sue distese di acqua e terra, che la rendono così magica e unica. E se questo sforzo immaginativo risulta un po' complicato, vi suggerisco [di guardare questo video e di farvi guidare dal Comandante Chris Hadfield attraverso i moduli della ISS](https://www.youtube.com/watch?v=KaOC9danxNo) sulle note della sua versione del celebre brano "Space Oddity" .
 
-*Elisa Contini*
+*Elisa Condini*
 
 **Fonti:**
 
