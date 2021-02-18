@@ -8,8 +8,6 @@ share: true
 published: true
 edit: true
 header:
-  image: ""
-  credit: ""
   teaser: /assets/images/spacexcrewdragon_iss_42840169205_0cfee0a1c8_b.jpg
 ---
 ![](/assets/images/spacexcrewdragon_iss_42840169205_0cfee0a1c8_b.jpg "SpaceX Crew Dragon spacecraft approaches the International Space Station")
