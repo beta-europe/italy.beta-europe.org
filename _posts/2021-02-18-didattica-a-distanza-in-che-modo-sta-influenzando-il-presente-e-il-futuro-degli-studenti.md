@@ -18,7 +18,7 @@ Dallo scoppio della Pandemia in Italia, nel 2019, gli studenti si sono trovati i
 
 Certo è che la Pandemia è stata capace di mettere a dura prova l'intero mondo scolastico, che comprende di famiglie e insegnanti, oltre che di soli studenti.
 
-**L'osservatorio Nazionale per l'infanzia e l'adolescenza** ha messo a punto un piano (consultabile all'indirizzo <https://www.minori.gov.it/>) per scongiurare l'abbandono e la dispersione scolastica preannunciata dall'impatto dei lock-down. Da ottobre in tutta Italia, contemporaneamente, gli studenti di scuole superiori e università hanno deciso di riunirsi, rigorosamente fuori dai diversi istituti, per chiedere a presidi e governatori regionali di essere ascoltati con dati alla mano, sostenendo che i contagi abbiano subito delle impennate durante i periodi di chiusura delle scuole e molti ragazzi si siano incontrati comunque nel pomeriggio, **senza che questo però** [**portasse un aumento di contagi** Covid 19 nella loro fascia di età](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5351&lingua=italiano&menu=vuoto).
+**L'osservatorio Nazionale per l'infanzia e l'adolescenza** ha messo a punto un piano (consultabile all'indirizzo <https://www.minori.gov.it/>) per **scongiurare l'abbandono e la dispersione scolastica** preannunciata dall'impatto dei lock-down. Da ottobre in tutta Italia, contemporaneamente, gli studenti di scuole superiori e università hanno deciso di riunirsi, rigorosamente fuori dai diversi istituti, per chiedere a presidi e governatori regionali di essere ascoltati con dati alla mano, sostenendo che i contagi abbiano subito delle impennate durante i periodi di chiusura delle scuole e molti ragazzi si siano incontrati comunque nel pomeriggio, **senza che questo però** [**portasse un aumento di contagi** Covid 19 nella loro fascia di età](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5351&lingua=italiano&menu=vuoto).
 
 Ad aumentare è stato invece il disagio in cui i giovani riversano già dai tempi del primo isolamento, quando l'intero apparato scolastico si è ritrovato a dover affrontare diverse problematiche come le difficoltà tecniche, la mancanza di efficienza nei sistemi informatici ormai obsoleti e la carenza di informazioni utili ai genitori e al corpo insegnanti. Questo aspetto ha costretto i docenti a dover fare da guida ai propri ragazzi, senza avere essi stessi le idee chiare o le risposte necessarie per azionare al meglio la macchina della **DAD**.
 
@@ -35,5 +35,7 @@ A fine 2020 alcune previsioni immaginavano il rientro in aula al 50% entro fine 
 L'augurio è che tutti gli istituti, dai nidi alle università, possano tornare quanto prima a vivere la loro istruzione in ambienti adeguati, con strumenti sempre più all'avanguardia dal punto di vista tecnologico e portando con loro, quindi, quel poco di positivo che lascerà la Pandemia.
 
 *Alessandra Guidi*
+
+
 
 Immagine: [empty chairs in theater](https://unsplash.com/photos/ewGMqs2tmJI) by [Nathan Dumlao](https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
