@@ -10,7 +10,7 @@ share: true
 published: true
 edit: true
 header:
-  image: /assets/images/nathan-dumlao-ewgmqs2tmji-unsplash-1024.jpg
+  image: ""
 ---
 Dallo scoppio della Pandemia in Italia, nel 2019, gli studenti si sono trovati in una condizione di incertezza, costretti a continui e repentini spostamenti tra lezioni online e didattica in presenza. A partire da ottobre, consigli studenteschi e associazioni di genitori e insegnanti hanno richiesto **una totale riapertura delle scuole**, esponendo inoltre un disagio studentesco dato dal notevole aumento delle richieste di aiuto per **ansia sociale e attacchi di panico**.
 
