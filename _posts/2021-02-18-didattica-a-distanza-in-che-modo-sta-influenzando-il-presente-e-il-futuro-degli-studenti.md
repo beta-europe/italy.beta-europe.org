@@ -7,7 +7,7 @@ date: 2021-02-18 10:34:07
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 header:
   image: /assets/images/nathan-dumlao-ewgmqs2tmji-unsplash-1024.jpg
