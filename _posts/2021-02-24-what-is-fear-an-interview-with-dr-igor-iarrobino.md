@@ -8,7 +8,7 @@ share: true
 published: false
 edit: true
 ---
-## Dr Igor Iarrobino is psychologist and Biomedical Sciences PhD candidate at Universite' Catholique de Louvain.
+## Dr Igor Iarrobino is a psychologist and Biomedical Sciences PhD candidate at Universite' Catholique de Louvain.
 
 ![](/assets/images/dr_igor_iarrobino__interview_on_fear.jpg "Dr. Igor Iarrobino")
 
