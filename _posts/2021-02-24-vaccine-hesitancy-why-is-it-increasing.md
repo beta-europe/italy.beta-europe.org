@@ -38,7 +38,7 @@ Though, what is certain is that vaccines can only build a natural defence, an im
 
 Fear instead "kicks the body into high gear, so it becomes tense and alert. It is responsible for sensations like increased heart rate and blood pressure, dilated pupils, blocked digestion, loss of focus on small tasks" says Igor Iarrobino.
 
-***If you have any doubts on vaccines and their components, Covid-19 or you'd like to know more about this topic visit \[https://www.ema.europa.eu/en](https://www.ema.europa.eu/en) or \[https://www.who.int/](https://www.who.int/) or consult a Medical practitioner.***
+***If you have any doubts on vaccines and their components, Covid-19 or you'd like to know more about this topic visit <https://www.ema.europa.eu/en> or <https://www.who.int> or consult a Medical practitioner.***
 
 ***Interview with Dr Igor Iarrobino, psychologist and Biomedical Sciences PhD candidate at Universite' Catholique de Louvain. A journalistic-depth on how fear drives human behaviour.***
 
