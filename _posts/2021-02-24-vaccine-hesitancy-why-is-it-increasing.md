@@ -7,8 +7,12 @@ comments: false
 share: true
 published: false
 edit: true
+header:
+  teaser: /assets/images/hakan-nural-nibllet7stw-unsplash-vaccino-960.jpg
 ---
 ***Covid-19 is changing the way we live. But people are still refusing the only solution possible. Dr Igor Iarrobino explains why.***
+
+![vaccine vial and syringe](/assets/images/hakan-nural-nibllet7stw-unsplash-vaccino-960.jpg)
 
 Since the beginning of March 2020, most citizens around the World are staying indoors to fight a pandemic nobody expected. 
 
@@ -54,6 +58,4 @@ Sources:
 
 \[4] <https://www.vaccineconfidence.org/research-feed/the-state-of-vaccine-confidence-in-the-eu-2018>
 
-
-
-Image credits:
+Image credits: [person holding white and black labeled bottle photo](https://unsplash.com/photos/niBllet7sTw) by [Hakan Nural](https://unsplash.com/@hakannural?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
