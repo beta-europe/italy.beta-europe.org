@@ -1,18 +1,18 @@
 ---
 title: "What is fear: an interview with Dr Igor Iarrobino"
 excerpt: "What is fear: an interview with Dr Igor Iarrobino"
-date: 2021-02-25 12:20:29
+date: 2021-02-26 11:14:44
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 ---
 ## Dr Igor Iarrobino is a psychologist and Biomedical Sciences PhD candidate at Universite' Catholique de Louvain.
 
 ![](/assets/images/dr_igor_iarrobino__interview_on_fear.jpg "Dr. Igor Iarrobino")
 
-This interview was conducted by Francesca Mazzola and used as a source for \[the article about Vaccine Hesitancy](/news/2021/02/24/vaccine-hesitancy-why-is-it-increasing.html)
+This interview was conducted by *Francesca Mazzola* and used as a source for [the article about Vaccine Hesitancy](/news/2021/02/24/vaccine-hesitancy-why-is-it-increasing/)
 
 **What is fear?**
 
@@ -39,7 +39,5 @@ Other research shows that living a high stress for a long period of time (as in 
 As regards communication, humans are very susceptible to manipulation by emotionally evocative stories. Fake news could influence our emotions even more than real news stories, as such stories are designed specifically to influence emotions. Public misperceptions surrounding scientific innovation have already impacted the public's perception of biotechnology and healthcare companies as well. Virtually, every life sciences company has to cope with some degree of scepticism. Pharmaceutical companies, for instance, are already feeling the effects of public distrust of their practices as they [struggle to recruit participants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936073/) for their clinical trials. Patients don't fully understand their benefits, and instead focus on their risks. Therefore, a [significant proportion of clinical trials fail](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936073/). While these concerns continue to hamper scientific innovation, they are bound to intensify as companies begin to focus more on precision medicine. Precision medicine is not one-size-fits-all, but it is based on individual variability. The genes you got from your parents, and the environment you live in, can influence your health, the symptoms you have, and even how well treatments might work. Life science companies are using patients' personal health data to optimize medical treatments. The success of these innovative practices and technologies will ultimately depend on patients' willingness to place their trust in life science companies and share their personal information with them. Meanwhile, the public's fears over what's in their food and medication, what businesses are doing with our health data, and what scientists are capable of, are changing business practices in ways that are detrimental to public health, and the discipline of science overall. 
 
 There is no simple solution to this problem; but rather, this issue is something that all life science companies need to be aware of and think of constantly to succeed in a patient-centric marketplace. So, companies need to work harder to gain patients' trust. Emotion regulation and resilience development in people may play an important role in this process.
-
-
 
 *The photo has been provided by dr. Iarrobino and published with his permission.*
