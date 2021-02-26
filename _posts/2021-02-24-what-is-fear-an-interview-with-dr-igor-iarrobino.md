@@ -12,7 +12,7 @@ edit: true
 
 ![](/assets/images/dr_igor_iarrobino__interview_on_fear.jpg "Dr. Igor Iarrobino")
 
-This interview was conducted by *Francesca Mazzola* and used as a source for [the article about Vaccine Hesitancy](/news/2021/02/26/vaccine-hesitancy-why-is-it-increasing/)
+This interview was conducted by *Francesca Mazzola* and used as a source for [the article about Vaccine Hesitancy](/2021/02/26/vaccine-hesitancy-why-is-it-increasing/)
 
 **What is fear?**
 
