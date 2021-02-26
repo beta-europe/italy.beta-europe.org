@@ -44,7 +44,7 @@ Fear instead "kicks the body into high gear, so it becomes tense and alert. It i
 
 ***If you have any doubts on vaccines and their components, Covid-19 or you'd like to know more about this topic visit <https://www.ema.europa.eu/en> or <https://www.who.int> or consult a Medical practitioner.***
 
-***[Interview with Dr Igor Iarrobino, psychologist and Biomedical Sciences PhD candidate at Universite' Catholique de Louvain. A journalistic-depth on how fear drives human behaviour](/news/2021/02/26/what-is-fear-an-interview-with-dr-igor-iarrobino/).***
+***[Interview with Dr Igor Iarrobino, psychologist and Biomedical Sciences PhD candidate at Universite' Catholique de Louvain. A journalistic-depth on how fear drives human behaviour](/2021/02/26/what-is-fear-an-interview-with-dr-igor-iarrobino/).***
 
 *By Francesca Mazzola*
 
