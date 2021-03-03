@@ -18,7 +18,7 @@ header:
 
 Nelle ultime settimane l'attenzione nei confronti della **rotta migratoria nei balcani** è aumentata notevolmente anche grazie all'operazione di ispezione portata avanti da alcuni eurodeputati italiani guidata da Brando Benifei tra Croazia e Bosnia.
 
-Malgrado tutti gli Stati europei facciano parte di molte Convenzioni internazionali, questo non li ferma dal portare avanti più o meno velatamente **respingimenti collettivi**; e ciò che accade oggi a **Lipa** non è altro che il risultato di prassi illegittime portate avanti dagli Stati Membri nel corso degli ultimi 10 anni.
+Malgrado tutti gli Stati europei facciano parte di molte Convenzioni internazionali, questo non li ferma dal portare avanti più o meno velatamente **respingimenti collettivi**; e ciò che accade oggi nel **campo profughi di Lipa** non è altro che il risultato di prassi illegittime portate avanti dagli Stati Membri nel corso degli ultimi 10 anni.
 
 Ma può uno Stato chiudere i propri confine nei confronti di non cittadini? Esiste un diritto di migrare? Si può parlare di violazione dei diritti dei rifugiati in questo caso?
 
@@ -36,7 +36,7 @@ Commentando questo articolo, la Human Rights Committee ha sostenuto che *'The li
 
 Se quanto detto finora ha valenza generale per qualsiasi persona che voglia spostarsi da un Paese in un altro, diritti particolari sono infatti previsti per la categoria dei rifugiati. La **Convenzione di Ginevra del 1951** oltre a definire quali siano i requisiti per essere considerato rifugiato (art.1), all'art.33 stabilisce che '**Nessuno Stato Contraente espellerà** o respingerà, in qualsiasi modo, un rifugiato verso i confini di territori in cui la sua **vita o la sua libertà sarebbero minacciate**'. Nella Convenzione non esiste un diritto per il potenziale rifugiato di fare domanda di asilo in uno Stato diverso dal proprio, ma dall'altra parte uno Stato non può respingerlo in un luogo dove la sua vita sarebbe minacciata. L'unico modo per scongiurare questo rischio è portare avanti una valutazione individuale caso per caso per scoprire se quel soggetto rischierebbe la vita o la sua libertà in caso di respingimento o di rimpatrio.
 
-Non pensato nello specifico per i rifugiati ma largamente utilizzato in seno al Consiglio d'Europa e davanti alla Corte EDU è **l'art.4 protocollo 4** **CEDU**, il quale stabilisce che 'Le espulsioni collettive di stranieri sono vietate'. Respingere interi gruppi alla frontiera rappresenta un illecito per gli Stati, è possibile un rimpatrio, anche collettivo, ma solo dopo una valutazione personale.
+Non pensato nello specifico per i rifugiati ma largamente utilizzato in seno al Consiglio d'Europa e davanti alla Corte EDU è **l'art.4 protocollo 4** **CEDU (Corte europea dei diritti dell’uomo)**, il quale stabilisce che 'Le espulsioni collettive di stranieri sono vietate'. Respingere interi gruppi alla frontiera rappresenta un illecito per gli Stati, è possibile un rimpatrio, anche collettivo, ma solo dopo una valutazione personale.
 
 **L'esternalizzazione delle frontiere**
 
@@ -44,7 +44,7 @@ Ecco perché gli Stati europei cercano di non far arrivare i migranti alle sogli
 
 I migranti della rotta balcanica si fermano in Bosnia perché la Croazia li respinge con **violenza** ai confini. I migranti che arrivano dalla Libia o non vengono soccorsi nel **Mediterraneo** da Malta e Italia oppure vengono direttamente riportati sulle coste libiche, come nel caso **Hirsi vs Italia**, quando la nazione è stata condannata per aver compiuto un respingimento collettivo riportando indietro verso Tripoli circa 200 migranti.
 
-Tutto questo avviene anche in Spagna, a **Melilla**, dove 3 recinzioni con filo spinato separano l'enclave spagnola dal Marocco in modo tale che i migranti non vi possano accedere, come documentato nella sentenza **ND/NT vs Spagna**.
+Tutto questo avviene anche in Spagna, a **Melilla**, dove 3 recinzioni con filo spinato separano l'exclave spagnola dal Marocco in modo tale che i migranti non vi possano accedere, come documentato nella sentenza **ND/NT vs Spagna**.
 
 Indignarci nei confronti di quanto stia avvenendo tra Croazia e Bosnia è comprensibile, ma è necessario prendere coscienza del fatto che ogni Paese dell'Unione Europea si macchia delle stesse prassi illegittime, che il fenomeno è ormai sistematico e che la soluzione non spetta a un singolo Paese ma richiede un cambio di rotta collettivo.
 
