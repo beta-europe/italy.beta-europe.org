@@ -9,8 +9,10 @@ comments: false
 share: true
 published: false
 edit: true
+header:
+  teaser: /assets/images/antoine-merour-kksz9z1kf1w-unsplash-960-alloncerefugees.jpg
 ---
-**Tra sovranità dei confini e obblighi internazionali: la rotta balcanica non è la sola.**
+![We were all once refugees](/assets/images/antoine-merour-kksz9z1kf1w-unsplash-960-alloncerefugees.jpg)
 
 **La rotta balcanica è solo l'ultimo esempio**
 
@@ -46,15 +48,11 @@ Tutto questo avviene anche in Spagna, a **Melilla**, dove 3 recinzioni con filo 
 
 Indignarci nei confronti di quanto stia avvenendo tra Croazia e Bosnia è comprensibile, ma è necessario prendere coscienza del fatto che ogni Paese dell'Unione Europea si macchia delle stesse prassi illegittime, che il fenomeno è ormai sistematico e che la soluzione non spetta a un singolo Paese ma richiede un cambio di rotta collettivo.
 
-
-
 *Ilaria Colombo*
-
-
 
 Riferimenti e fonti:
 
-[https://www.repubblica.it/politica/2021/02/01/news/migranti_eurodeputati_del_pd_nel_campo_profughi_di_lipa_condizioni\_disumane\_-285458693/](https://www.repubblica.it/politica/2021/02/01/news/migranti\_eurodeputati\_del\_pd\_nel\_campo\_profughi\_di\_lipa\_condizioni\_disumane\_-285458693/)
+[https://www.repubblica.it/politica/2021/02/01/news/migranti_eurodeputati_del_pd_nel_campo_profughi_di_lipa_condizioni\_disumane\_-285458693/](https://www.repubblica.it/politica/2021/02/01/news/migranti_eurodeputati_del_pd_nel_campo_profughi_di_lipa_condizioni_disumane_-285458693/)
 
 <https://www.internazionale.it/reportage/annalisa-camilli/2021/01/12/bosnia-croazia-lipa-neve-migranti>
 
@@ -72,4 +70,4 @@ ND/NT vs Spagna: <https://hudoc.echr.coe.int/spa#%7B%22itemid%22:%5B%22001-20135
 
 Crediti immagine:
 
-[Photo](https://unsplash.com/photos/kKsZ9Z1kF1w) by [\[Antoine Merour]{.underline}](https://unsplash.com/@amerour?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [\[Unsplash]{.underline}](https://unsplash.com/s/photos/refugees?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+[Photo](https://unsplash.com/photos/kKsZ9Z1kF1w) by \[[Antoine Merour]{.underline}](https://unsplash.com/@amerour?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on \[[Unsplash]{.underline}](https://unsplash.com/s/photos/refugees?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
