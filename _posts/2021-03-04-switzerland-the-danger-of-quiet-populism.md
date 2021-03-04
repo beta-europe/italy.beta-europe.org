@@ -10,8 +10,6 @@ edit: true
 header:
   teaser: /assets/images/seb-mooze-3n2ghlgeueq-unsplash-960-switzerland.jpg
 ---
-***Switzerland: the danger of quiet populism***
-
 **On the 7th of March 2021 the Swiss electorate will vote on the Popular initiative 'Yes to a ban on full facial coverings'. This is the last of a long series of initiatives aimed at reducing migrants' rights, especially those of Muslim migrants. In a traditionally quiet country like Switzerland, a populist wave may surprise, however, this political discourse may be a direct consequence of swiss' geopolitical situation.**
 
 ![Swiss flag](/assets/images/seb-mooze-3n2ghlgeueq-unsplash-960-switzerland.jpg)
@@ -37,8 +35,6 @@ Vehemently jealous of their independence, for almost a millennium swiss people h
 In an increasingly unstable world, countries must cooperate with their neighbours in order to stay afloat in troubled waters: this means, for Switzerland, embracing the liberal values that allowed a small confederation of farmers and craftsmen to become one of the most prosperous countries in the world, home of several world organisations and NGOs, and symbol of **peace and stability**.
 
 *by Elisa Brivio*
-
-
 
 **Sources:**
 
