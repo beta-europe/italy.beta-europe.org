@@ -1,12 +1,12 @@
 ---
 title: "Switzerland: the danger of quiet populism"
 excerpt: "Switzerland: the danger of quiet populism"
-date: 2021-03-05 12:00:00
+date: 2021-03-05 11:00:00
 toc: false
 comments: false
 share: true
 published: true
-edit: true
+edit: false
 header:
   teaser: /assets/images/seb-mooze-3n2ghlgeueq-unsplash-960-switzerland.jpg
 ---
