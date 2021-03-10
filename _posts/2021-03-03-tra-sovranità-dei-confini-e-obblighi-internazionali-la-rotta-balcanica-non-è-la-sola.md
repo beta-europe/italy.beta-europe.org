@@ -11,9 +11,9 @@ published: true
 edit: true
 header:
   teaser: ""
-  image: /assets/images/julie-ricard-i9rzrko5vao-unsplash-1-min.jpg
+  image: ""
 ---
-![]()
+![](/assets/images/julie-ricard-i9rzrko5vao-unsplash-1-min.jpg)
 
 **La rotta balcanica è solo l’ultimo esempio**
 
