@@ -3,7 +3,7 @@ title: "Tra sovranità dei confini e obblighi internazionali: la rotta balcanica
   non è la sola"
 excerpt: "Tra sovranità dei confini e obblighi internazionali: la rotta
   balcanica non è la sola"
-date: 2021-03-10 01:50:00
+date: 2021-03-10 08:00:00
 toc: false
 comments: false
 share: true
@@ -11,8 +11,9 @@ published: true
 edit: true
 header:
   teaser: ""
+  image: /assets/images/julie-ricard-i9rzrko5vao-unsplash-1-min.jpg
 ---
-![](/assets/images/julie-ricard-i9rzrko5vao-unsplash-1-.jpg)
+![](/assets/images/julie-ricard-i9rzrko5vao-unsplash-1-min.jpg)
 
 **La rotta balcanica è solo l’ultimo esempio**
 
@@ -48,13 +49,7 @@ Tutto questo avviene anche in Spagna, a **Melilla**, dove 3 recinzioni con filo 
 
 Indignarci per quello che sta accadendo tra Croazia e Bosnia è comprensibile, ma è necessario prendere coscienza del fatto che ogni Paese dell’Unione Europea si macchia delle stesse prassi illegittime. Si tratta infatti di un fenomeno che è ormai sistematico, e la soluzione non spetta a un singolo Paese, ma richiede un cambio di rotta collettivo.
 
-
-
-**Autore:** 
-
-Ilaria Colombo
-
-
+**Autore:** Ilaria Colombo
 
 **Riferimenti:**
 
@@ -72,9 +67,7 @@ G.S. GOODWIN-GILL, “Migrants Rights and ‘Managed Migration’”, in Globali
 
 Hirsi vs Italia: \[https://hudoc.echr.coe.int/spa#{"itemid":["001-109231"]}](https://hudoc.echr.coe.int/spa#%7B%22itemid%22:\[%22001-109231%22]%7D)
 
-**ND/NT vs Spagna: \[https://hudoc.echr.coe.int/spa#{"itemid":["001-201353"]}](https://hudoc.echr.coe.int/spa#%7B%22itemid%22:\[%22001-201353%22]%7D)**
-
-
+ND/NT vs Spagna: \[https://hudoc.echr.coe.int/spa#{"itemid":["001-201353"]}](https://hudoc.echr.coe.int/spa#%7B%22itemid%22:\[%22001-201353%22]%7D)
 
 **Crediti foto:** 
 
