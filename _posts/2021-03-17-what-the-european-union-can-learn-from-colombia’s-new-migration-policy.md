@@ -1,7 +1,7 @@
 ---
 title: What the European Union can learn from Colombia’s new migration policy
 excerpt: What the European Union can learn from Colombia’s new migration policy
-date: 2021-03-17 10:15:36
+date: 2021-03-17 10:17:36
 toc: false
 comments: false
 share: true
@@ -12,11 +12,7 @@ header:
 ---
 Since 2015, **over [five](https://www.unhcr.org/en-us/venezuela-emergency.html) million Venezuelans** have left their home country due to socio-economic and political degradation. Colombia has been the largest recipient of the displaced population, welcoming over two millions of Venezuelans and expanding legal pathways for promoting their full social and economic integration. Nevertheless, major gaps in accessing education, the formal labor market, and healthcare still persist.
 
-
-
 Likewise, **almost [two](https://migration.iom.int/europe?type=arrivals) million people** from Africa and the Middle East have hit the European Union (EU) since 2016. Although they may enjoy the social order and peaceful conditions of life, refugees' standards of living are [lower](https://www.oecd.org/coronavirus/policy-responses/what-is-the-impact-of-the-covid-19-pandemic-on-immigrants-and-their-children-e7cbb7de/) than those of the native-born population with gaps in educational achievement, high unemployment, and risks of social exclusion and poverty. What is more, because of the multi-agency nature of the **EU migration policy**, the arrival of refugees has brought tensions among Member States driven by economic, social and cultural divergences. 
-
- 
 
 With the wake of the coronavirus pandemic, both regions, Latin America and Europe have faced challenges related to the social protection and inclusion of refugees and migrants. Available evidence, such as the **Organization for Economic Cooperation and Development** (OECD) Employment [Outlook](https://www.oecd-ilibrary.org/employment/oecd-employment-outlook-2020_1686c758-en) 2020, suggests that migrants are among the vulnerable groups that are paying the heaviest toll of the health crisis. Undocumented migrants, remain largely beyond the scope of contributory income-support schemes.
 
@@ -36,49 +32,27 @@ by Maria Santarelli
 **\
 Sources:**
 
-
-
 <https://www.unhcr.org/en-us/venezuela-emergency.html>
-
-
 
 <https://migration.iom.int/europe?type=arrivals>
 
-
-
 <https://www.oecd.org/coronavirus/policy-responses/what-is-the-impact-of-the-covid-19-pandemic-on-immigrants-and-their-children-e7cbb7de/>
-
-
 
 <https://www.oecd-ilibrary.org/employment/oecd-employment-outlook-2020_1686c758-en>
 
-
-
 <https://www.migrationpolicy.org/research/legal-pathways-venezuelan-migrants-latin-america>
-
-
 
 <https://blogs.imf.org/2020/06/19/migration-to-advanced-economies-can-raise-growth/>
 
-
-
 <https://www.europarl.europa.eu/RegData/etudes/BRIE/2015/572809/EPRS_BRI(2015)572809_EN.pdf>
-
-
 
 <https://www.ispionline.it/it/pubblicazione/europa-un-nuovo-vecchio-patto-sulle-migrazioni-27580>
 
-
-
 <https://ec.europa.eu/info/sites/info/files/new-pact-on-migration-and-asylum-package.pdf>
-
-
 
 <https://www.imf.org/en/Publications/WEO/Issues/2021/01/26/2021-world-economic-outlook-update>
 
-
-
-<https://ec.europa.eu/info/strategy/recovery-plan-europe_en>
+[https://ec.europa.eu/info/strategy/recovery-plan-europe_en ](https://ec.europa.eu/info/strategy/recovery-plan-europe_en)
 
 \
 **image credits:** 
