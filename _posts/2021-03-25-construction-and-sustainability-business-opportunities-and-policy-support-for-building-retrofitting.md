@@ -5,7 +5,7 @@ excerpt: "Policy support for building retrofitting, the practice of improving
   the energy efficiency of existing buildings, is creating significant business
   opportunities. When economic and environmental incentives align to this
   extent, it is time to act. "
-date: 2021-03-25 09:00:00
+date: 2021-03-25 08:00:00
 toc: false
 comments: false
 share: true
