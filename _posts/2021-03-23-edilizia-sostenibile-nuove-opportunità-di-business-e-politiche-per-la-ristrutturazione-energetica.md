@@ -13,6 +13,8 @@ edit: true
 header:
   teaser: ""
 ---
+**[English version](/2021/03/25/construction-and-sustainability-business-opportunities-and-policy-support-for-building-retrofitting/)**
+
 ![](/assets/images/181683.webp)
 
 Il progetto di **Casa Pasiva**, recentemente spiegato in un [articolo](https://www.nytimes.com/2020/12/29/business/new-york-passive-house-retrofit.html) del New York Times, propone un investimento di **20 milioni di dollari** volti al miglioramento dell’efficienza energetica di nove edifici nella città di **New York durante il 2021.** 
@@ -32,8 +34,6 @@ Grazie alla crescente attenzione della comunità scientifica, anche i responsabi
 Nelle [parole](https://www.arup.com/perspectives/the-eu-green-deal-and-retrofits-making-it-work-for-everyone) della direttrice del gruppo **Carbon and Climate Chang** e di **Arup Paula Kirk**, la ristrutturazione energetica è sempre stata classificata come una pratica complessa, ma si prevede che l'EGD creerà un quadro unificato sotto quale operare, determinando così le condizioni necessarie al mercato per mettere in moto il cambiamento.
 
 Quanto appena detto dimostra come immaginare un mondo sempre più sostenibile richieda uno sforzo molto più profondo di quanto si è soliti pensare. Prendendo il caso dell’edilizia sostenibile, costruire nuovi edifici secondo i requisiti ambientali più aggiornati non è sufficiente: se vogliamo controllare seriamente le nostre emissioni di CO2 nei decenni a venire è necessario dedicare i nostri sforzi a pratiche di ristrutturazione energetica.
-
-
 
 **Autore:** Luca Bisio 
 
