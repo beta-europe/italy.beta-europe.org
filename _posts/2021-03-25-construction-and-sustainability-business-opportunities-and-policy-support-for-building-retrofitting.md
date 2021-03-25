@@ -12,6 +12,8 @@ share: true
 published: true
 edit: true
 ---
+![](/assets/images/181683.webp)
+
 A recent New York Times [article](https://www.nytimes.com/2020/12/29/business/new-york-passive-house-retrofit.html) reports how, in the city of New York, a pioneer project called **Casa Pasiva** is aiming to invest **20 millions of dollars** to upgrade nine **buildings’ energy efficiency performance in 2021**. 
 
 This is a serious instance of building retrofitting, and it could pave the way for more to come in the near future. As shown below, this is a growing practice which could seriously **decrease CO2 emissions in the atmosphere** while creating significant business opportunities and avoiding the pashing-out of existing industries. The intervention usually entails core changes to **buildings’ heating, ventilation and air conditioning** (HVAC) systems, interior pipes and exterior facades. 
@@ -59,9 +61,3 @@ Milan, Bosco Verticale
 photo by: [Samuele Schiatti](https://500px.com/photo/159667427/bosco-verticale-by-samuele-schiatti)
 
 (https://commons.wikimedia.org/wiki/File:Bosco\_Verticale\_(159667427).jpeg
-
-![]()
-
-![](/assets/images/181683.webp)
-
-![]()
