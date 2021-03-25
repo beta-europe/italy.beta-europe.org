@@ -12,6 +12,8 @@ share: true
 published: true
 edit: true
 ---
+**[Italian version](/2021/03/23/edilizia-sostenibile-nuove-opportunit%C3%A0-di-business-e-politiche-per-la-ristrutturazione-energetica/)**
+
 ![](/assets/images/181683.webp)
 
 A recent New York Times [article](https://www.nytimes.com/2020/12/29/business/new-york-passive-house-retrofit.html) reports how, in the city of New York, a pioneer project called **Casa Pasiva** is aiming to invest **20 millions of dollars** to upgrade nine **buildings’ energy efficiency performance in 2021**. 
