@@ -60,8 +60,8 @@ photo by: [Samuele Schiatti](https://500px.com/photo/159667427/bosco-verticale-b
 
 (https://commons.wikimedia.org/wiki/File:Bosco\_Verticale\_(159667427).jpeg
 
-![](/assets/images/181683.webp)
-
 ![]()
+
+![](/assets/images/181683.webp)
 
 ![]()
