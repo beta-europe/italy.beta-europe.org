@@ -5,11 +5,11 @@ excerpt: "Policy support for building retrofitting, the practice of improving
   the energy efficiency of existing buildings, is creating significant business
   opportunities. When economic and environmental incentives align to this
   extent, it is time to act. "
-date: 2021-03-25 09:43:58
+date: 2021-03-25 09:00:00
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: true
 ---
 A recent New York Times [article](https://www.nytimes.com/2020/12/29/business/new-york-passive-house-retrofit.html) reports how, in the city of New York, a pioneer project called **Casa Pasiva** is aiming to invest **20 millions of dollars** to upgrade nine **buildings’ energy efficiency performance in 2021**. 
@@ -30,11 +30,9 @@ In the [words](https://www.arup.com/perspectives/the-eu-green-deal-and-retrofits
 
 In other words, envisioning an ever-sustainable world requires **a much deeper effort** than it initially seems. Taking the example of sustainable buildings, if we are serious about controlling our CO2 emissions in the next decades, a significant amount of effort must be devoted to building retrofitting.
 
-**Author:** 
+By Luca Bisio
 
-Luca Bisio
-
-**References:**
+**Sources:**
 
 Arup.com (2021). The EU Green Deal and building retrofits: making it work for everyone. \[online] Available at: https://www.arup.com/perspectives/the-eu-green-deal-and-retrofits-making-it-work-for-everyone \[Accessed 22 March 2021]
 
@@ -56,6 +54,14 @@ Urban Green Council (2019). Retrofit Market Analysis. \[online] Available at: h
 
 **image credits:** 
 
+Milan, Bosco Verticale 
+
+photo by: [Samuele Schiatti](https://500px.com/photo/159667427/bosco-verticale-by-samuele-schiatti)
+
+(https://commons.wikimedia.org/wiki/File:Bosco\_Verticale\_(159667427).jpeg
+
 ![](/assets/images/181683.webp)
+
+![]()
 
 ![]()
