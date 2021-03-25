@@ -30,7 +30,31 @@ In the [words](https://www.arup.com/perspectives/the-eu-green-deal-and-retrofits
 
 In other words, envisioning an ever-sustainable world requires **a much deeper effort** than it initially seems. Taking the example of sustainable buildings, if we are serious about controlling our CO2 emissions in the next decades, a significant amount of effort must be devoted to building retrofitting.
 
+**Author:** 
 
+Luca Bisio
+
+**References:**
+
+Arup.com (2021). The EU Green Deal and building retrofits: making it work for everyone. \[online] Available at: https://www.arup.com/perspectives/the-eu-green-deal-and-retrofits-making-it-work-for-everyone \[Accessed 22 March 2021]
+
+BBC News. 2021. Hundreds of temperature records broken over summer. \[online] Available at: <https://www.bbc.co.uk/news/science-environment-49753680> \[Accessed 22 March 2021].
+
+Cordis.europa.eu. 2021. CORDIS | European Commission. \[online] Available at: <https://cordis.europa.eu/article/id/123617-building-retrofits-critical-to-europes-lowcarbon-pathway/fr> \[Accessed 22 March 2021].
+
+European Commission, 2019. The European Green Deal. Brussels.
+
+IEA (2020), Tracking Buildings 2020, IEA, Paris <https://www.iea.org/reports/tracking-buildings-2020>
+
+Jagarajan, R., Abdullah Mohd Asmoni, M., Mohammed, A., Jaafar, M., Lee Yim Mei, J. and Baba, M. (2017). Green retrofitting – A review of current status, implementations and challenges. Renewable and Sustainable Energy Reviews, 67, pp.1360-1368.
+
+Nytimes.com (2021). New York’s Real Climate Challenge: Fixing Its Aging Buildings. \[online] Available at: https://www.nytimes.com/2020/12/29/business/new-york-passive-house-retrofit.html \[Accessed 22 March 2021].
+
+Joe Biden for President: Official Campaign Website (2021). The Biden Plan to Build a Modern, Sustainable Infrastructure and an Equitable Clean Energy Future | Joe Biden for President: Official Campaign Website. \[online] Available at: https://joebiden.com/clean-energy/ \[Accessed 22 March 2021].
+
+Urban Green Council (2019). Retrofit Market Analysis. \[online] Available at: https://www.urbangreencouncil.org/sites/default/files/urban_green_retrofit_market_analysis.pdf \[Accessed 22 March 2021].
+
+**image credits:** 
 
 ![](/assets/images/181683.webp)
 
