@@ -4,7 +4,6 @@ title: "Edilizia sostenibile. Nuove opportunità di business e politiche per la
 excerpt: Il supporto delle politiche per la ristrutturazione energetica offre
   significative opportunità di business. Incentivi economici e ambientali sempre
   più allineati.
-link: ""
 date: 2021-03-23 08:12:39
 toc: false
 comments: false
