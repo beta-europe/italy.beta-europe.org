@@ -8,6 +8,8 @@ share: true
 published: true
 edit: true
 ---
+![](/assets/images/fukushima_i_by_digital_globe.jpeg)
+
 È l'**11 marzo 2011**, quando un **terremoto di magnitudo 9.0** - uno dei più forti mai registrati - colpsce il Giappone. La scossa genera uno tsunami che causa **20.000 vittime** e oltre **150.000 sfollati** e innesca il disastro nucleare della centrale di **Fukushima**.
 
 Andiamo a vedere la situazione a dieci anni dalla tragedia.
@@ -17,8 +19,6 @@ A distanza di un decennio, sono ancora vivide le immagini del terremoto che l’
 Il violento tsunami che ne fu generato colpì l’impianto nucleare **Fukushima Dai-ichi**, causando il collasso dei sistemi di raffreddamento e la conseguente perdita di controllo di tre dei reattori della centrale. Nei giorni immediatamente successivi, quattro esplosioni danneggiarono le strutture superiori dei reattori e in seguito i nuclei subirono un **completo meltdown**.
 
 Un disastro nucleare a cui è stata assegnata la massima **classificazione INES** (livello 7), il più grave nella storia dopo **Chernobyl** (1986). 
-
- 
 
 Per ricordare questi 10 anni il Paese ha organizzato una cerimonia alla quale hanno preso parte sia l'imperatore che il **Primo Ministro**. L’evento è stato necessariamente influenzato dalla pandemia in corso: i partecipanti hanno infatti adottato le ormai note misure protettive (mascherina e distanziamento) e non è stato possibile cantare insieme l'inno nazionale.
 
@@ -49,3 +49,9 @@ Fin dall’indomani della tragedia, il Giappone ha messo in discussione il ruolo
 <https://youtu.be/iY70NP9UBs0>
 
 **Crediti immagine:**
+
+The [Fukushima I Nuclear Power Plant](https://en.wikipedia.org/wiki/Fukushima_I_Nuclear_Power_Plant "w:Fukushima I Nuclear Power Plant") after the [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami "w:2011 Tōhoku earthquake and tsunami"). Reactor 1 to 4 from right to left.
+
+Digital Globe
+
+**<https://commons.m.wikimedia.org/wiki/File:Fukushima_I_by_Digital_Globe.jpg>**
