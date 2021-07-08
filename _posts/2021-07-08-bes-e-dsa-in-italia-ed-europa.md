@@ -6,7 +6,9 @@ toc: false
 comments: false
 share: true
 published: true
-edit: true
+edit: false
+header:
+  teaser: /assets/images/scrabble-brett-jordan-7pyqjnzvrc4-unsplash-960.jpg
 ---
 **BES E DSA IN ITALIA ED EUROPA**
 
