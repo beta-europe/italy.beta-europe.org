@@ -7,10 +7,16 @@ comments: false
 share: true
 published: false
 edit: false
+header:
+  teaser: /assets/images/road-traffic-car-city-urban-taxi-596943-pxhere.com.jpg
 ---
 *Acknowledgement: This article was originally an academic essay written in collaboration with Kirsty McLennaghan, whom I thank for having agreed on publishing this article.*
 
+![](/assets/images/road-traffic-car-city-urban-taxi-596943-pxhere.com.jpg "Car traffic in a city")
+
 "The key to the fall has been cars", writes Matt McGrath on a [BBC](https://www.bbc.co.uk/news/science-environment-52724821) article, one of the many reporting on the decrease in carbon dioxide (CO<sub>2</sub>) emissions that COVID lockdown resulted in. Among the many negative headline titles that this tragic period has brought upon us, this is certainly good news. However, such encouraging data were the product of social and economic disruption, a side effect of the mitigation strategies to stop the spread of the virus. In light of this fact, it is only natural to ask ourselves: how can we **decrease** CO<sub>2</sub> emissions from the transport sector, without giving up the **freedom** and joy of movement? Scientific evidence shows that the answer lies in a carefully engineered policy mix.
+
+
 
 This dossier explores, first, an overview of what CO<sub>2</sub> emissions are, and what its main contributors are. Then, it moves onto a brief description of some policy levers which have been demonstrated to reduce CO<sub>2</sub> emissions, and proposes a policy mix of the two in order to tackle the issue.
 
