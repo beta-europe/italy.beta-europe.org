@@ -7,8 +7,12 @@ comments: false
 share: true
 published: false
 edit: false
+header:
+  teaser: /assets/images/libro__prima_gli_italiani.jpg
 ---
 L'estate è ormai giunta tra noi e ci allieta, come sempre, con innumerevoli temporali e tempeste di grandine ma sperando di poter passare finalmente del relax sotto il sole caldo di una bella spiaggia italiana ecco qualche consiglio per te! E quale miglior suggerimento potevamo darti noi di Beta se non quello di una buona lettura sotto l'ombrellone? Il libro del quale vorrei parlarti oggi s'intitola "**Prima gli italiani! (Si, ma quali?)**" di Francesco Filippi edito da Laterza.
+
+![](/assets/images/libro__prima_gli_italiani.jpg "Libro «Prima gli italiani!»")
 
 La frase utilizzata come titolo del libro possiamo definirla una citazione con una potenza dirompente, uno slogan che può infonderci dubbi o consapevolezze; ma cosa significa in realtà? **E chi sono gli italiani?** Sono quelli con la cittadinanza italiana? Quelli che parlano italiano? Quelli che abitano in Italia? Chi ha origini italiane o ha una cultura italiana? L'autore, nella prima parte del suo saggio, ci vuole porre quindi davanti a un quesito del quale raramente ci siamo dati una risposta o ci siamo mai posti in realtà; un quesito di non facile risoluzione. Per aiutarci quindi nel dare una risposta a tale domanda iniziale ci fornisce dei parametri di studio e ci pone innanzi alla narrazione storica di chi fossero i primi italiani. Il termine deriva dal greco **"italòi"** e venne attribuito alla popolazione abitante dell'attuale Calabria 3000 anni dai navigatori greci che arrivarono su queste terre. Questi naviganti, arrivando sulle sponde dello stivale, notarono la popolazione locale: essa non sapeva navigare, non aveva il loro stesso pantheon di divinità e considerava come unica attività rilevante quella dell'allevamento di vitelli, simbolo della sua abbondanza. Da qui **il termine quindi attribuito a questa nuova terra: "Terre dei vitelli"**. Infatti, nel dialetto "osco" di quelle popolazioni che vivevano nell'allora Italia meridionale, esisteva il termine di viteliu, trasformato in italo e italico dagli ellenofoni che abitavano sulla costa.
 
