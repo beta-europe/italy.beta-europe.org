@@ -27,3 +27,5 @@ L'identità nazionale, così come la si può intendere in un concetto che inglob
 Sono questi alcuni spunti di riflessione che emergono dalla ricerca portata avanti da Filippi, sono queste domande ed analisi che probabilmente pochi di noi si sono mai fatti e risposti. E se almeno un poco ti ho stuzzicato nella lettura, corri in libreria e rilassati sotto l'ombrellone con questo saggio molto stimolante.
 
 *Elisa Condini*
+
+Crediti immagine: Elisa Condini
