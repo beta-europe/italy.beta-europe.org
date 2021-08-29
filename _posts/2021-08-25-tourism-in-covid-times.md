@@ -68,3 +68,29 @@ Last but not least, **teaching the new generations** to respect the place and en
 ["Tourist where is your mask" painted on a wall in Valencia, Spain](https://unsplash.com/photos/MR9LtlgmNvk) by [Carmel Rossen](https://unsplash.com/@carmelrossen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 **References**
+
+[1] <https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate>
+
+[2] <https://www.reuters.com/world/europe/italy-breaks-up-fake-eu-covid-pass-schemes-2021-07-03/>
+
+[3] <https://www.theguardian.com/world/2021/jul/22/italy-covid-19-green-pass-vaccinations-restrictions>
+
+[4] <https://www.euronews.com/travel/2021/07/26/green-pass-which-countries-in-europe-do-you-need-one-for>
+
+[5] <https://www.theguardian.com/world/gallery/2020/apr/22/animals-roaming-streets-coronavirus-lockdown-photos>
+
+[6] <https://www.ecb.europa.eu/pub/economic%20bulletin/focus/2021/html/ecb.ebbox202008_05~405305b20b.en.html>
+
+[7] <https://www.europarl.europa.eu/news/en/press-room/20210322IPR00524/meps-demand-safe-and-clean-travel>
+
+[8] <https://reopen.europa.eu/en>
+
+[9] <https://tourism4sdgs.org/tourism-for-sdgs/tourism-and-sdgs/>
+
+[10] <https://www.unwto.org/>
+
+[11] <https://www.unwto.org/covid-19-highlights>
+
+[12] <https://www.unwto.org/covid-19-oneplanet-responsible-recovery>
+
+[13] <https://www.unwto.org/tourism-covid-19>
