@@ -36,9 +36,9 @@ For example, we made homemade food (like pizza or pasta) or we used cloth napkin
 
 Moreover, when we had the opportunity to go out again, we enjoyed a walk in our lands or in our mountains or even we enjoyed breathing some fresh air in our second-homes.
 
-Nevertheless this attitude became a routine, the world of the **tourism had an incredibly loss**\[6] **in 2020,** since there wasn't the possibility to go anywhere unless at our local villages and cities which we visited with other eyes, discovering again their beauty or hidden spots.
+Nevertheless this attitude became a routine, the world of the **tourism had an incredibly loss**[6](https://www.ecb.europa.eu/pub/economic%20bulletin/focus/2021/html/ecb.ebbox202008_05~405305b20b.en.html) **in 2020,** since there wasn't the possibility to go anywhere unless at our local villages and cities which we visited with other eyes, discovering again their beauty or hidden spots.
 
-But the issue of Tourism urged the MEPs more than ever to think on March 25^th^ 2021 a New European strategy to make tourism safer, cleaner and more sustainable for everyone[7](https://www.europarl.europa.eu/news/en/press-room/20210322IPR00524/meps-demand-safe-and-clean-travel), making digital instruments for it- **from the EU Digital Covid Certificate to the Re-open EU portal**[8](https://reopen.europa.eu/en).
+But the issue of Tourism urged the MEPs more than ever to think on March 25<sup>th</sup> 2021 a New European strategy to make tourism safer, cleaner and more sustainable for everyone[7](https://www.europarl.europa.eu/news/en/press-room/20210322IPR00524/meps-demand-safe-and-clean-travel), making digital instruments for it- **from the EU Digital Covid Certificate to the Re-open EU portal**[8](https://reopen.europa.eu/en).
 
 This path -- to make Tourism more sustainable and safer -- has started in 2015 with the agreement among world leaders on SDGs[9](https://tourism4sdgs.org/tourism-for-sdgs/tourism-and-sdgs/), but with the loss caused by the COVID-19 pandemic, also the UNWTO[10](https://www.unwto.org/) urged to rebuild tourism again[11](https://www.unwto.org/covid-19-highlights), in particular seeing sustainability as the new normal.
 
@@ -56,9 +56,17 @@ Surely, following the rules and **avoiding some bad habits** will help a lot, no
 
 Last but not least, **teaching the new generations** to respect the place and environment you are visiting, to think about sustainable and innovative solutions to preserve it and to make it more accessible to everyone.
 
-*Valeria Peruzzi*
+***Valeria Peruzzi***
 
-[1]: https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate\_en
+<hr/>
+
+**Cover Image Credits:**
+["Tourist where is your mask" painted on a wall in Valencia, Spain](https://unsplash.com/photos/MR9LtlgmNvk) by [Carmel Rossen](https://unsplash.com/@carmelrossen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
+**References**
+
+[1]: https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate
 
 [2]: https://www.reuters.com/world/europe/italy-breaks-up-fake-eu-covid-pass-schemes-2021-07-03/
 
