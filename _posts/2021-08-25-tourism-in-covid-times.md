@@ -1,7 +1,7 @@
 ---
 title: Tourism in Covid times
 excerpt: Tourism in Covid times
-date: 2021-08-26 01:06:02
+date: 2021-08-29 11:25:42
 toc: false
 comments: false
 share: true
