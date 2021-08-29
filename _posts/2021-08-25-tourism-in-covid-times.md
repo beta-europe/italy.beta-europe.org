@@ -22,7 +22,7 @@ Those changes badly affected the Tourism sector too, but solutions from governme
 
 One of the solutions taken by the EU countries in order to face the Pandemic is the **EU Digital COVID Certificate.**
 
-On the 20^th^ of May 2021, indeed, the Council of the European Union agreed on the EU Digital COVID Certificate which entered into force at European level on the 1^st^ of July 2021.
+On the 20<sup>th</sup> of May 2021, indeed, the Council of the European Union agreed on the EU Digital COVID Certificate which entered into force at European level on the 1<sup>st</sup> of July 2021.
 
 This certificate proves that a person has either been vaccinated against COVID-19, received a negative test result or has recovered from COVID-19. Moreover as it is written on the official European website [1](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) "When travelling, the EU Digital COVID Certificate holder should in principle be exempted from free movement restrictions: Member States should refrain from imposing additional travel restrictions on the holders of an EU Digital COVID Certificate, unless they are necessary and proportionate to safeguard public health".
 
