@@ -7,9 +7,12 @@ comments: false
 share: true
 published: false
 edit: false
+header:
+  teaser: /assets/images/boy-and-girl-answering-questions-rachel-o3tiy5piork-unsplash-800.jpg
 ---
 Ammettiamolo: tutti abbiamo odiato i compiti per le vacanze quando eravamo bambini o ragazzi, eppure il nuovo trend che spopola (anche sulle spiagge) è proprio "**Il quaderno delle vacanze per adulti**". Andiamo insieme a vedere di cosa si tratta.
 
+![Boy and girl answering questions on a white paper](/assets/images/boy-and-girl-answering-questions-rachel-o3tiy5piork-unsplash-800.jpg)
 
 Dopo quasi due anni in cui i dispositivi tecnologici sono passati per moltissimi da essere strumenti di svago a strumenti di lavoro, la maggior parte degli utenti adulti di dispositivi come smartphone e pc si può trovare a rischio di social e *digital dipendenza* (potete [approfondire il tema qui](https://www.medicitalia.it/blog/psicologia/4718-la-dipendenza-dallo-smartphone-e-il-bisogno-di-sentirsi-connessi.html) ) cosa può esserci per staccare un po' dagli schermi? I "Quaderni di compiti per le vacanze per adulti" !
 
