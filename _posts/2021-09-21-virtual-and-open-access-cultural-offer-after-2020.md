@@ -7,8 +7,12 @@ comments: false
 share: true
 published: false
 edit: false
+header:
+  teaser: /assets/images/library-shunya-koide-1emwndldhs0-unsplash-640.jpg
 ---
 *In the post-pandemic scenario society seems to move towards a more democratic approach to culture. What has changed from 2019, and what changes are necessary to ensure that this transition towards digital mediums won't be yet another privilege wealthiest countries have?*
+
+![brown wooden book shelves in library](/assets/images/library-shunya-koide-1emwndldhs0-unsplash-640.jpg)
 
 In his most famous work, *The City of the Sun*, philosopher Tommaso Campanella described an utopian city where the walls were not just means of defence but also means of education. They were covered by illustrations portraying mechanical, botanical, astronomical and mathematical concepts, like a life-sized illustrated encyclopedia. Nowadays, our society is far from the egalitarian utopia, yet any of us can virtually carry the entire human knowledge in the palm of its hand. Virtually, because, even though some progress has been made over time, it's still difficult to freely access most contents. Of course, academics and creators must be paid for their research and efforts, yet the pandemic has shown how a more **democratic approach** to knowledge is possible without sacrificing merits and credits.
 
@@ -21,6 +25,8 @@ Even **BookCity**, a cultural initiative organised by the city of Milan, **went 
 Online events allow to engage communities on a global scale, while open access resources (like e-books borrowed from an online library) are a safe way to enjoy content without resorting to piracy, the wrong, even though sometimes the only, answer to the problem of unequal access to cultural resources. This phenomenon, however, is just half of the problem: in fact, as the UN report underlines, "half of the world's population currently has **no access to the Internet**" adding that "\[the growing imbalance] **risks aggravating existing inequalities and** widening the creative and **technological gap** in the course of this digital transition, which is already well underway". UN Deputy Secretary-General Amina Mohammed last April warned the General Assembly that, without decisive action by the international community, the digital divide will become "the new face of inequality".
 
 If the infrastructure of the Web has let down many expectations concerning openness and transparency on the political side, this is less true on the cultural side. The wider audience offered by the internet and social media is not just a more efficient way to **spread ideas**, but also an opportunity to **engage communities** in an unprecedented way. Since curiosity and creativity drive development, on an economic and a human level, it is vital to work both on the digital divide and on ways to allow a more **equal access to scientific, literary and creative contents**, otherwise many of our efforts as international community will be in vain. Internet and AI technologies give us the opportunity to make experiences that transcend time and space, to become part of a wide and rich ensemble of scenarios, yet we can't forget those who are not even in the condition to send an email, for one can grow only as much as the means he possesses allow him to.
+
+***Elisa Brivio***
 
 Sources:
 
@@ -47,3 +53,6 @@ Online virtual tours:
 <https://museopoldipezzoli.it/tutti-gli-eventi/la-forma-del-tempo/>
 
 <https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/tour-virtuali-elenco.html>
+
+Image credits:
+[brown wooden book shelves in library](https://unsplash.com/photos/1emWndlDHs0) by [Shunya Koide](https://unsplash.com/@shunyakoide?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
