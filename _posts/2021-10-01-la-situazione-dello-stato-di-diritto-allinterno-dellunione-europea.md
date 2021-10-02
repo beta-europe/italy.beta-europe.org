@@ -5,7 +5,7 @@ date: 2021-10-01 10:16:22
 toc: false
 comments: false
 share: true
-published: false
+published: true
 edit: false
 header:
   teaser: /assets/images/guillaume-perigois-0nrkvdda2fw-unsplash-800.jpg
